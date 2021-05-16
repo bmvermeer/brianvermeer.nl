@@ -1,2 +1,0 @@
-# brianvermeer.nl
-brianvermeer.nl
