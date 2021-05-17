@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sun, 16 May 2021 20:34:40 +0000</pubDate>
-    <lastBuildDate>Sun, 16 May 2021 20:34:40 +0000</lastBuildDate>
+    <pubDate>Mon, 17 May 2021 06:18:11 +0000</pubDate>
+    <lastBuildDate>Mon, 17 May 2021 06:18:11 +0000</lastBuildDate>
 
     <item>
       <title>Snyk Maven plugin: Integrated security vulnerability scanning for ...</title>
@@ -490,6 +490,18 @@
 	</description>
     </item>
     <item>
+      <title>Java dependency management: how many lines of code does my ...</title>
+      <link>https://www.brianvermeer.nl/blog/generated/Snyk/Javadependencymanagementhowmanylinesofcodedoesmy.html</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/Javadependencymanagementhowmanylinesofcodedoesmy.html</guid>
+      	<description>
+	&lt;p&gt;A few weeks ago I had the opportunity to give a presentation for the Dutch Java Conference JSpring. The talk was about Java dependency management. &lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/java-dependency-management/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>Secure code review: Part 1 - Sanitize and validate all input</title>
       <link>https://www.brianvermeer.nl/blog/generated/Dev/SecurecodereviewPart1Sanitizeandvalidateallinput.html</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
@@ -522,6 +534,18 @@
 	&lt;p&gt;I have recently contributed to the Eclipse Collections framework by implementing a new datatype calle...&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://dev.to/brianverm/eclipse-collections-now-supports-triples-dkl&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Instant security information with the Snyk security badge</title>
+      <link>https://www.brianvermeer.nl/blog/generated/Snyk/InstantsecurityinformationwiththeSnyksecuritybadge.html</link>
+      <pubDate>Mon, 3 Aug 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/InstantsecurityinformationwiththeSnyksecuritybadge.html</guid>
+      	<description>
+	&lt;p&gt;We are excited to announce the Snyk security badge for open source libraries offering instant security information.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/instant-security-information-with-the-snyk-security-badge/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
