@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Thu, 20 May 2021 06:18:29 +0000</pubDate>
-    <lastBuildDate>Thu, 20 May 2021 06:18:29 +0000</lastBuildDate>
+    <pubDate>Fri, 21 May 2021 06:18:24 +0000</pubDate>
+    <lastBuildDate>Fri, 21 May 2021 06:18:24 +0000</lastBuildDate>
 
     <item>
       <title>Snyk Maven plugin: Integrated security vulnerability scanning for ...</title>
@@ -106,10 +106,10 @@
 	</description>
     </item>
     <item>
-      <title>Java configuration: how to prevent security misconfigurations</title>
-      <link>https://www.brianvermeer.nl/blog/generated/Snyk/Javaconfigurationhowtopreventsecuritymisconfigurations.html</link>
+      <title>[Snyk] Java configuration: how to prevent security misconfigurations</title>
+      <link>https://www.brianvermeer.nl/blog/generated/Snyk/SnykJavaconfigurationhowtopreventsecuritymisconfigurations.html</link>
       <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/Javaconfigurationhowtopreventsecuritymisconfigurations.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/SnykJavaconfigurationhowtopreventsecuritymisconfigurations.html</guid>
       	<description>
 	&lt;p&gt;Default settings are not always the safest Java configuration as they might disclose information that is interesting for intruders.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
@@ -466,6 +466,18 @@
 	</description>
     </item>
     <item>
+      <title>Java dependency management: how many lines of code does my ...</title>
+      <link>https://www.brianvermeer.nl/blog/generated/Snyk/Javadependencymanagementhowmanylinesofcodedoesmy.html</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/Javadependencymanagementhowmanylinesofcodedoesmy.html</guid>
+      	<description>
+	&lt;p&gt;A few weeks ago I had the opportunity to give a presentation for the Dutch Java Conference JSpring. The talk was about Java dependency management. &lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/java-dependency-management/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>Secure code review: Part 2 - Never store secrets as code</title>
       <link>https://www.brianvermeer.nl/blog/generated/Dev/SecurecodereviewPart2Neverstoresecretsascode.html</link>
       <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
@@ -486,18 +498,6 @@
 	&lt;p&gt;So how is your current sticker game in 2020 Show everyone how your laptop 💻 looks in 2020 and what yo...&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://dev.to/brianverm/how-is-your-sticker-game-in-2020-2dgm&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Java dependency management: how many lines of code does my ...</title>
-      <link>https://www.brianvermeer.nl/blog/generated/Snyk/Javadependencymanagementhowmanylinesofcodedoesmy.html</link>
-      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/Javadependencymanagementhowmanylinesofcodedoesmy.html</guid>
-      	<description>
-	&lt;p&gt;A few weeks ago I had the opportunity to give a presentation for the Dutch Java Conference JSpring. The talk was about Java dependency management. &lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/java-dependency-management/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -814,18 +814,6 @@
 	</description>
     </item>
     <item>
-      <title>Kotlin overtakes Scala and Clojure, to become the 2nd most popular ...</title>
-      <link>https://www.brianvermeer.nl/blog/generated/Snyk/KotlinovertakesScalaandClojuretobecomethe2ndmostpopular.html</link>
-      <pubDate>Tue, 4 Feb 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/KotlinovertakesScalaandClojuretobecomethe2ndmostpopular.html</guid>
-      	<description>
-	&lt;p&gt;Welcome to our annual JVM ecosystem report! This report presents the results of the largest annual survey on the JVM ecosystem, showing results from the&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/kotlin-overtakes-scala-and-clojure-to-become-the-2nd-most-popular-language-on-the-jvm/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Spring dominates the Java ecosystem with 60% using it for their ...</title>
       <link>https://www.brianvermeer.nl/blog/generated/Snyk/SpringdominatestheJavaecosystemwith60usingitfortheir.html</link>
       <pubDate>Tue, 4 Feb 2020 00:00:00 +0000</pubDate>
@@ -834,6 +822,18 @@
 	&lt;p&gt;Welcome to our annual JVM ecosystem report! This report presents the results of the largest annual survey on the JVM ecosystem, showing results from the&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/spring-dominates-the-java-ecosystem-with-60-using-it-for-their-main-applications/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Kotlin overtakes Scala and Clojure, to become the 2nd most popular ...</title>
+      <link>https://www.brianvermeer.nl/blog/generated/Snyk/KotlinovertakesScalaandClojuretobecomethe2ndmostpopular.html</link>
+      <pubDate>Tue, 4 Feb 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/KotlinovertakesScalaandClojuretobecomethe2ndmostpopular.html</guid>
+      	<description>
+	&lt;p&gt;Welcome to our annual JVM ecosystem report! This report presents the results of the largest annual survey on the JVM ecosystem, showing results from the&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/kotlin-overtakes-scala-and-clojure-to-become-the-2nd-most-popular-language-on-the-jvm/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -994,18 +994,6 @@
 	</description>
     </item>
     <item>
-      <title>Shifting Docker security left | Snyk</title>
-      <link>https://www.brianvermeer.nl/blog/generated/Snyk/ShiftingDockersecurityleftSnyk.html</link>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/ShiftingDockersecurityleftSnyk.html</guid>
-      	<description>
-	&lt;p&gt;As more organizations create, spread and use Docker containers, the risk of security vulnerabilities grows. Docker images are largely built on top of other images, meaning a vulnerability in one image is also present in all the images that utilize it. The wide adoption of Docker comes at a price — a single vulnerability can be widely spread and have major impact.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/shifting-docker-security-left/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Take actions to improve security in your Docker images | Snyk</title>
       <link>https://www.brianvermeer.nl/blog/generated/Snyk/TakeactionstoimprovesecurityinyourDockerimagesSnyk.html</link>
       <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
@@ -1026,6 +1014,18 @@
 	&lt;p&gt;Or download our lovely handcrafted pdf report which contains all of this information and more in one place:&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/the-top-two-most-popular-docker-base-images-each-have-over-500-vulnerabilities/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Shifting Docker security left | Snyk</title>
+      <link>https://www.brianvermeer.nl/blog/generated/Snyk/ShiftingDockersecurityleftSnyk.html</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/ShiftingDockersecurityleftSnyk.html</guid>
+      	<description>
+	&lt;p&gt;As more organizations create, spread and use Docker containers, the risk of security vulnerabilities grows. Docker images are largely built on top of other images, meaning a vulnerability in one image is also present in all the images that utilize it. The wide adoption of Docker comes at a price — a single vulnerability can be widely spread and have major impact.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/shifting-docker-security-left/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
