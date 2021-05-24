@@ -121,10 +121,6 @@
         <lastmod>2020-09-18</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/FixingvulnerabilitiesinMavenprojectsSnyk.html</loc>
-        <lastmod>2020-09-13</lastmod>
-    </url>
-    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Dev/ExceptionHandlinginJavaStreams.html</loc>
         <lastmod>2020-09-11</lastmod>
     </url>
@@ -205,11 +201,11 @@
         <lastmod>2020-06-07</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/Javaturns25aginglikefinewineormorelikemilkSnyk.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SumListofnumbersinJavaSnyk.html</loc>
         <lastmod>2020-05-21</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SumListofnumbersinJavaSnyk.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/Javaturns25aginglikefinewineormorelikemilkSnyk.html</loc>
         <lastmod>2020-05-21</lastmod>
     </url>
     <url>
@@ -281,11 +277,11 @@
         <lastmod>2020-02-04</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SpringdominatestheJavaecosystemwith60usingitfortheir.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/KotlinovertakesScalaandClojuretobecomethe2ndmostpopular.html</loc>
         <lastmod>2020-02-04</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/KotlinovertakesScalaandClojuretobecomethe2ndmostpopular.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SpringdominatestheJavaecosystemwith60usingitfortheir.html</loc>
         <lastmod>2020-02-04</lastmod>
     </url>
     <url>
@@ -341,6 +337,10 @@
         <lastmod>2019-04-16</lastmod>
     </url>
     <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/ShiftingDockersecurityleftSnyk.html</loc>
+        <lastmod>2019-04-16</lastmod>
+    </url>
+    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/TakeactionstoimprovesecurityinyourDockerimagesSnyk.html</loc>
         <lastmod>2019-04-16</lastmod>
     </url>
@@ -349,15 +349,11 @@
         <lastmod>2019-04-16</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/ShiftingDockersecurityleftSnyk.html</loc>
-        <lastmod>2019-04-16</lastmod>
-    </url>
-    <url>
-        <loc>https://www.brianvermeer.nl/blog/manual/optional_what_else.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/manual/Exception_Handling_in_Java_Streams.html</loc>
         <lastmod>2018-01-03</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/manual/Exception_Handling_in_Java_Streams.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/manual/optional_what_else.html</loc>
         <lastmod>2018-01-03</lastmod>
     </url>
     <url>
