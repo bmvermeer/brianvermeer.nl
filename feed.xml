@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Tue, 25 May 2021 06:28:30 +0000</pubDate>
-    <lastBuildDate>Tue, 25 May 2021 06:28:30 +0000</lastBuildDate>
+    <pubDate>Wed, 26 May 2021 06:36:27 +0000</pubDate>
+    <lastBuildDate>Wed, 26 May 2021 06:36:27 +0000</lastBuildDate>
 
     <item>
       <title>Snyk Maven plugin: Integrated security vulnerability scanning for ...</title>
@@ -586,18 +586,6 @@
 	</description>
     </item>
     <item>
-      <title>Java turns 25—aging like fine wine or more like milk? | Snyk</title>
-      <link>https://www.brianvermeer.nl/blog/generated/Snyk/Javaturns25aginglikefinewineormorelikemilkSnyk.html</link>
-      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/Javaturns25aginglikefinewineormorelikemilkSnyk.html</guid>
-      	<description>
-	&lt;p&gt;On May 23, 1995, Sun Microsystems released Java. This means that Java turns 25 years old and that is something we need to celebrate! Let&apos;s try to decide if Java aged like fine wine or more like milk.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/java-turns-25/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Sum List of numbers in Java | Snyk</title>
       <link>https://www.brianvermeer.nl/blog/generated/Snyk/SumListofnumbersinJavaSnyk.html</link>
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
@@ -606,6 +594,18 @@
 	&lt;p&gt;Sum List of numbers in Java. I needed to simply get the sum of a List of numbers and I found out there are a number of ways—pun intended—to do this.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/sum-list-of-numbers-in-java/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Java turns 25—aging like fine wine or more like milk? | Snyk</title>
+      <link>https://www.brianvermeer.nl/blog/generated/Snyk/Javaturns25aginglikefinewineormorelikemilkSnyk.html</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/Javaturns25aginglikefinewineormorelikemilkSnyk.html</guid>
+      	<description>
+	&lt;p&gt;On May 23, 1995, Sun Microsystems released Java. This means that Java turns 25 years old and that is something we need to celebrate! Let&apos;s try to decide if Java aged like fine wine or more like milk.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/java-turns-25/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -814,18 +814,6 @@
 	</description>
     </item>
     <item>
-      <title>Spring dominates the Java ecosystem with 60% using it for their ...</title>
-      <link>https://www.brianvermeer.nl/blog/generated/Snyk/SpringdominatestheJavaecosystemwith60usingitfortheir.html</link>
-      <pubDate>Tue, 4 Feb 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/SpringdominatestheJavaecosystemwith60usingitfortheir.html</guid>
-      	<description>
-	&lt;p&gt;Welcome to our annual JVM ecosystem report! This report presents the results of the largest annual survey on the JVM ecosystem, showing results from the&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/spring-dominates-the-java-ecosystem-with-60-using-it-for-their-main-applications/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Kotlin overtakes Scala and Clojure, to become the 2nd most popular ...</title>
       <link>https://www.brianvermeer.nl/blog/generated/Snyk/KotlinovertakesScalaandClojuretobecomethe2ndmostpopular.html</link>
       <pubDate>Tue, 4 Feb 2020 00:00:00 +0000</pubDate>
@@ -834,6 +822,18 @@
 	&lt;p&gt;Welcome to our annual JVM ecosystem report! This report presents the results of the largest annual survey on the JVM ecosystem, showing results from the&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/kotlin-overtakes-scala-and-clojure-to-become-the-2nd-most-popular-language-on-the-jvm/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Spring dominates the Java ecosystem with 60% using it for their ...</title>
+      <link>https://www.brianvermeer.nl/blog/generated/Snyk/SpringdominatestheJavaecosystemwith60usingitfortheir.html</link>
+      <pubDate>Tue, 4 Feb 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/SpringdominatestheJavaecosystemwith60usingitfortheir.html</guid>
+      	<description>
+	&lt;p&gt;Welcome to our annual JVM ecosystem report! This report presents the results of the largest annual survey on the JVM ecosystem, showing results from the&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/spring-dominates-the-java-ecosystem-with-60-using-it-for-their-main-applications/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -922,18 +922,6 @@
 	</description>
     </item>
     <item>
-      <title>Jackson Deserialization Vulnerability | Snyk</title>
-      <link>https://www.brianvermeer.nl/blog/generated/Snyk/JacksonDeserializationVulnerabilitySnyk.html</link>
-      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/JacksonDeserializationVulnerabilitySnyk.html</guid>
-      	<description>
-	&lt;p&gt;On July 29th, 2019 a high severity Deserialization of Untrusted Data vulnerability ( CVE-2019-14379, CVE-2019-14439) affecting all versions of&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/jackson-deserialization-vulnerability/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Optional .... what else?</title>
       <link>https://www.brianvermeer.nl/blog/generated/Dev/Optionalwhatelse.html</link>
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
@@ -994,6 +982,18 @@
 	</description>
     </item>
     <item>
+      <title>Shifting Docker security left | Snyk</title>
+      <link>https://www.brianvermeer.nl/blog/generated/Snyk/ShiftingDockersecurityleftSnyk.html</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/ShiftingDockersecurityleftSnyk.html</guid>
+      	<description>
+	&lt;p&gt;As more organizations create, spread and use Docker containers, the risk of security vulnerabilities grows. Docker images are largely built on top of other images, meaning a vulnerability in one image is also present in all the images that utilize it. The wide adoption of Docker comes at a price — a single vulnerability can be widely spread and have major impact.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/shifting-docker-security-left/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>Take actions to improve security in your Docker images | Snyk</title>
       <link>https://www.brianvermeer.nl/blog/generated/Snyk/TakeactionstoimprovesecurityinyourDockerimagesSnyk.html</link>
       <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
@@ -1018,14 +1018,15 @@
 	</description>
     </item>
     <item>
-      <title>Shifting Docker security left | Snyk</title>
-      <link>https://www.brianvermeer.nl/blog/generated/Snyk/ShiftingDockersecurityleftSnyk.html</link>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/ShiftingDockersecurityleftSnyk.html</guid>
+      <title>Exception Handling in Java Streams</title>
+      <link>https://www.brianvermeer.nl/blog/manual/Exception_Handling_in_Java_Streams.html</link>
+      <pubDate>Wed, 3 Jan 2018 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/manual/Exception_Handling_in_Java_Streams.html</guid>
       	<description>
-	&lt;p&gt;As more organizations create, spread and use Docker containers, the risk of security vulnerabilities grows. Docker images are largely built on top of other images, meaning a vulnerability in one image is also present in all the images that utilize it. The wide adoption of Docker comes at a price — a single vulnerability can be widely spread and have major impact.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/shifting-docker-security-left/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+	&lt;p&gt;When you want to use a method that throws a checkedException, you have to do something extra if you want to call it in a lambda.&lt;/p&gt;
+&lt;p&gt;The Stream API and lambda’s where a big improvement in Java since version 8. From that point on, we could work with a more functional syntax style. Now, after a few years of working with these code constructions, one of the bigger issues that remain is how to deal with checked exceptions inside a lambda.&lt;br /&gt;
+...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://dzone.com/articles/optionalwhat-else&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1037,19 +1038,6 @@
       	<description>
 	&lt;p&gt;Optional comes with number of toys to play with. Here, we focus on how to properly use orElse, orElseGet, and other ways to make Optionals work for you.&lt;/p&gt;
 &lt;p&gt;Optional is in some ways, the Java implementation of the Maybe monad. Don’t get scared by the ‘M’ word. It is simply an encapsulation to handle a specific case of a type — in this case, the possibility of a null value. Just consider it a wrapper to force the user to check if the value is present or not.&lt;br /&gt;
-...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://dzone.com/articles/optionalwhat-else&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Exception Handling in Java Streams</title>
-      <link>https://www.brianvermeer.nl/blog/manual/Exception_Handling_in_Java_Streams.html</link>
-      <pubDate>Wed, 3 Jan 2018 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/manual/Exception_Handling_in_Java_Streams.html</guid>
-      	<description>
-	&lt;p&gt;When you want to use a method that throws a checkedException, you have to do something extra if you want to call it in a lambda.&lt;/p&gt;
-&lt;p&gt;The Stream API and lambda’s where a big improvement in Java since version 8. From that point on, we could work with a more functional syntax style. Now, after a few years of working with these code constructions, one of the bigger issues that remain is how to deal with checked exceptions inside a lambda.&lt;br /&gt;
 ...&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://dzone.com/articles/optionalwhat-else&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
