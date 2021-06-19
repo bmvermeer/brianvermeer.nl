@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>https://www.brianvermeer.nl/publications.html</loc>
-        <lastmod>2021-06-18</lastmod>
+        <lastmod>2021-06-19</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/index.html</loc>
@@ -25,7 +25,7 @@
         <lastmod>2021-04-06</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/5waystopreventcodeinjectioninJavaScriptandNodejsSnyk.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/5waystopreventcodeinjectioninJavaScriptandNodejs.html</loc>
         <lastmod>2021-04-04</lastmod>
     </url>
     <url>
@@ -33,15 +33,15 @@
         <lastmod>2021-03-29</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SQLinjectioncheatsheet8bestpracticestopreventSQLSnyk.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SQLinjectioncheatsheet8bestpracticestopreventSQLinjection.html</loc>
         <lastmod>2021-03-25</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SolvingJavasecurityissuesinmySpringMVCapplicationSnyk.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SolvingJavasecurityissuesinaSpringMVCappSnyk.html</loc>
         <lastmod>2021-03-14</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JavaconfigurationhowtopreventsecuritymisconfigurationsSnyk.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SnykJavaconfigurationhowtopreventsecuritymisconfigurations.html</loc>
         <lastmod>2021-02-25</lastmod>
     </url>
     <url>
@@ -161,15 +161,15 @@
         <lastmod>2020-08-12</lastmod>
     </url>
     <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/Javadependencymanagementhowmanylinesofcodedoesmy.html</loc>
+        <lastmod>2020-08-11</lastmod>
+    </url>
+    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Dev/SecurecodereviewPart2Neverstoresecretsascode.html</loc>
         <lastmod>2020-08-11</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Dev/Howisyourstickergamein2020.html</loc>
-        <lastmod>2020-08-11</lastmod>
-    </url>
-    <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/Javadependencymanagementhowmanylinesofcodedoesmy.html</loc>
         <lastmod>2020-08-11</lastmod>
     </url>
     <url>
@@ -277,11 +277,11 @@
         <lastmod>2020-02-04</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/KotlinovertakesScalaandClojuretobecomethe2ndmostpopular.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SpringdominatestheJavaecosystemwith60usingitfortheir.html</loc>
         <lastmod>2020-02-04</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SpringdominatestheJavaecosystemwith60usingitfortheir.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/KotlinovertakesScalaandClojuretobecomethe2ndmostpopular.html</loc>
         <lastmod>2020-02-04</lastmod>
     </url>
     <url>
@@ -337,15 +337,15 @@
         <lastmod>2019-04-16</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/ShiftingDockersecurityleftSnyk.html</loc>
-        <lastmod>2019-04-16</lastmod>
-    </url>
-    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/TakeactionstoimprovesecurityinyourDockerimagesSnyk.html</loc>
         <lastmod>2019-04-16</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/ThetoptwomostpopularDockerbaseimageseachhaveover500.html</loc>
+        <lastmod>2019-04-16</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/ShiftingDockersecurityleftSnyk.html</loc>
         <lastmod>2019-04-16</lastmod>
     </url>
     <url>
