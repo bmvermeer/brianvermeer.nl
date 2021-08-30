@@ -13,12 +13,16 @@
         <lastmod>2021-08-26</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/BrianVermeernamedoneofBusinessInsiders21TopDevelopers.html</loc>
-        <lastmod>2021-08-02</lastmod>
+        <loc>https://www.brianvermeer.nl/blog/manual/Snyk_Social_Trends.html</loc>
+        <lastmod>2021-08-18</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/manual/Maven381.html</loc>
-        <lastmod>2021-07-19</lastmod>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/HowSnykSocialTrendshelpyoufixessentialsecurityvulnerabilities.html</loc>
+        <lastmod>2021-08-17</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/BrianVermeernamedoneofBusinessInsiders21TopDevelopers.html</loc>
+        <lastmod>2021-08-02</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/WhyyoushouldupgradetoMavenversion381Snyk.html</loc>
@@ -297,11 +301,11 @@
         <lastmod>2020-06-07</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SumListofnumbersinJavaSnyk.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/Javaturns25aginglikefinewineormorelikemilkSnyk.html</loc>
         <lastmod>2020-05-21</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/Javaturns25aginglikefinewineormorelikemilkSnyk.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SumListofnumbersinJavaSnyk.html</loc>
         <lastmod>2020-05-21</lastmod>
     </url>
     <url>
@@ -365,15 +369,15 @@
         <lastmod>2020-02-04</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/KotlinovertakesScalaandClojuretobecomethe2ndmostpopular.html</loc>
-        <lastmod>2020-02-04</lastmod>
-    </url>
-    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JVMEcosystemReport2020Snyk.html</loc>
         <lastmod>2020-02-04</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SpringdominatestheJavaecosystemwith60usingitfortheir.html</loc>
+        <lastmod>2020-02-04</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/KotlinovertakesScalaandClojuretobecomethe2ndmostpopular.html</loc>
         <lastmod>2020-02-04</lastmod>
     </url>
     <url>
@@ -425,14 +429,6 @@
         <lastmod>2019-07-24</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/ThetoptwomostpopularDockerbaseimageseachhaveover500.html</loc>
-        <lastmod>2019-04-16</lastmod>
-    </url>
-    <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/80ofdevelopersarenotaddressingDockersecuritySnyk.html</loc>
-        <lastmod>2019-04-16</lastmod>
-    </url>
-    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/ShiftingDockersecurityleftSnyk.html</loc>
         <lastmod>2019-04-16</lastmod>
     </url>
@@ -441,11 +437,19 @@
         <lastmod>2019-04-16</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/manual/Exception_Handling_in_Java_Streams.html</loc>
-        <lastmod>2018-01-03</lastmod>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/80ofdevelopersarenotaddressingDockersecuritySnyk.html</loc>
+        <lastmod>2019-04-16</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/ThetoptwomostpopularDockerbaseimageseachhaveover500.html</loc>
+        <lastmod>2019-04-16</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/manual/optional_what_else.html</loc>
+        <lastmod>2018-01-03</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/manual/Exception_Handling_in_Java_Streams.html</loc>
         <lastmod>2018-01-03</lastmod>
     </url>
     <url>
