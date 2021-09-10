@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>https://www.brianvermeer.nl/publications.html</loc>
-        <lastmod>2021-09-09</lastmod>
+        <lastmod>2021-09-10</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/index.html</loc>
@@ -381,10 +381,6 @@
         <lastmod>2020-02-04</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/ThecostofasecuritybreachSnyk.html</loc>
-        <lastmod>2020-01-21</lastmod>
-    </url>
-    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Dev/UsestrongencryptionandhashingalgorithmsinJava.html</loc>
         <lastmod>2019-12-24</lastmod>
     </url>
@@ -437,19 +433,19 @@
         <lastmod>2019-04-16</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/80ofdevelopersarenotaddressingDockersecuritySnyk.html</loc>
-        <lastmod>2019-04-16</lastmod>
-    </url>
-    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/ThetoptwomostpopularDockerbaseimageseachhaveover500.html</loc>
         <lastmod>2019-04-16</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/manual/optional_what_else.html</loc>
-        <lastmod>2018-01-03</lastmod>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/80ofdevelopersarenotaddressingDockersecuritySnyk.html</loc>
+        <lastmod>2019-04-16</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/manual/Exception_Handling_in_Java_Streams.html</loc>
+        <lastmod>2018-01-03</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/manual/optional_what_else.html</loc>
         <lastmod>2018-01-03</lastmod>
     </url>
     <url>
