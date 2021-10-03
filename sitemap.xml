@@ -13,6 +13,10 @@
         <lastmod>2021-08-25</lastmod>
     </url>
     <url>
+        <loc>https://www.brianvermeer.nl/blog/manual/security-in-geding-bij-infrastructure-as-code.html</loc>
+        <lastmod>2021-08-24</lastmod>
+    </url>
+    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/HowSnykSocialTrendshelpyoufixessentialsecurityvulnerabilities.html</loc>
         <lastmod>2021-08-17</lastmod>
     </url>
@@ -59,6 +63,10 @@
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Foojay/SanitizeAllInputfoojay.html</loc>
         <lastmod>2021-05-12</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/manual/zo-leg-je-fundament-van-productieve-devsecops-cultuur.html</loc>
+        <lastmod>2021-05-11</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Foojay/PreventingYAMLParsingVulnerabilitiesinJavafoojay.html</loc>
