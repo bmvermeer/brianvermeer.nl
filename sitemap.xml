@@ -2,11 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>https://www.brianvermeer.nl/publications.html</loc>
-        <lastmod>2021-11-13</lastmod>
+        <lastmod>2021-11-14</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/index.html</loc>
         <lastmod>2021-06-01</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/BestpracticesforcontainerizingPythonapplicationswithDocker.html</loc>
+        <lastmod>2021-11-11</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Foojay/HowSocialTrendsHelpMeFixEssentialVulnerabilitiesFoojayio.html</loc>
@@ -389,11 +393,11 @@
         <lastmod>2020-02-04</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/IntelliJIDEAdominatestheIDEmarketwith62adoptionamong.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/KotlinovertakesScalaandClojuretobecomethe2ndmostpopular.html</loc>
         <lastmod>2020-02-04</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JVMEcosystemReport2020Snyk.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SpringdominatestheJavaecosystemwith60usingitfortheir.html</loc>
         <lastmod>2020-02-04</lastmod>
     </url>
     <url>
@@ -401,11 +405,11 @@
         <lastmod>2020-02-04</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/KotlinovertakesScalaandClojuretobecomethe2ndmostpopular.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/IntelliJIDEAdominatestheIDEmarketwith62adoptionamong.html</loc>
         <lastmod>2020-02-04</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SpringdominatestheJavaecosystemwith60usingitfortheir.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JVMEcosystemReport2020Snyk.html</loc>
         <lastmod>2020-02-04</lastmod>
     </url>
     <url>
@@ -457,7 +461,11 @@
         <lastmod>2019-07-24</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/ThetoptwomostpopularDockerbaseimageseachhaveover500.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/ShiftingDockersecurityleftSnyk.html</loc>
+        <lastmod>2019-04-16</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/TakeactionstoimprovesecurityinyourDockerimagesSnyk.html</loc>
         <lastmod>2019-04-16</lastmod>
     </url>
     <url>
@@ -465,11 +473,7 @@
         <lastmod>2019-04-16</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/ShiftingDockersecurityleftSnyk.html</loc>
-        <lastmod>2019-04-16</lastmod>
-    </url>
-    <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/TakeactionstoimprovesecurityinyourDockerimagesSnyk.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/ThetoptwomostpopularDockerbaseimageseachhaveover500.html</loc>
         <lastmod>2019-04-16</lastmod>
     </url>
     <url>
