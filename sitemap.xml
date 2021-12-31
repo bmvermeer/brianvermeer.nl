@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>https://www.brianvermeer.nl/publications.html</loc>
-        <lastmod>2021-12-30</lastmod>
+        <lastmod>2021-12-31</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/index.html</loc>
@@ -109,10 +109,6 @@
         <lastmod>2021-04-19</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/8BestPracticestoPreventSQLInjectionAttacksfoojay.html</loc>
-        <lastmod>2021-04-14</lastmod>
-    </url>
-    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Dev/PreventingYAMLparsingissuesinJava.html</loc>
         <lastmod>2021-04-08</lastmod>
     </url>
@@ -169,10 +165,6 @@
         <lastmod>2021-02-14</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/ExplainingJavaDeserializationVulnerabilitiesPart2foojay.html</loc>
-        <lastmod>2021-01-27</lastmod>
-    </url>
-    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/IdentifyprioritizeandfixvulnerabilitieswithReachable.html</loc>
         <lastmod>2021-01-27</lastmod>
     </url>
@@ -193,6 +185,10 @@
         <lastmod>2020-12-23</lastmod>
     </url>
     <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/SerializationanddeserializationinJavaSnykBlog.html</loc>
+        <lastmod>2020-12-17</lastmod>
+    </url>
+    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SerializationanddeserializationinJavaSnykBlog.html</loc>
         <lastmod>2020-12-17</lastmod>
     </url>
@@ -203,6 +199,10 @@
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Dev/PodcastBarcodingpodcastEpisode13Security.html</loc>
         <lastmod>2020-12-04</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/8BestPracticestoPreventSQLInjectionAttacksfoojay.html</loc>
+        <lastmod>2020-11-30</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SnykCLIcheatsheetSnyk.html</loc>
