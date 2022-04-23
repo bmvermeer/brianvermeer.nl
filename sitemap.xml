@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>https://www.brianvermeer.nl/publications.html</loc>
-        <lastmod>2022-04-22</lastmod>
+        <lastmod>2022-04-23</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/index.html</loc>
@@ -26,7 +26,7 @@
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/HowtodopasswordhashinginJavaapplicationstherightwaySnyk.html</loc>
-        <lastmod>2022-03-16</lastmod>
+        <lastmod>2022-03-23</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Foojay/SecurityWarningYourJavaAttackSurfaceJustGotBiggerFoojayio.html</loc>
@@ -145,6 +145,10 @@
         <lastmod>2021-04-19</lastmod>
     </url>
     <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/8BestPracticestoPreventSQLInjectionAttacksfoojay.html</loc>
+        <lastmod>2021-04-14</lastmod>
+    </url>
+    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Dev/PreventingYAMLparsingissuesinJava.html</loc>
         <lastmod>2021-04-08</lastmod>
     </url>
@@ -235,10 +239,6 @@
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Foojay/FixJavaSecurityIssuesWhileCodinginIntelliJIDEAfoojay.html</loc>
         <lastmod>2020-12-01</lastmod>
-    </url>
-    <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/8BestPracticestoPreventSQLInjectionAttacksfoojay.html</loc>
-        <lastmod>2020-11-30</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SnykCLIcheatsheetSnyk.html</loc>
