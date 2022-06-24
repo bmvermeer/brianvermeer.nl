@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8"/>
-    <title>Security Warning: Your Java Attack Surface Just Got Bigger</title>
+    <title>Deserialization exploits in Java: why should I care?</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="Brian Vermeer">
@@ -58,17 +58,16 @@
     <div class="container">
 
 	<div class="page-header">
-		<h1>🇵🇱 Devoxx Poland 2022</h1>
-		<h1>Security Warning: Your Java Attack Surface Just Got Bigger</h1>
+		<h1>🇺🇸 KCDC 2022</h1>
+		<h1>Deserialization exploits in Java: why should I care?</h1>
 	</div>
 
-	<p><em>23 June 2022</em></p>
+	<p><em>09 August 2022</em></p>
 
-	<p><p>Building cloud-native Java applications is undoubtedly awesome.</p>
-<p>However, it comes with undeniable new risks. Next to your own code, you are relying on so many other things.</p>
-<p>Blindly depending on open-source libraries and Docker images can form a massive risk for your application. The wrong package can introduce severe vulnerabilities into your application, exposing your application and your user's data.</p>
-<p>In the talk below we’ll show common threats, vulnerabilities, and misconfiguration including the recently disclosed issues in Log4j. Most importantly, you’ll learn how to protect your application with actionable remediation and best practices.</p>
-<p><a href="https://devoxx.pl/talk-details/?id=8013">Link</a></p>
+	<p><p>Hackers refer to deserialization in Java as “the gift that keeps on giving”. But what is actually the problem? In most cases, it is not even your own code that creates this security vulnerability. This problem is also not restricted to Java’s custom serialization framework. When deserializing JSON, XML, or YAML, similar issues can occur as well.</p>
+<p>In this talk, I explain how deserialization vulnerabilities work natively in Java and how attack chains are created. Next, I will show that deserializing XML, JSON, and YAML can also get you into trouble. Many different problems can occur when deserializing data, think about the recently discovered problems with log4j. In this session I will use several demos to illustrate various security issues.</p>
+<p>How do you avoid these issues? I will give you some pointers on how to mitigate these problems in your own applications. At the end of this session, you will have an understanding of the problem space and be able to take action in your code to prevent it.</p>
+<p><a href="https://www.kcdc.info/agenda">Link</a></p>
 </p>
 
 
