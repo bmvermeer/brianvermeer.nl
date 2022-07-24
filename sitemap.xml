@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>https://www.brianvermeer.nl/publications.html</loc>
-        <lastmod>2022-07-23</lastmod>
+        <lastmod>2022-07-24</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/index.html</loc>
@@ -267,10 +267,6 @@
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/GitcheckoutremotebranchhowitworksandwhentouseSnykBlog.html</loc>
         <lastmod>2020-12-14</lastmod>
-    </url>
-    <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/MinimizingSecurityRisksinApplicationDevelopmentfoojay.html</loc>
-        <lastmod>2020-12-07</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Dev/PodcastBarcodingpodcastEpisode13Security.html</loc>
@@ -567,6 +563,10 @@
     <url>
         <loc>https://www.brianvermeer.nl/blog/manual/optional_what_else.html</loc>
         <lastmod>2018-01-03</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/MinimizingSecurityRisksinApplicationDevelopmentfoojay.html</loc>
+        <lastmod>2001-01-31</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/videos.html</loc>
