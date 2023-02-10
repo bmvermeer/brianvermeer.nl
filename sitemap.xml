@@ -5,6 +5,10 @@
         <lastmod>2023-02-10</lastmod>
     </url>
     <url>
+        <loc>https://www.brianvermeer.nl/talks.html</loc>
+        <lastmod>2021-09-18</lastmod>
+    </url>
+    <url>
         <loc>https://www.brianvermeer.nl/index.html</loc>
         <lastmod>2021-06-01</lastmod>
     </url>
@@ -13,11 +17,11 @@
         <lastmod>2022-12-20</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Dev/UnsafedeserializationvulnerabilityinSnakeYamlCVE20221471.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/ExploringtheSpringSecurityauthorizationbypassCVE2022.html</loc>
         <lastmod>2022-12-14</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/ExploringtheSpringSecurityauthorizationbypassCVE2022.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Dev/UnsafedeserializationvulnerabilityinSnakeYamlCVE20221471.html</loc>
         <lastmod>2022-12-14</lastmod>
     </url>
     <url>
@@ -337,11 +341,11 @@
         <lastmod>2020-08-11</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Dev/SecurecodereviewPart1Sanitizeandvalidateallinput.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Dev/FeedbackaskedCallingallJSdevelopersusingVSCode.html</loc>
         <lastmod>2020-08-10</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Dev/FeedbackaskedCallingallJSdevelopersusingVSCode.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Dev/SecurecodereviewPart1Sanitizeandvalidateallinput.html</loc>
         <lastmod>2020-08-10</lastmod>
     </url>
     <url>
@@ -365,11 +369,11 @@
         <lastmod>2020-06-07</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/Javaturns25aginglikefinewineormorelikemilkSnyk.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SumListofnumbersinJavaSnyk.html</loc>
         <lastmod>2020-05-21</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SumListofnumbersinJavaSnyk.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/Javaturns25aginglikefinewineormorelikemilkSnyk.html</loc>
         <lastmod>2020-05-21</lastmod>
     </url>
     <url>
@@ -425,15 +429,7 @@
         <lastmod>2020-02-04</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/36ofdevelopersswitchedfromOracleJDKtoanalternate.html</loc>
-        <lastmod>2020-02-04</lastmod>
-    </url>
-    <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/IntelliJIDEAdominatestheIDEmarketwith62adoptionamong.html</loc>
-        <lastmod>2020-02-04</lastmod>
-    </url>
-    <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JVMEcosystemReport2020Snyk.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SpringdominatestheJavaecosystemwith60usingitfortheir.html</loc>
         <lastmod>2020-02-04</lastmod>
     </url>
     <url>
@@ -441,7 +437,15 @@
         <lastmod>2020-02-04</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SpringdominatestheJavaecosystemwith60usingitfortheir.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JVMEcosystemReport2020Snyk.html</loc>
+        <lastmod>2020-02-04</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/IntelliJIDEAdominatestheIDEmarketwith62adoptionamong.html</loc>
+        <lastmod>2020-02-04</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/36ofdevelopersswitchedfromOracleJDKtoanalternate.html</loc>
         <lastmod>2020-02-04</lastmod>
     </url>
     <url>
@@ -493,11 +497,7 @@
         <lastmod>2019-07-24</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/80ofdevelopersarenotaddressingDockersecuritySnyk.html</loc>
-        <lastmod>2019-04-16</lastmod>
-    </url>
-    <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/ShiftingDockersecurityleftSnyk.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/ThetoptwomostpopularDockerbaseimageseachhaveover500.html</loc>
         <lastmod>2019-04-16</lastmod>
     </url>
     <url>
@@ -505,15 +505,23 @@
         <lastmod>2019-04-16</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/ThetoptwomostpopularDockerbaseimageseachhaveover500.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/ShiftingDockersecurityleftSnyk.html</loc>
         <lastmod>2019-04-16</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/manual/Exception_Handling_in_Java_Streams.html</loc>
-        <lastmod>2018-01-03</lastmod>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/80ofdevelopersarenotaddressingDockersecuritySnyk.html</loc>
+        <lastmod>2019-04-16</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/manual/Catching-Vulnerabilities-Instantly-in-Your-IntelliJ-IDEA-Environment.html</loc>
+        <lastmod>2019-03-22</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/manual/optional_what_else.html</loc>
+        <lastmod>2018-01-03</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/manual/Exception_Handling_in_Java_Streams.html</loc>
         <lastmod>2018-01-03</lastmod>
     </url>
     <url>
@@ -543,10 +551,6 @@
     <url>
         <loc>https://www.brianvermeer.nl/video/gradleplugin.html</loc>
         <lastmod>2020-10-15</lastmod>
-    </url>
-    <url>
-        <loc>https://www.brianvermeer.nl/talks.html</loc>
-        <lastmod>2021-09-18</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/talks/2022/KCDC2022.html</loc>
