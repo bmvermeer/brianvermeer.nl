@@ -6,7 +6,7 @@
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/talks.html</loc>
-        <lastmod>2021-09-18</lastmod>
+        <lastmod>2023-02-10</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/index.html</loc>
@@ -529,12 +529,24 @@
         <lastmod>2021-05-16</lastmod>
     </url>
     <url>
+        <loc>https://www.brianvermeer.nl/video/JavaOne2022.html</loc>
+        <lastmod>2022-10-19</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/video/DevopsSpeakeasy_Devoxxma.html</loc>
+        <lastmod>2022-10-05</lastmod>
+    </url>
+    <url>
         <loc>https://www.brianvermeer.nl/video/mavensnykplugin.html</loc>
         <lastmod>2021-07-29</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/video/snykintellijplugin.html</loc>
         <lastmod>2021-04-15</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/video/what-developers-say-intellij.html</loc>
+        <lastmod>2021-02-21</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/video/javaxxe.html</loc>
