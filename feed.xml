@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Fri, 10 Mar 2023 16:14:57 +0000</pubDate>
-    <lastBuildDate>Fri, 10 Mar 2023 16:14:57 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Mar 2023 16:59:05 +0000</pubDate>
+    <lastBuildDate>Fri, 10 Mar 2023 16:59:05 +0000</lastBuildDate>
 
     <item>
       <title>Mitigating path traversal vulns in Java with Snyk Code</title>
@@ -23,28 +23,15 @@
 	</description>
     </item>
     <item>
-      <title>Mitigating path traversal vulns in Java with Snyk Code | Snyk</title>
+      <title>Mitigating path traversal vulns in Java with Snyk Code</title>
       <link>https://snyk.io/blog/mitigating-path-traversal-java-snyk-code/</link>
       <category>Snyk</category>
       <pubDate>Mon, 6 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/MitigatingpathtraversalvulnsinJavawithSnykCodeSnyk.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/MitigatingpathtraversalvulnsinJavawithSnykCode.html</guid>
       	<description>
 	&lt;p&gt;Whether you&apos;re a developer or simply interested in learning more about security in Java, this post will provide you with information and insights to help keep your Java applications secure.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/mitigating-path-traversal-java-snyk-code/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Unsafe Deserialization Vulnerability in SnakeYaml | Foojay.io</title>
-      <link>https://foojay.io/today/unsafe-deserialization-vulnerability-in-snakeyaml-cve-2022-1471/</link>
-      <category>Foojay</category>
-      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/UnsafeDeserializationVulnerabilityinSnakeYamlFoojayio.html</guid>
-      	<description>
-	&lt;p&gt;org.yaml:snakeyaml package is widely used in the Java ecosystem, in part because it is packaged by default in the spring-boot-starter.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/unsafe-deserialization-vulnerability-in-snakeyaml-cve-2022-1471/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -101,19 +88,6 @@
 	</description>
     </item>
     <item>
-      <title>Foojay Podcast #7: Security in Java -- what do we need to know?</title>
-      <link>https://foojay.io/today/foojay-podcast-7/</link>
-      <category>Foojay</category>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/FoojayPodcast7SecurityinJavawhatdoweneedtoknow.html</guid>
-      	<description>
-	&lt;p&gt;We invited Java security experts to dive into the fascinating world of secure coding and detecting vulnerabilities in your Java applications!&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/foojay-podcast-7/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>How to create SBOMs in Java with Maven and Gradle</title>
       <link>https://dev.to/snyk/how-to-create-sboms-in-java-with-maven-and-gradle-5ffd</link>
       <category>Dev</category>
@@ -127,28 +101,15 @@
 	</description>
     </item>
     <item>
-      <title>How to create SBOMs in Java with Maven and Gradle | Snyk</title>
+      <title>How to create SBOMs in Java with Maven and Gradle</title>
       <link>https://snyk.io/blog/create-sboms-java-maven-gradle/</link>
       <category>Snyk</category>
       <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/HowtocreateSBOMsinJavawithMavenandGradleSnyk.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/HowtocreateSBOMsinJavawithMavenandGradle.html</guid>
       	<description>
 	&lt;p&gt;Learn how to easily create a software bill of materials (SBOM) for your Java applications in Maven and Gradle.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/create-sboms-java-maven-gradle/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>How to Use Java DTOs to Stay Secure | Foojay.io Today</title>
-      <link>https://foojay.io/today/how-to-use-java-dtos-to-stay-secure/</link>
-      <category>Foojay</category>
-      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/HowtoUseJavaDTOstoStaySecureFoojayioToday.html</guid>
-      	<description>
-	&lt;p&gt;How DTOs are used in modern Java, how your apps can benefit, and how Java DTOs can help you be more secure.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/how-to-use-java-dtos-to-stay-secure/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -162,19 +123,6 @@
 	&lt;p&gt;First things first, let’s be clear that this is NOT a new Log4Shell or Spring4Shell vulnerability....&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://dev.to/snyk/reviewing-cve-2022-42889-the-arbitrary-code-execution-vulnerability-in-apache-commons-text-1k6j&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>CVE-2022-42889: Apache Commons Text (Text4Shell) Vulnerability</title>
-      <link>https://foojay.io/today/reviewing-cve-2022-42889-arbitrary-code-execution-vulnerability-in-apache-commons-text-text4shell/</link>
-      <category>Foojay</category>
-      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/CVE202242889ApacheCommonsTextText4ShellVulnerability.html</guid>
-      	<description>
-	&lt;p&gt;Resolve this issue by upgrading to commons-text version 1.10 (or later), which disables the prefixes URL, DNS, and script by default.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/reviewing-cve-2022-42889-arbitrary-code-execution-vulnerability-in-apache-commons-text-text4shell/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -205,11 +153,11 @@
 	</description>
     </item>
     <item>
-      <title>How to use Java DTOs to stay secure | Snyk</title>
+      <title>How to use Java DTOs to stay secure</title>
       <link>https://snyk.io/blog/how-to-use-java-dtos/</link>
       <category>Snyk</category>
       <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/HowtouseJavaDTOstostaysecureSnyk.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/HowtouseJavaDTOstostaysecure.html</guid>
       	<description>
 	&lt;p&gt;In this article, I will explain how DTOs are used in modern Java applications, ways your application can benefit, and how Java DTOs can help you be more secure by preventing accidental data leaks.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
@@ -231,11 +179,11 @@
 	</description>
     </item>
     <item>
-      <title>Best practices for managing Java dependencies | Snyk</title>
+      <title>Best practices for managing Java dependencies</title>
       <link>https://snyk.io/blog/best-practices-for-managing-java-dependencies/</link>
       <category>Snyk</category>
       <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/BestpracticesformanagingJavadependenciesSnyk.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/BestpracticesformanagingJavadependencies.html</guid>
       	<description>
 	&lt;p&gt;In this article, I’ll give you some advice and best practices for dealing with Java dependencies in your project.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
@@ -257,37 +205,11 @@
 	</description>
     </item>
     <item>
-      <title>Controlling your Server with a Reverse Shell Attack | Foojay.io</title>
-      <link>https://foojay.io/today/controlling-your-server-with-a-reverse-shell-attack/</link>
-      <category>Foojay</category>
-      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/ControllingyourServerwithaReverseShellAttackFoojayio.html</guid>
-      	<description>
-	&lt;p&gt;The last thing you need for your happily deployed application is someone to take over your system and fully control it!&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/controlling-your-server-with-a-reverse-shell-attack/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Secure CI/CD Pipelines with GitHub Actions for Your Java Apps</title>
-      <link>https://foojay.io/today/building-secure-ci-cd-pipelines-with-github-actions-for-your-java-application/</link>
-      <category>Foojay</category>
-      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/SecureCICDPipelineswithGitHubActionsforYourJavaApps.html</guid>
-      	<description>
-	&lt;p&gt;Learn how to integrate Snyk into your GitHub CI/CD to automate security scanning as part of your build cycle prior to production.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/building-secure-ci-cd-pipelines-with-github-actions-for-your-java-application/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Controlling your server with a reverse shell attack | Snyk</title>
+      <title>Controlling your server with a reverse shell attack</title>
       <link>https://snyk.io/blog/reverse-shell-attack/</link>
       <category>Snyk</category>
       <pubDate>Tue, 9 Aug 2022 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/ControllingyourserverwithareverseshellattackSnyk.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/Controllingyourserverwithareverseshellattack.html</guid>
       	<description>
 	&lt;p&gt;Snyk’s Senior Developer Advocate, Brian Vermeer, discusses how reverse shell attacks work and how you can protect yourself from them.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
@@ -305,19 +227,6 @@
 	&lt;p&gt;Have you made the Snyk Code CLI part of the CI/CD process yet?  Using the Snyk CLI, you can easily...&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://dev.to/snyk/user-office-hours-using-the-snyk-cli-for-static-code-analysis-pc0&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Deserialization exploits in Java: why should I Care? | Foojay Today</title>
-      <link>https://foojay.io/today/deserialization-exploits-in-java-why-should-i-care/</link>
-      <category>Foojay</category>
-      <pubDate>Sat, 9 Jul 2022 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/DeserializationexploitsinJavawhyshouldICareFoojayToday.html</guid>
-      	<description>
-	&lt;p&gt;Deserialization vulnerabilities work natively in Java, how attack chains are created, not restricted to Java&apos;s custom serialization framework.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/deserialization-exploits-in-java-why-should-i-care/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -387,11 +296,11 @@
 	</description>
     </item>
     <item>
-      <title>3 Jedi-inspired lessons to level up your JavaScript security | Snyk</title>
+      <title>3 Jedi-inspired lessons to level up your JavaScript security</title>
       <link>https://snyk.io/blog/jedi-lessons-to-level-up-javascript-security/</link>
       <category>Snyk</category>
       <pubDate>Tue, 3 May 2022 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/3JediinspiredlessonstolevelupyourJavaScriptsecuritySnyk.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/3JediinspiredlessonstolevelupyourJavaScriptsecurity.html</guid>
       	<description>
 	&lt;p&gt;You might think of Star Wars as a movie reserved for geeks, but what if I told you that there are deep life lessons that can be applied to developer security practices? Get your lightsaber ready and prepare to dive into JavaScript security!&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
@@ -439,11 +348,11 @@
 	</description>
     </item>
     <item>
-      <title>How to do password hashing in Java applications the right way! | Snyk</title>
+      <title>How to do password hashing in Java applications the right way!</title>
       <link>https://snyk.io/blog/password-hashing-java-applications/</link>
       <category>Snyk</category>
       <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/HowtodopasswordhashinginJavaapplicationstherightwaySnyk.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/HowtodopasswordhashinginJavaapplicationstherightway.html</guid>
       	<description>
 	&lt;p&gt;Learn how to best hash passwords in Java applications using secure password hashing algorithms.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
@@ -595,11 +504,11 @@
 	</description>
     </item>
     <item>
-      <title>Security Horror Story: Accidentally exposing PII data | Snyk</title>
+      <title>Security Horror Story: Accidentally exposing PII data</title>
       <link>https://snyk.io/blog/security-horror-story-accidentally-exposing-pii-data/</link>
       <category>Snyk</category>
       <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/SecurityHorrorStoryAccidentallyexposingPIIdataSnyk.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/SecurityHorrorStoryAccidentallyexposingPIIdata.html</guid>
       	<description>
 	&lt;p&gt;Welcome to our first Security Horror Story of October. Steel yourself for this spooky tale of accidentally exposed PII! Halloween month just got scarier!&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
@@ -608,11 +517,11 @@
 	</description>
     </item>
     <item>
-      <title>New Java 17 features for improved security and serialization | Snyk</title>
+      <title>New Java 17 features for improved security and serialization</title>
       <link>https://snyk.io/blog/new-java-17-features-for-improved-security-and-serialization/</link>
       <category>Snyk</category>
       <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/NewJava17featuresforimprovedsecurityandserializationSnyk.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/NewJava17featuresforimprovedsecurityandserialization.html</guid>
       	<description>
 	&lt;p&gt;Recently, Java 17 — the new LTS version — was released. Learn how the new Java 17 features impact this problem, and can we prevent deserialization vulnerabilities better using these features.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
@@ -621,11 +530,11 @@
 	</description>
     </item>
     <item>
-      <title>The 8 best IntelliJ plugins for improving your coding experience | Snyk</title>
+      <title>The 8 best IntelliJ plugins for improving your coding experience</title>
       <link>https://snyk.io/blog/best-intellij-plugins-for-improving-your-coding-experience/</link>
       <category>Snyk</category>
       <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/The8bestIntelliJpluginsforimprovingyourcodingexperienceSnyk.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/The8bestIntelliJpluginsforimprovingyourcodingexperience.html</guid>
       	<description>
 	&lt;p&gt;In this post, we’ll look at the 8 best IntelliJ plugins for improving your coding experience.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
@@ -669,45 +578,6 @@
 	&lt;p&gt;We’re excited to share that Brian Vermeer, Developer Advocate at Snyk, has been named to Business Insider’s Top 21 Developers Shaping Tech and Forging New Paths&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/brian-vermeer-business-insider-21-top-developers-shaping-tech/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Why you should upgrade to Maven version 3.8.1 | Snyk</title>
-      <link>https://snyk.io/blog/why-you-should-upgrade-to-maven-version-3-8-1/</link>
-      <category>Snyk</category>
-      <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/WhyyoushouldupgradetoMavenversion381Snyk.html</guid>
-      	<description>
-	&lt;p&gt;If you are still running on an old Maven version like 3.6.3 or below you definitely need to upgrade to version 3.8.1 because of security reasons. Learn more about why you should upgrade and how to do it.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/why-you-should-upgrade-to-maven-version-3-8-1/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Devoxx4Kids: Empowering young Java developers and creating ...</title>
-      <link>https://snyk.io/blog/devoxx4kids-empowering-young-java-developers-and-creating-future-industry-stars/</link>
-      <category>Snyk</category>
-      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/Devoxx4KidsEmpoweringyoungJavadevelopersandcreating.html</guid>
-      	<description>
-	&lt;p&gt;As part of this year’s annual JVM Ecosystem Report, we raised money for Devoxx4Kids, an amazing organization that promotes computer programming, robotics, and engineering to kids in a fun and engaging way.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/devoxx4kids-empowering-young-java-developers-and-creating-future-industry-stars/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Getting started with Snyk for secure Java development | Snyk</title>
-      <link>https://snyk.io/blog/snyk-for-secure-java-development/</link>
-      <category>Snyk</category>
-      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/GettingstartedwithSnykforsecureJavadevelopmentSnyk.html</guid>
-      	<description>
-	&lt;p&gt;Snyk offers a variety of developer-first tools and products to make secure Java development simple. Learn how easy it can be to add security to the Java SDLC.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/snyk-for-secure-java-development/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -804,19 +674,6 @@
 	</description>
     </item>
     <item>
-      <title>%title% %page% %sep% %sitename% | Snyk</title>
-      <link>https://snyk.io/blog/java-yaml-parser-with-snakeyaml/</link>
-      <category>Snyk</category>
-      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/titlepagesepsitenameSnyk.html</guid>
-      	<description>
-	&lt;p&gt;The outdated version of snakeyaml contains a Denial of Service vulnerability. We highly recommend that you update snakeyaml to version 1.26 or higher to prevent this problem.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/java-yaml-parser-with-snakeyaml/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Preventing YAML parsing vulnerabilities with snakeyaml in Java | Snyk</title>
       <link>https://snyk.io/blog/java-yaml-parser-with-snakeyaml/</link>
       <category>Snyk</category>
@@ -836,7 +693,7 @@
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/SQLinjectioncheatsheet8bestpracticestopreventSQLinjection.html</guid>
       	<description>
-	&lt;p&gt;null&lt;/p&gt;
+	&lt;p&gt;SQL injection is one of the most dangerous vulnerabilities for online applications. It occurs when a user adds untrusted data to a database query. For&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/sql-injection-cheat-sheet/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
@@ -849,22 +706,9 @@
       <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/SolvingJavasecurityissuesinaSpringMVCappSnyk.html</guid>
       	<description>
-	&lt;p&gt;For this article, I created a Spring MVC application with JSP web pages that runs on a tomcat server. Although the code works perfectly, I did make some security-related mistakes. Let’s see how we can detect these mistakes in my Spring MVC application performing Java static code analyses and how to fix them.&lt;/p&gt;
+	&lt;p&gt;The Spring MVC framework is a well-known Java framework to build interactive web applications. It implements the Model-View-Controller architecture pattern to&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/java-code-analysis-solving-java-security-issues-in-spring-mvc-app/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Java configuration: prevent Java Misconfiguration | Snyk Blog | Snyk</title>
-      <link>https://snyk.io/blog/java-configuration-prevent-security-misconfigurations/</link>
-      <category>Snyk</category>
-      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/JavaconfigurationpreventJavaMisconfigurationSnykBlogSnyk.html</guid>
-      	<description>
-	&lt;p&gt;Default settings are not always the safest Java configuration as they might disclose information that is interesting for intruders.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/java-configuration-prevent-security-misconfigurations/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -882,7 +726,7 @@
 	</description>
     </item>
     <item>
-      <title>10 best practices to build Java containers with Docker | Snyk Blog ...</title>
+      <title>10 best practices to build Java containers with Docker | Snyk Blog</title>
       <link>https://snyk.io/blog/best-practices-to-build-java-containers-with-docker/</link>
       <category>Snyk</category>
       <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
@@ -914,7 +758,7 @@
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/IdentifyprioritizeandfixvulnerabilitieswithReachable.html</guid>
       	<description>
-	&lt;p&gt;To identify security vulnerabilities in my open source dependencies, I connected my Github repository to Snyk. Also, I enabled the Reachable Vulnerabilities&lt;/p&gt;
+	&lt;p&gt;Imagine you are a Java programmer and that you just decided you want to use Snyk Open Source scanning to help you find security problems in your third party&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/identify-security-vulnerabilities-with-reachable-vulnerabilities-for-github/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
@@ -943,19 +787,6 @@
 	&lt;p&gt;Git is a fantastic tool many developers use for version control on their projects. Although there are...&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://dev.to/brianverm/git-checkout-remote-branch-how-it-works-and-when-to-use-it-ghi&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Serialization and deserialization in Java | Snyk Blog | Snyk</title>
-      <link>https://snyk.io/blog/serialization-and-deserialization-in-java/</link>
-      <category>Snyk</category>
-      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/SerializationanddeserializationinJavaSnykBlogSnyk.html</guid>
-      	<description>
-	&lt;p&gt;Deserialization in Java is also known as “the gift that keeps on giving” due to the many security issues and other problems it has produced over the years.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/serialization-and-deserialization-in-java/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -999,7 +830,7 @@
 	</description>
     </item>
     <item>
-      <title>Snyk CLI cheat sheet | Snyk</title>
+      <title>Snyk CLI cheatsheet | Snyk</title>
       <link>https://snyk.io/blog/snyk-cli-cheat-sheet/</link>
       <category>Snyk</category>
       <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
@@ -1031,7 +862,7 @@
       <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/JavaloggingwhatshouldyoulogandwhatnotSnyk.html</guid>
       	<description>
-	&lt;p&gt;null&lt;/p&gt;
+	&lt;p&gt;In addition to the functional aspect of logging, logs are also critical from a Java security perspective. When a security breach occurs, your log files are&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/java-logging-what-should-you-log-and-what-not/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
@@ -1272,19 +1103,6 @@
 	</description>
     </item>
     <item>
-      <title>Java dependency management: how many lines of code does my ...</title>
-      <link>https://snyk.io/blog/java-dependency-management/</link>
-      <category>Snyk</category>
-      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/Javadependencymanagementhowmanylinesofcodedoesmy.html</guid>
-      	<description>
-	&lt;p&gt;A few weeks ago I had the opportunity to give a presentation for the Dutch Java Conference JSpring. The talk was about Java dependency management. &lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/java-dependency-management/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Secure code review: Part 2 - Never store secrets as code</title>
       <link>https://dev.to/brianverm/secure-code-review-part-2-never-store-secrets-as-code-30pb</link>
       <category>Dev</category>
@@ -1337,19 +1155,6 @@
 	</description>
     </item>
     <item>
-      <title>Instant security information with the Snyk security badge</title>
-      <link>https://snyk.io/blog/instant-security-information-with-the-snyk-security-badge/</link>
-      <category>Snyk</category>
-      <pubDate>Mon, 3 Aug 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/InstantsecurityinformationwiththeSnyksecuritybadge.html</guid>
-      	<description>
-	&lt;p&gt;We are excited to announce the Snyk security badge for open source libraries offering instant security information.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/instant-security-information-with-the-snyk-security-badge/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Live Vulnerability spotting in VSCode</title>
       <link>https://dev.to/brianverm/live-vulnerability-spotting-in-vscode-4jh3</link>
       <category>Dev</category>
@@ -1389,19 +1194,6 @@
 	</description>
     </item>
     <item>
-      <title>Sum List of numbers in Java | Snyk</title>
-      <link>https://snyk.io/blog/sum-list-of-numbers-in-java/</link>
-      <category>Snyk</category>
-      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/SumListofnumbersinJavaSnyk.html</guid>
-      	<description>
-	&lt;p&gt;Sum List of numbers in Java. I needed to simply get the sum of a List of numbers and I found out there are a number of ways—pun intended—to do this.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/sum-list-of-numbers-in-java/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Java turns 25—aging like fine wine or more like milk? | Snyk</title>
       <link>https://snyk.io/blog/java-turns-25/</link>
       <category>Snyk</category>
@@ -1411,6 +1203,19 @@
 	&lt;p&gt;On May 23, 1995, Sun Microsystems released Java. This means that Java turns 25 years old and that is something we need to celebrate! Let&apos;s try to decide if Java aged like fine wine or more like milk.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/java-turns-25/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Sum List of numbers in Java | Snyk</title>
+      <link>https://snyk.io/blog/sum-list-of-numbers-in-java/</link>
+      <category>Snyk</category>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/SumListofnumbersinJavaSnyk.html</guid>
+      	<description>
+	&lt;p&gt;Sum List of numbers in Java. I needed to simply get the sum of a List of numbers and I found out there are a number of ways—pun intended—to do this.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/sum-list-of-numbers-in-java/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1434,7 +1239,7 @@
       <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/SecureCodeReviewSnyk.html</guid>
       	<description>
-	&lt;p&gt;It’s always a good idea to check for security issues in code that you review. In case you don’t know what to look for, here’s a handy checklist to give you pointers for your next code reviews!&lt;/p&gt;
+	&lt;p&gt;So, let’s get started with our secure code review list of 8 security code review tips that you can check for, when looking at future pull requests!&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/secure-code-review/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
@@ -1597,32 +1402,6 @@
 	</description>
     </item>
     <item>
-      <title>Kotlin overtakes Scala and Clojure, to become the 2nd most popular ...</title>
-      <link>https://snyk.io/blog/kotlin-overtakes-scala-and-clojure-to-become-the-2nd-most-popular-language-on-the-jvm/</link>
-      <category>Snyk</category>
-      <pubDate>Tue, 4 Feb 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/KotlinovertakesScalaandClojuretobecomethe2ndmostpopular.html</guid>
-      	<description>
-	&lt;p&gt;Welcome to our annual JVM ecosystem report! This report presents the results of the largest annual survey on the JVM ecosystem, showing results from the&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/kotlin-overtakes-scala-and-clojure-to-become-the-2nd-most-popular-language-on-the-jvm/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>JVM Ecosystem Report 2020 | Snyk</title>
-      <link>https://snyk.io/blog/jvm-ecosystem-report-2020/</link>
-      <category>Snyk</category>
-      <pubDate>Tue, 4 Feb 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/JVMEcosystemReport2020Snyk.html</guid>
-      	<description>
-	&lt;p&gt;Welcome to our annual JVM ecosystem report! This report presents the results of the largest annual survey on the JVM ecosystem, showing results from the&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/jvm-ecosystem-report-2020/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>64% of developers report that Java 8 remains the most often used ...</title>
       <link>https://snyk.io/blog/developers-dont-want-to-leave-java-8-as-64-hold-firm-on-their-preferred-release/</link>
       <category>Snyk</category>
@@ -1645,6 +1424,32 @@
 	&lt;p&gt;Welcome to our annual JVM ecosystem report! This report presents the results of the largest annual survey on the JVM ecosystem, showing results from the&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/36-of-developers-switched-from-oracle-jdk-to-an-alternate-openjdk-distribution-over-the-last-year/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Kotlin overtakes Scala and Clojure, to become the 2nd most popular ...</title>
+      <link>https://snyk.io/blog/kotlin-overtakes-scala-and-clojure-to-become-the-2nd-most-popular-language-on-the-jvm/</link>
+      <category>Snyk</category>
+      <pubDate>Tue, 4 Feb 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/KotlinovertakesScalaandClojuretobecomethe2ndmostpopular.html</guid>
+      	<description>
+	&lt;p&gt;Welcome to our annual JVM ecosystem report! This report presents the results of the largest annual survey on the JVM ecosystem, showing results from the&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/kotlin-overtakes-scala-and-clojure-to-become-the-2nd-most-popular-language-on-the-jvm/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>JVM Ecosystem Report 2020 | Snyk</title>
+      <link>https://snyk.io/blog/jvm-ecosystem-report-2020/</link>
+      <category>Snyk</category>
+      <pubDate>Tue, 4 Feb 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/JVMEcosystemReport2020Snyk.html</guid>
+      	<description>
+	&lt;p&gt;Welcome to our annual JVM ecosystem report! This report presents the results of the largest annual survey on the JVM ecosystem, showing results from the&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/jvm-ecosystem-report-2020/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1805,32 +1610,6 @@
 	</description>
     </item>
     <item>
-      <title>The top two most popular Docker base images each have over 500 ...</title>
-      <link>https://snyk.io/blog/the-top-two-most-popular-docker-base-images-each-have-over-500-vulnerabilities/</link>
-      <category>Snyk</category>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/ThetoptwomostpopularDockerbaseimageseachhaveover500.html</guid>
-      	<description>
-	&lt;p&gt;Or download our lovely handcrafted pdf report which contains all of this information and more in one place:&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/the-top-two-most-popular-docker-base-images-each-have-over-500-vulnerabilities/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>80% of developers are not addressing Docker security | Snyk</title>
-      <link>https://snyk.io/blog/80-of-developers-are-not-addressing-docker-security/</link>
-      <category>Snyk</category>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/80ofdevelopersarenotaddressingDockersecuritySnyk.html</guid>
-      	<description>
-	&lt;p&gt;Or download our lovely handcrafted pdf report which contains all of this information and more in one place:&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/80-of-developers-are-not-addressing-docker-security/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Take actions to improve security in your Docker images | Snyk</title>
       <link>https://snyk.io/blog/take-actions-to-improve-security-in-your-docker-images/</link>
       <category>Snyk</category>
@@ -1853,6 +1632,32 @@
 	&lt;p&gt;As more organizations create, spread and use Docker containers, the risk of security vulnerabilities grows. Docker images are largely built on top of other images, meaning a vulnerability in one image is also present in all the images that utilize it. The wide adoption of Docker comes at a price — a single vulnerability can be widely spread and have major impact.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/shifting-docker-security-left/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>The top two most popular Docker base images each have over 500 ...</title>
+      <link>https://snyk.io/blog/the-top-two-most-popular-docker-base-images-each-have-over-500-vulnerabilities/</link>
+      <category>Snyk</category>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/ThetoptwomostpopularDockerbaseimageseachhaveover500.html</guid>
+      	<description>
+	&lt;p&gt;Or download our lovely handcrafted pdf report which contains all of this information and more in one place:&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/the-top-two-most-popular-docker-base-images-each-have-over-500-vulnerabilities/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>80% of developers are not addressing Docker security | Snyk</title>
+      <link>https://snyk.io/blog/80-of-developers-are-not-addressing-docker-security/</link>
+      <category>Snyk</category>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/80ofdevelopersarenotaddressingDockersecuritySnyk.html</guid>
+      	<description>
+	&lt;p&gt;Or download our lovely handcrafted pdf report which contains all of this information and more in one place:&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/80-of-developers-are-not-addressing-docker-security/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
