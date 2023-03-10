@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>https://www.brianvermeer.nl/publications.html</loc>
-        <lastmod>2023-03-09</lastmod>
+        <lastmod>2023-03-10</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/talks.html</loc>
@@ -11,6 +11,10 @@
     <url>
         <loc>https://www.brianvermeer.nl/index.html</loc>
         <lastmod>2021-06-01</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Dev/MitigatingpathtraversalvulnsinJavawithSnykCode.html</loc>
+        <lastmod>2023-03-09</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Dev/ExploringtheSpringSecurityauthorizationbypassCVE202231692.html</loc>
@@ -173,19 +177,19 @@
         <lastmod>2020-08-12</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Dev/SecurecodereviewPart2Neverstoresecretsascode.html</loc>
-        <lastmod>2020-08-11</lastmod>
-    </url>
-    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Dev/Howisyourstickergamein2020.html</loc>
         <lastmod>2020-08-11</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Dev/FeedbackaskedCallingallJSdevelopersusingVSCode.html</loc>
-        <lastmod>2020-08-10</lastmod>
+        <loc>https://www.brianvermeer.nl/blog/generated/Dev/SecurecodereviewPart2Neverstoresecretsascode.html</loc>
+        <lastmod>2020-08-11</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Dev/SecurecodereviewPart1Sanitizeandvalidateallinput.html</loc>
+        <lastmod>2020-08-10</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Dev/FeedbackaskedCallingallJSdevelopersusingVSCode.html</loc>
         <lastmod>2020-08-10</lastmod>
     </url>
     <url>
@@ -221,11 +225,11 @@
         <lastmod>2020-02-27</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Dev/WebApplicationFirewallFriendofyourDevOpspipeline.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Dev/HowtoimplementDevSecOpsacrosstheentireorganisation.html</loc>
         <lastmod>2020-02-26</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Dev/HowtoimplementDevSecOpsacrosstheentireorganisation.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Dev/WebApplicationFirewallFriendofyourDevOpspipeline.html</loc>
         <lastmod>2020-02-26</lastmod>
     </url>
     <url>
@@ -417,11 +421,11 @@
         <lastmod>2021-09-09</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/talks/2021/devoxx-pl-2021.html</loc>
+        <loc>https://www.brianvermeer.nl/talks/2021/devoxx-pl-2021_2.html</loc>
         <lastmod>2021-08-26</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/talks/2021/devoxx-pl-2021_2.html</loc>
+        <loc>https://www.brianvermeer.nl/talks/2021/devoxx-pl-2021.html</loc>
         <lastmod>2021-08-26</lastmod>
     </url>
     <url>
