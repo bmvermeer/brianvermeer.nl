@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Fri, 10 Mar 2023 16:59:05 +0000</pubDate>
-    <lastBuildDate>Fri, 10 Mar 2023 16:59:05 +0000</lastBuildDate>
+    <pubDate>Sat, 11 Mar 2023 06:16:03 +0000</pubDate>
+    <lastBuildDate>Sat, 11 Mar 2023 06:16:03 +0000</lastBuildDate>
 
     <item>
       <title>Mitigating path traversal vulns in Java with Snyk Code</title>
@@ -32,6 +32,19 @@
 	&lt;p&gt;Whether you&apos;re a developer or simply interested in learning more about security in Java, this post will provide you with information and insights to help keep your Java applications secure.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/mitigating-path-traversal-java-snyk-code/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Unsafe Deserialization Vulnerability in SnakeYaml | Foojay.io</title>
+      <link>https://foojay.io/today/unsafe-deserialization-vulnerability-in-snakeyaml-cve-2022-1471/</link>
+      <category>Foojay</category>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/UnsafeDeserializationVulnerabilityinSnakeYamlFoojayio.html</guid>
+      	<description>
+	&lt;p&gt;org.yaml:snakeyaml package is widely used in the Java ecosystem, in part because it is packaged by default in the spring-boot-starter.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/unsafe-deserialization-vulnerability-in-snakeyaml-cve-2022-1471/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -84,6 +97,19 @@
 	&lt;p&gt;SnakeYaml, a YAML 1.1 parser and emitter for Java, has been reported as vulnerable to CVE-2022-1471, a deserialization vulnerability that can lead to arbitrary code execution.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/unsafe-deserialization-snakeyaml-java-cve-2022-1471/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Foojay Podcast #7: Security in Java -- what do we need to know?</title>
+      <link>https://foojay.io/today/foojay-podcast-7/</link>
+      <category>Foojay</category>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/FoojayPodcast7SecurityinJavawhatdoweneedtoknow.html</guid>
+      	<description>
+	&lt;p&gt;We invited Java security experts to dive into the fascinating world of secure coding and detecting vulnerabilities in your Java applications!&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/foojay-podcast-7/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -439,32 +465,6 @@
 	</description>
     </item>
     <item>
-      <title>Log4j vulnerability explained: Prevent Log4Shell RCE by updating ...</title>
-      <link>https://snyk.io/blog/log4j-rce-log4shell-vulnerability-cve-2021-44228/</link>
-      <category>Snyk</category>
-      <pubDate>Thu, 9 Dec 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/Log4jvulnerabilityexplainedPreventLog4ShellRCEbyupdating.html</guid>
-      	<description>
-	&lt;p&gt;Today (Dec.10, 2021), a new, critical Log4j vulnerability was disclosed: Log4Shell.  Learn more about log4j vulnerability fix.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/log4j-rce-log4shell-vulnerability-cve-2021-44228/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Java JSON deserialization problems with the Jackson ObjectMapper ...</title>
-      <link>https://snyk.io/blog/java-json-deserialization-problems-jackson-objectmapper/</link>
-      <category>Snyk</category>
-      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/JavaJSONdeserializationproblemswiththeJacksonObjectMapper.html</guid>
-      	<description>
-	&lt;p&gt;Learn how Jackson ObjectMapper deserialization vulnerabilities work and how to make sure you are not affected by them.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/java-json-deserialization-problems-jackson-objectmapper/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>New Java 17 features for improved security and serialization</title>
       <link>https://dev.to/brianverm/new-java-17-features-for-improved-security-and-serialization-5h3f</link>
       <category>Dev</category>
@@ -478,71 +478,6 @@
 	</description>
     </item>
     <item>
-      <title>Proactively fixing vulnerabilities to maintain Java security and ...</title>
-      <link>https://snyk.io/blog/proactively-fixing-vulnerabilities-java-security-project-hygiene-snyk/</link>
-      <category>Snyk</category>
-      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/ProactivelyfixingvulnerabilitiestomaintainJavasecurityand.html</guid>
-      	<description>
-	&lt;p&gt;In this post, we&apos;ll see how to maintain the health and hygiene of projects and repositories we are no longer working on, with a focus on Java security.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/proactively-fixing-vulnerabilities-java-security-project-hygiene-snyk/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Best practices for containerizing Python applications with Docker ...</title>
-      <link>https://snyk.io/blog/best-practices-containerizing-python-docker/</link>
-      <category>Snyk</category>
-      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/BestpracticesforcontainerizingPythonapplicationswithDocker.html</guid>
-      	<description>
-	&lt;p&gt;In this post, we’ll attend to those concerns and take a look at some 6 best practices when containerizing Python applications with Docker.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/best-practices-containerizing-python-docker/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Security Horror Story: Accidentally exposing PII data</title>
-      <link>https://snyk.io/blog/security-horror-story-accidentally-exposing-pii-data/</link>
-      <category>Snyk</category>
-      <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/SecurityHorrorStoryAccidentallyexposingPIIdata.html</guid>
-      	<description>
-	&lt;p&gt;Welcome to our first Security Horror Story of October. Steel yourself for this spooky tale of accidentally exposed PII! Halloween month just got scarier!&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/security-horror-story-accidentally-exposing-pii-data/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>New Java 17 features for improved security and serialization</title>
-      <link>https://snyk.io/blog/new-java-17-features-for-improved-security-and-serialization/</link>
-      <category>Snyk</category>
-      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/NewJava17featuresforimprovedsecurityandserialization.html</guid>
-      	<description>
-	&lt;p&gt;Recently, Java 17 — the new LTS version — was released. Learn how the new Java 17 features impact this problem, and can we prevent deserialization vulnerabilities better using these features.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/new-java-17-features-for-improved-security-and-serialization/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>The 8 best IntelliJ plugins for improving your coding experience</title>
-      <link>https://snyk.io/blog/best-intellij-plugins-for-improving-your-coding-experience/</link>
-      <category>Snyk</category>
-      <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/The8bestIntelliJpluginsforimprovingyourcodingexperience.html</guid>
-      	<description>
-	&lt;p&gt;In this post, we’ll look at the 8 best IntelliJ plugins for improving your coding experience.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/best-intellij-plugins-for-improving-your-coding-experience/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Security in geding bij infrastructure-as-code</title>
       <link>https://www.computable.nl/artikel/opinie/security/7234118/1509029/security-in-geding-bij-infrastructure-as-code.html</link>
       <category>Computable</category>
@@ -552,32 +487,6 @@
 	&lt;p&gt;Cloud-native-applicaties bevatten infrastructure-as-code (in het kort iac) die bepalen hoe applicaties werken binnen een cloud-infrastructuur en hoe gecontaineriseerde applicaties op Kubernetes draaien. Iac betekent snellere, herhaalbare implementaties, maar verhoogt tegelijkertijd de druk voor ontwikkelaars om niet alleen hun code te beveiligen, maar ook de infrastructuurconfiguratie, code-afhankelijkheden en containers.&lt;br /&gt;
 ...&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.computable.nl/artikel/opinie/security/7234118/1509029/security-in-geding-bij-infrastructure-as-code.html&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>How Snyk Social Trends help you fix essential security vulnerabilities</title>
-      <link>https://snyk.io/blog/snyk-social-trends-fix-security-vulnerabilities/</link>
-      <category>Snyk</category>
-      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/HowSnykSocialTrendshelpyoufixessentialsecurityvulnerabilities.html</guid>
-      	<description>
-	&lt;p&gt;Learn how to use Snyk Social Trends to prioritize vulnerability fixes in your applications.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/snyk-social-trends-fix-security-vulnerabilities/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Brian Vermeer named one of Business Insider&apos;s &quot;21 Top Developers ...</title>
-      <link>https://snyk.io/blog/brian-vermeer-business-insider-21-top-developers-shaping-tech/</link>
-      <category>Snyk</category>
-      <pubDate>Mon, 2 Aug 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/BrianVermeernamedoneofBusinessInsiders21TopDevelopers.html</guid>
-      	<description>
-	&lt;p&gt;We’re excited to share that Brian Vermeer, Developer Advocate at Snyk, has been named to Business Insider’s Top 21 Developers Shaping Tech and Forging New Paths&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/brian-vermeer-business-insider-21-top-developers-shaping-tech/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1402,6 +1311,19 @@
 	</description>
     </item>
     <item>
+      <title>JVM Ecosystem Report 2020 | Snyk</title>
+      <link>https://snyk.io/blog/jvm-ecosystem-report-2020/</link>
+      <category>Snyk</category>
+      <pubDate>Tue, 4 Feb 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/JVMEcosystemReport2020Snyk.html</guid>
+      	<description>
+	&lt;p&gt;Welcome to our annual JVM ecosystem report! This report presents the results of the largest annual survey on the JVM ecosystem, showing results from the&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/jvm-ecosystem-report-2020/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>64% of developers report that Java 8 remains the most often used ...</title>
       <link>https://snyk.io/blog/developers-dont-want-to-leave-java-8-as-64-hold-firm-on-their-preferred-release/</link>
       <category>Snyk</category>
@@ -1437,19 +1359,6 @@
 	&lt;p&gt;Welcome to our annual JVM ecosystem report! This report presents the results of the largest annual survey on the JVM ecosystem, showing results from the&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/kotlin-overtakes-scala-and-clojure-to-become-the-2nd-most-popular-language-on-the-jvm/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>JVM Ecosystem Report 2020 | Snyk</title>
-      <link>https://snyk.io/blog/jvm-ecosystem-report-2020/</link>
-      <category>Snyk</category>
-      <pubDate>Tue, 4 Feb 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/JVMEcosystemReport2020Snyk.html</guid>
-      	<description>
-	&lt;p&gt;Welcome to our annual JVM ecosystem report! This report presents the results of the largest annual survey on the JVM ecosystem, showing results from the&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/jvm-ecosystem-report-2020/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1610,6 +1519,19 @@
 	</description>
     </item>
     <item>
+      <title>The top two most popular Docker base images each have over 500 ...</title>
+      <link>https://snyk.io/blog/the-top-two-most-popular-docker-base-images-each-have-over-500-vulnerabilities/</link>
+      <category>Snyk</category>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/ThetoptwomostpopularDockerbaseimageseachhaveover500.html</guid>
+      	<description>
+	&lt;p&gt;Or download our lovely handcrafted pdf report which contains all of this information and more in one place:&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/the-top-two-most-popular-docker-base-images-each-have-over-500-vulnerabilities/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>Take actions to improve security in your Docker images | Snyk</title>
       <link>https://snyk.io/blog/take-actions-to-improve-security-in-your-docker-images/</link>
       <category>Snyk</category>
@@ -1632,19 +1554,6 @@
 	&lt;p&gt;As more organizations create, spread and use Docker containers, the risk of security vulnerabilities grows. Docker images are largely built on top of other images, meaning a vulnerability in one image is also present in all the images that utilize it. The wide adoption of Docker comes at a price — a single vulnerability can be widely spread and have major impact.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/shifting-docker-security-left/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>The top two most popular Docker base images each have over 500 ...</title>
-      <link>https://snyk.io/blog/the-top-two-most-popular-docker-base-images-each-have-over-500-vulnerabilities/</link>
-      <category>Snyk</category>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/ThetoptwomostpopularDockerbaseimageseachhaveover500.html</guid>
-      	<description>
-	&lt;p&gt;Or download our lovely handcrafted pdf report which contains all of this information and more in one place:&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/the-top-two-most-popular-docker-base-images-each-have-over-500-vulnerabilities/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
