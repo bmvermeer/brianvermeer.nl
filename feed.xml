@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Mon, 13 Mar 2023 06:19:00 +0000</pubDate>
-    <lastBuildDate>Mon, 13 Mar 2023 06:19:00 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Mar 2023 06:19:18 +0000</pubDate>
+    <lastBuildDate>Tue, 14 Mar 2023 06:19:18 +0000</lastBuildDate>
 
     <item>
       <title>Mitigating path traversal vulns in Java with Snyk Code</title>
@@ -26,7 +26,7 @@
       <title>Mitigating path traversal vulns in Java with Snyk Code</title>
       <link>https://snyk.io/blog/mitigating-path-traversal-java-snyk-code/</link>
       <category>Snyk</category>
-      <pubDate>Mon, 6 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 5 Mar 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/MitigatingpathtraversalvulnsinJavawithSnykCode.html</guid>
       	<description>
 	&lt;p&gt;Whether you&apos;re a developer or simply interested in learning more about security in Java, this post will provide you with information and insights to help keep your Java applications secure.&lt;/p&gt;
@@ -2461,7 +2461,7 @@
       <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/ShiftingDockersecurityleft.html</guid>
       	<description>
-	&lt;p&gt;As more organizations create, spread and use Docker containers, the risk of security vulnerabilities grows. Docker images are largely built on top of other images, meaning a vulnerability in one image is also present in all the images that utilize it. The wide adoption of Docker comes at a price — a single vulnerability can be widely spread and have major impact.&lt;/p&gt;
+	&lt;p&gt;Welcome to the Docker security report: Shifting Docker security left.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/shifting-docker-security-left/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
