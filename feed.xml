@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Tue, 14 Mar 2023 06:19:18 +0000</pubDate>
-    <lastBuildDate>Tue, 14 Mar 2023 06:19:18 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Mar 2023 06:18:26 +0000</pubDate>
+    <lastBuildDate>Wed, 15 Mar 2023 06:18:26 +0000</lastBuildDate>
 
     <item>
       <title>Mitigating path traversal vulns in Java with Snyk Code</title>
@@ -653,7 +653,7 @@
       <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/ProactivelyfixingvulnerabilitiestomaintainJavasecurityand.html</guid>
       	<description>
-	&lt;p&gt;In this post, we&apos;ll see how to maintain the health and hygiene of projects and repositories we are no longer working on, with a focus on Java security.&lt;/p&gt;
+	&lt;p&gt;In this post, we’ll see how to maintain the health and hygiene of projects and repositories we are no longer working on, with a focus on Java security.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/proactively-fixing-vulnerabilities-java-security-project-hygiene-snyk/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
@@ -1187,7 +1187,7 @@
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/IdentifyprioritizeandfixvulnerabilitieswithReachable.html</guid>
       	<description>
-	&lt;p&gt;To identify security vulnerabilities in my open source dependencies, I connected my Github repository to Snyk. Also, I enabled the Reachable Vulnerabilities&lt;/p&gt;
+	&lt;p&gt;In a perfect world, you want to do vulnerability remediation on all issues and end with zero vulnerabilities. But you may not be able to fix all the vulnerabilities at once. You want to start with the most vulnerable issues that impact your application and start vulnerability remediation from there.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/identify-security-vulnerabilities-with-reachable-vulnerabilities-for-github/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
