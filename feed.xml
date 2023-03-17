@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Thu, 16 Mar 2023 06:18:33 +0000</pubDate>
-    <lastBuildDate>Thu, 16 Mar 2023 06:18:33 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Mar 2023 06:16:47 +0000</pubDate>
+    <lastBuildDate>Fri, 17 Mar 2023 06:16:47 +0000</lastBuildDate>
 
     <item>
       <title>Mitigating path traversal vulns in Java with Snyk Code</title>
