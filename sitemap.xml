@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>https://www.brianvermeer.nl/publications.html</loc>
-        <lastmod>2023-03-24</lastmod>
+        <lastmod>2023-03-25</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/talks.html</loc>
@@ -305,11 +305,11 @@
         <lastmod>2021-04-08</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/HowtofixJavasecurityissueswhilecodinginIntelliJIDEASnyk.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/HowtofixJavasecurityissueswhilecodinginIntelliJIDEA.html</loc>
         <lastmod>2021-04-07</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/HowtofixJavasecurityissueswhilecodinginIntelliJIDEA.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/HowtofixJavasecurityissueswhilecodinginIntelliJIDEASnyk.html</loc>
         <lastmod>2021-04-07</lastmod>
     </url>
     <url>
@@ -365,10 +365,6 @@
         <lastmod>2021-02-17</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/Javaecosystemsurvey2021Blog.html</loc>
-        <lastmod>2021-02-14</lastmod>
-    </url>
-    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/Javaecosystemsurvey2021SnykBlog.html</loc>
         <lastmod>2021-02-14</lastmod>
     </url>
@@ -409,11 +405,11 @@
         <lastmod>2020-12-17</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/GitcheckoutremotebranchhowitworksandwhentouseBlog.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/GitcheckoutremotebranchhowitworksandwhentouseSnykBlog.html</loc>
         <lastmod>2020-12-14</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/GitcheckoutremotebranchhowitworksandwhentouseSnykBlog.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/GitcheckoutremotebranchhowitworksandwhentouseBlog.html</loc>
         <lastmod>2020-12-14</lastmod>
     </url>
     <url>
@@ -453,19 +449,19 @@
         <lastmod>2020-10-29</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/GradledependenciesscanningwithnewSnykGradleplugin.html</loc>
-        <lastmod>2020-10-22</lastmod>
-    </url>
-    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/GradledependenciesscanningwithnewSnykGradlepluginSnyk.html</loc>
         <lastmod>2020-10-22</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JHipstersecurityscanningwithSnykSnyk.html</loc>
-        <lastmod>2020-10-07</lastmod>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/GradledependenciesscanningwithnewSnykGradleplugin.html</loc>
+        <lastmod>2020-10-22</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JHipstersecurityscanningwithSnyk.html</loc>
+        <lastmod>2020-10-07</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JHipstersecurityscanningwithSnykSnyk.html</loc>
         <lastmod>2020-10-07</lastmod>
     </url>
     <url>
@@ -529,11 +525,11 @@
         <lastmod>2020-08-12</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Dev/Howisyourstickergamein2020.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/Javadependencymanagementhowmanylinesofcodedoesmy.html</loc>
         <lastmod>2020-08-11</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/Javadependencymanagementhowmanylinesofcodedoesmy.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Dev/Howisyourstickergamein2020.html</loc>
         <lastmod>2020-08-11</lastmod>
     </url>
     <url>
@@ -637,10 +633,6 @@
         <lastmod>2020-02-26</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/GhostcatbreachaffectsallTomcatversions.html</loc>
-        <lastmod>2020-02-25</lastmod>
-    </url>
-    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/GhostcatbreachaffectsallTomcatversionsSnyk.html</loc>
         <lastmod>2020-02-24</lastmod>
     </url>
@@ -653,11 +645,7 @@
         <lastmod>2020-02-04</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JVMEcosystemReport2020Snyk.html</loc>
-        <lastmod>2020-02-04</lastmod>
-    </url>
-    <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/IntelliJIDEAdominatestheIDEmarketwith62adoptionamong.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JVMEcosystemReport2020.html</loc>
         <lastmod>2020-02-04</lastmod>
     </url>
     <url>
@@ -677,7 +665,11 @@
         <lastmod>2020-02-04</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JVMEcosystemReport2020.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JVMEcosystemReport2020Snyk.html</loc>
+        <lastmod>2020-02-04</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/IntelliJIDEAdominatestheIDEmarketwith62adoptionamong.html</loc>
         <lastmod>2020-02-04</lastmod>
     </url>
     <url>
@@ -729,11 +721,11 @@
         <lastmod>2019-08-26</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JacksonDeserializationVulnerabilitySnyk.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JacksonDeserializationVulnerability.html</loc>
         <lastmod>2019-08-20</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JacksonDeserializationVulnerability.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JacksonDeserializationVulnerabilitySnyk.html</loc>
         <lastmod>2019-08-20</lastmod>
     </url>
     <url>

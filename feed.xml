@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Fri, 24 Mar 2023 06:17:37 +0000</pubDate>
-    <lastBuildDate>Fri, 24 Mar 2023 06:17:37 +0000</lastBuildDate>
+    <pubDate>Sat, 25 Mar 2023 06:16:47 +0000</pubDate>
+    <lastBuildDate>Sat, 25 Mar 2023 06:16:47 +0000</lastBuildDate>
 
     <item>
       <title>Mitigating path traversal vulns in Java with Snyk Code</title>
@@ -960,11 +960,11 @@
 	</description>
     </item>
     <item>
-      <title>How to fix Java security issues while coding in IntelliJ IDEA | Snyk</title>
+      <title>How to fix Java security issues while coding in IntelliJ IDEA</title>
       <link>https://snyk.io/blog/how-to-fix-java-security-issues-while-coding-in-intellij-idea/</link>
       <category>Snyk</category>
       <pubDate>Wed, 7 Apr 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/HowtofixJavasecurityissueswhilecodinginIntelliJIDEASnyk.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/HowtofixJavasecurityissueswhilecodinginIntelliJIDEA.html</guid>
       	<description>
 	&lt;p&gt;Learn how to use the Snyk Vulnerability Scanner plugin for IntelliJ IDEA to make it easy to find and fix Java security issues earlier in the development process.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
@@ -973,11 +973,11 @@
 	</description>
     </item>
     <item>
-      <title>How to fix Java security issues while coding in IntelliJ IDEA</title>
+      <title>How to fix Java security issues while coding in IntelliJ IDEA | Snyk</title>
       <link>https://snyk.io/blog/how-to-fix-java-security-issues-while-coding-in-intellij-idea/</link>
       <category>Snyk</category>
       <pubDate>Wed, 7 Apr 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/HowtofixJavasecurityissueswhilecodinginIntelliJIDEA.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/HowtofixJavasecurityissueswhilecodinginIntelliJIDEASnyk.html</guid>
       	<description>
 	&lt;p&gt;Learn how to use the Snyk Vulnerability Scanner plugin for IntelliJ IDEA to make it easy to find and fix Java security issues earlier in the development process.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
@@ -1155,19 +1155,6 @@
 	</description>
     </item>
     <item>
-      <title>Java ecosystem survey 2021  Blog</title>
-      <link>https://snyk.io/blog/java-ecosystem-survey-2021/</link>
-      <category>Snyk</category>
-      <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/Javaecosystemsurvey2021Blog.html</guid>
-      	<description>
-	&lt;p&gt;Just like in 2020, we are creating a comprehensive Java 2021 report that reflects the state of the JVM ecosystem.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/java-ecosystem-survey-2021/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Java ecosystem survey 2021 | Snyk Blog</title>
       <link>https://snyk.io/blog/java-ecosystem-survey-2021/</link>
       <category>Snyk</category>
@@ -1298,11 +1285,11 @@
 	</description>
     </item>
     <item>
-      <title>Git checkout remote branch: how it works and when to use  Blog</title>
+      <title>Git checkout remote branch: how it works and when to use | Snyk Blog</title>
       <link>https://snyk.io/blog/git-checkout-remote-branch/</link>
       <category>Snyk</category>
       <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/GitcheckoutremotebranchhowitworksandwhentouseBlog.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/GitcheckoutremotebranchhowitworksandwhentouseSnykBlog.html</guid>
       	<description>
 	&lt;p&gt;In this article, we are taking a look at branches in git and what git checkout remote branch actually means.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
@@ -1311,11 +1298,11 @@
 	</description>
     </item>
     <item>
-      <title>Git checkout remote branch: how it works and when to use | Snyk Blog</title>
+      <title>Git checkout remote branch: how it works and when to use  Blog</title>
       <link>https://snyk.io/blog/git-checkout-remote-branch/</link>
       <category>Snyk</category>
       <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/GitcheckoutremotebranchhowitworksandwhentouseSnykBlog.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/GitcheckoutremotebranchhowitworksandwhentouseBlog.html</guid>
       	<description>
 	&lt;p&gt;In this article, we are taking a look at branches in git and what git checkout remote branch actually means.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
@@ -1441,19 +1428,6 @@
 	</description>
     </item>
     <item>
-      <title>Gradle dependencies: scanning with new Snyk Gradle plugin</title>
-      <link>https://snyk.io/blog/gradle-plugin-by-snyk-gradle-dependencies-scanning/</link>
-      <category>Snyk</category>
-      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/GradledependenciesscanningwithnewSnykGradleplugin.html</guid>
-      	<description>
-	&lt;p&gt;We created a Gradle plugin so you can now scan your application for security vulnerabilities in third-party libraries as part of your build cycle.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/gradle-plugin-by-snyk-gradle-dependencies-scanning/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Gradle dependencies: scanning with new Snyk Gradle plugin | Snyk</title>
       <link>https://snyk.io/blog/gradle-plugin-by-snyk-gradle-dependencies-scanning/</link>
       <category>Snyk</category>
@@ -1467,15 +1441,15 @@
 	</description>
     </item>
     <item>
-      <title>JHipster security scanning with Snyk | Snyk</title>
-      <link>https://snyk.io/blog/jhipster-security-scanning/</link>
+      <title>Gradle dependencies: scanning with new Snyk Gradle plugin</title>
+      <link>https://snyk.io/blog/gradle-plugin-by-snyk-gradle-dependencies-scanning/</link>
       <category>Snyk</category>
-      <pubDate>Wed, 7 Oct 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/JHipstersecurityscanningwithSnykSnyk.html</guid>
+      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/GradledependenciesscanningwithnewSnykGradleplugin.html</guid>
       	<description>
-	&lt;p&gt;Scan your JHipster project at the Command Line using the free Snyk scanner to test the dependencies in your application.&lt;/p&gt;
+	&lt;p&gt;We created a Gradle plugin so you can now scan your application for security vulnerabilities in third-party libraries as part of your build cycle.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/jhipster-security-scanning/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://snyk.io/blog/gradle-plugin-by-snyk-gradle-dependencies-scanning/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1485,6 +1459,19 @@
       <category>Snyk</category>
       <pubDate>Wed, 7 Oct 2020 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/JHipstersecurityscanningwithSnyk.html</guid>
+      	<description>
+	&lt;p&gt;Scan your JHipster project at the Command Line using the free Snyk scanner to test the dependencies in your application.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/jhipster-security-scanning/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>JHipster security scanning with Snyk | Snyk</title>
+      <link>https://snyk.io/blog/jhipster-security-scanning/</link>
+      <category>Snyk</category>
+      <pubDate>Wed, 7 Oct 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/JHipstersecurityscanningwithSnykSnyk.html</guid>
       	<description>
 	&lt;p&gt;Scan your JHipster project at the Command Line using the free Snyk scanner to test the dependencies in your application.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
@@ -1688,19 +1675,6 @@
 	</description>
     </item>
     <item>
-      <title>How is your sticker game in 2020 💻</title>
-      <link>https://dev.to/brianverm/how-is-your-sticker-game-in-2020-2dgm</link>
-      <category>Dev</category>
-      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Dev/Howisyourstickergamein2020.html</guid>
-      	<description>
-	&lt;p&gt;So how is your current sticker game in 2020 Show everyone how your laptop 💻 looks in 2020 and what yo...&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://dev.to/brianverm/how-is-your-sticker-game-in-2020-2dgm&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Java dependency management: how many lines of code does my ...</title>
       <link>https://snyk.io/blog/java-dependency-management/</link>
       <category>Snyk</category>
@@ -1710,6 +1684,19 @@
 	&lt;p&gt;This post provides a quick overview of Java dependency management.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/java-dependency-management/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>How is your sticker game in 2020 💻</title>
+      <link>https://dev.to/brianverm/how-is-your-sticker-game-in-2020-2dgm</link>
+      <category>Dev</category>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Dev/Howisyourstickergamein2020.html</guid>
+      	<description>
+	&lt;p&gt;So how is your current sticker game in 2020 Show everyone how your laptop 💻 looks in 2020 and what yo...&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://dev.to/brianverm/how-is-your-sticker-game-in-2020-2dgm&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -2039,19 +2026,6 @@
 	</description>
     </item>
     <item>
-      <title>Ghostcat breach affects all Tomcat versions</title>
-      <link>https://snyk.io/blog/ghostcat-breach-affects-all-tomcat-versions/</link>
-      <category>Snyk</category>
-      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/GhostcatbreachaffectsallTomcatversions.html</guid>
-      	<description>
-	&lt;p&gt;The vulnerability was found in the Apache JServ Protocol (AJP). The issue is that this binary protocol allows an attacker to read or include any file into Tomcat webapp directories.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/ghostcat-breach-affects-all-tomcat-versions/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Ghostcat breach affects all Tomcat versions | Snyk</title>
       <link>https://snyk.io/blog/ghostcat-breach-affects-all-tomcat-versions/</link>
       <category>Snyk</category>
@@ -2091,28 +2065,15 @@
 	</description>
     </item>
     <item>
-      <title>JVM Ecosystem Report 2020 | Snyk</title>
+      <title>JVM Ecosystem Report 2020</title>
       <link>https://snyk.io/blog/jvm-ecosystem-report-2020/</link>
       <category>Snyk</category>
       <pubDate>Tue, 4 Feb 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/JVMEcosystemReport2020Snyk.html</guid>
-      	<description>
-	&lt;p&gt;Welcome to our annual JVM ecosystem report! This report presents the results of the largest annual survey on the JVM ecosystem, showing results from the&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/jvm-ecosystem-report-2020/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>IntelliJ IDEA dominates the IDE market with 62% adoption among ...</title>
-      <link>https://snyk.io/blog/intellij-idea-dominates-the-ide-market-with-62-adoption-among-jvm-developers/</link>
-      <category>Snyk</category>
-      <pubDate>Tue, 4 Feb 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/IntelliJIDEAdominatestheIDEmarketwith62adoptionamong.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/JVMEcosystemReport2020.html</guid>
       	<description>
 	&lt;p&gt;Snyk&apos;s annual JVM ecosystem report presents the results of the largest annual survey on the JVM ecosystem, which gathered over 2000 responses in the second half of 2019.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/intellij-idea-dominates-the-ide-market-with-62-adoption-among-jvm-developers/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://snyk.io/blog/jvm-ecosystem-report-2020/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -2169,15 +2130,28 @@
 	</description>
     </item>
     <item>
-      <title>JVM Ecosystem Report 2020</title>
+      <title>JVM Ecosystem Report 2020 | Snyk</title>
       <link>https://snyk.io/blog/jvm-ecosystem-report-2020/</link>
       <category>Snyk</category>
       <pubDate>Tue, 4 Feb 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/JVMEcosystemReport2020.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/JVMEcosystemReport2020Snyk.html</guid>
+      	<description>
+	&lt;p&gt;Welcome to our annual JVM ecosystem report! This report presents the results of the largest annual survey on the JVM ecosystem, showing results from the&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/jvm-ecosystem-report-2020/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>IntelliJ IDEA dominates the IDE market with 62% adoption among ...</title>
+      <link>https://snyk.io/blog/intellij-idea-dominates-the-ide-market-with-62-adoption-among-jvm-developers/</link>
+      <category>Snyk</category>
+      <pubDate>Tue, 4 Feb 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/IntelliJIDEAdominatestheIDEmarketwith62adoptionamong.html</guid>
       	<description>
 	&lt;p&gt;Snyk&apos;s annual JVM ecosystem report presents the results of the largest annual survey on the JVM ecosystem, which gathered over 2000 responses in the second half of 2019.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/jvm-ecosystem-report-2020/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://snyk.io/blog/intellij-idea-dominates-the-ide-market-with-62-adoption-among-jvm-developers/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -2338,19 +2312,6 @@
 	</description>
     </item>
     <item>
-      <title>Jackson Deserialization Vulnerability | Snyk</title>
-      <link>https://snyk.io/blog/jackson-deserialization-vulnerability/</link>
-      <category>Snyk</category>
-      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/JacksonDeserializationVulnerabilitySnyk.html</guid>
-      	<description>
-	&lt;p&gt;On July 29th, 2019 a high severity Deserialization of Untrusted Data vulnerability ( CVE-2019-14379, CVE-2019-14439) affecting all versions of&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/jackson-deserialization-vulnerability/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Jackson Deserialization Vulnerability</title>
       <link>https://snyk.io/blog/jackson-deserialization-vulnerability/</link>
       <category>Snyk</category>
@@ -2358,6 +2319,19 @@
       <guid isPermaLink="false">blog/generated/Snyk/JacksonDeserializationVulnerability.html</guid>
       	<description>
 	&lt;p&gt;On July 29th, 2019 a high severityDeserialization of Untrusted Data vulnerability (CVE-2019-14379,CVE-2019-14439) affecting all versions of com.fasterxml.jackson.core:jackson-databind up to 2.9.9.2 was published.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/jackson-deserialization-vulnerability/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Jackson Deserialization Vulnerability | Snyk</title>
+      <link>https://snyk.io/blog/jackson-deserialization-vulnerability/</link>
+      <category>Snyk</category>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/JacksonDeserializationVulnerabilitySnyk.html</guid>
+      	<description>
+	&lt;p&gt;On July 29th, 2019 a high severity Deserialization of Untrusted Data vulnerability ( CVE-2019-14379, CVE-2019-14439) affecting all versions of&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/jackson-deserialization-vulnerability/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
