@@ -6,14 +6,14 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sun, 26 Mar 2023 06:16:27 +0000</pubDate>
-    <lastBuildDate>Sun, 26 Mar 2023 06:16:27 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Mar 2023 06:18:14 +0000</pubDate>
+    <lastBuildDate>Mon, 27 Mar 2023 06:18:14 +0000</lastBuildDate>
 
     <item>
       <title>a place for friends of OpenJDK - foojay</title>
       <link>https://foojay.io/today/mitigating-path-traversal-vulnerabilities-in-java/</link>
       <category>Foojay</category>
-      <pubDate>Sun, 26 Mar 2023 06:16:24 +0000</pubDate>
+      <pubDate>Mon, 27 Mar 2023 06:18:11 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Foojay/aplaceforfriendsofOpenJDKfoojay.html</guid>
       	<description>
 	&lt;p&gt;Path traversal vulnerabilities are a serious threat to Java web applications, amongst the top security issues Snyk finds in Java code.&lt;/p&gt;
