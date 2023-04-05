@@ -6,14 +6,14 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Tue, 4 Apr 2023 06:17:02 +0000</pubDate>
-    <lastBuildDate>Tue, 4 Apr 2023 06:17:02 +0000</lastBuildDate>
+    <pubDate>Wed, 5 Apr 2023 06:17:29 +0000</pubDate>
+    <lastBuildDate>Wed, 5 Apr 2023 06:17:29 +0000</lastBuildDate>
 
     <item>
       <title>Data leak in the Netherlands: What developers should learn from ...</title>
       <link>https://snyk.io/blog/data-leak-netherlands/</link>
       <category>Snyk</category>
-      <pubDate>Tue, 4 Apr 2023 06:15:54 +0000</pubDate>
+      <pubDate>Wed, 5 Apr 2023 06:16:23 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/DataleakintheNetherlandsWhatdevelopersshouldlearnfrom.html</guid>
       	<description>
 	&lt;p&gt;In this post, we&apos;ll discuss the recent data leaks in the Netherlands and what developers can learn from these security incidents.&lt;/p&gt;
