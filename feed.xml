@@ -6,22 +6,9 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Fri, 7 Apr 2023 06:17:31 +0000</pubDate>
-    <lastBuildDate>Fri, 7 Apr 2023 06:17:31 +0000</lastBuildDate>
+    <pubDate>Sat, 8 Apr 2023 06:16:30 +0000</pubDate>
+    <lastBuildDate>Sat, 8 Apr 2023 06:16:30 +0000</lastBuildDate>
 
-    <item>
-      <title>Data leak in the Netherlands: What developers should learn from ...</title>
-      <link>https://snyk.io/blog/data-leak-netherlands/</link>
-      <category>Snyk</category>
-      <pubDate>Fri, 7 Apr 2023 06:16:19 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/DataleakintheNetherlandsWhatdevelopersshouldlearnfrom.html</guid>
-      	<description>
-	&lt;p&gt;In this post, we&apos;ll discuss the recent data leaks in the Netherlands and what developers can learn from these security incidents.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/data-leak-netherlands/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
     <item>
       <title>Data leak in the Netherlands: What developers should learn from this</title>
       <link>https://dev.to/snyk/data-leak-in-the-netherlands-what-developers-should-learn-from-this-431c</link>
@@ -32,6 +19,19 @@
 	&lt;p&gt;Currently, there are a series of data leaks going on in the Netherlands. Blauw, a prominent market...&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://dev.to/snyk/data-leak-in-the-netherlands-what-developers-should-learn-from-this-431c&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Data leak in the Netherlands: What developers should learn from ...</title>
+      <link>https://snyk.io/blog/data-leak-netherlands/</link>
+      <category>Snyk</category>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/DataleakintheNetherlandsWhatdevelopersshouldlearnfrom.html</guid>
+      	<description>
+	&lt;p&gt;In this post, we&apos;ll discuss the recent data leaks in the Netherlands and what developers can learn from these security incidents.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/data-leak-netherlands/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -595,6 +595,19 @@
 	</description>
     </item>
     <item>
+      <title>New years resolution: Don&apos;t show my security tokens when hacking ...</title>
+      <link>https://snyk.io/blog/dont-show-security-tokens-on-stage/</link>
+      <category>Snyk</category>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/NewyearsresolutionDontshowmysecuritytokenswhenhacking.html</guid>
+      	<description>
+	&lt;p&gt;My new year’s resolution for 2022 is: Don’t expose confidential information while I hack my applications during demos or presentations.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/dont-show-security-tokens-on-stage/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>Java JSON deserialization problems with the Jackson ObjectMapper</title>
       <link>https://dev.to/brianverm/java-json-deserialization-problems-with-the-jackson-objectmapper-fo2</link>
       <category>Dev</category>
@@ -608,19 +621,6 @@
 	</description>
     </item>
     <item>
-      <title>Log4Shell: Critical Log4j RCE Vulnerabilty -- Update to Version 2.15.0</title>
-      <link>https://foojay.io/today/log4shell-critical-log4j-rce-vulnerabilty-update-to-version-2-15-0/</link>
-      <category>Foojay</category>
-      <pubDate>Thu, 9 Dec 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/Log4ShellCriticalLog4jRCEVulnerabiltyUpdatetoVersion2150.html</guid>
-      	<description>
-	&lt;p&gt;On Dec.10, 2021, a new, critical Log4j vulnerability was disclosed: Log4Shell. All current versions of log4j2 up to 2.14.1 are vulnerable.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/log4shell-critical-log4j-rce-vulnerabilty-update-to-version-2-15-0/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Log4j vulnerability explained: Prevent Log4Shell RCE by updating ...</title>
       <link>https://snyk.io/blog/log4j-rce-log4shell-vulnerability-cve-2021-44228/</link>
       <category>Snyk</category>
@@ -630,6 +630,19 @@
 	&lt;p&gt;Today (Dec.10, 2021), a new, critical Log4j vulnerability was disclosed: Log4Shell.  Learn more about log4j vulnerability fix.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/log4j-rce-log4shell-vulnerability-cve-2021-44228/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Log4Shell: Critical Log4j RCE Vulnerabilty -- Update to Version 2.15.0</title>
+      <link>https://foojay.io/today/log4shell-critical-log4j-rce-vulnerabilty-update-to-version-2-15-0/</link>
+      <category>Foojay</category>
+      <pubDate>Thu, 9 Dec 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/Log4ShellCriticalLog4jRCEVulnerabiltyUpdatetoVersion2150.html</guid>
+      	<description>
+	&lt;p&gt;On Dec.10, 2021, a new, critical Log4j vulnerability was disclosed: Log4Shell. All current versions of log4j2 up to 2.14.1 are vulnerable.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/log4shell-critical-log4j-rce-vulnerabilty-update-to-version-2-15-0/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1402,13 +1415,13 @@
 	</description>
     </item>
     <item>
-      <title>Java logging: what should you log and what not? | Snyk</title>
+      <title>Java logging: what should you log and what not?</title>
       <link>https://snyk.io/blog/java-logging-what-should-you-log-and-what-not/</link>
       <category>Snyk</category>
       <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/JavaloggingwhatshouldyoulogandwhatnotSnyk.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/Javaloggingwhatshouldyoulogandwhatnot.html</guid>
       	<description>
-	&lt;p&gt;In addition to the functional aspect of logging, logs are also critical from a Java security perspective. When a security breach occurs, your log files are&lt;/p&gt;
+	&lt;p&gt;null&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/java-logging-what-should-you-log-and-what-not/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
@@ -1424,6 +1437,19 @@
 	&lt;p&gt;A pragmatic guide to Java logging—what should we log, what shouldn’t we log, and how to implement Java logging properly.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://foojay.io/today/java-logging-what-to-log-what-not-to-log/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Java logging: what should you log and what not? | Snyk</title>
+      <link>https://snyk.io/blog/java-logging-what-should-you-log-and-what-not/</link>
+      <category>Snyk</category>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/JavaloggingwhatshouldyoulogandwhatnotSnyk.html</guid>
+      	<description>
+	&lt;p&gt;In addition to the functional aspect of logging, logs are also critical from a Java security perspective. When a security breach occurs, your log files are&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/java-logging-what-should-you-log-and-what-not/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1844,13 +1870,13 @@
 	</description>
     </item>
     <item>
-      <title>Java turns 25—aging like fine wine or more like milk? | Snyk</title>
+      <title>Java turns 25—aging like fine wine or more like milk?</title>
       <link>https://snyk.io/blog/java-turns-25/</link>
       <category>Snyk</category>
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/Javaturns25aginglikefinewineormorelikemilkSnyk.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/Javaturns25aginglikefinewineormorelikemilk.html</guid>
       	<description>
-	&lt;p&gt;On May 23, 1995, Sun Microsystems released Java. This means that Java turns 25 years old and that is something we need to celebrate! Let&apos;s try to decide if Java aged like fine wine or more like milk.&lt;/p&gt;
+	&lt;p&gt;On May 23, 1995, Sun Microsystems released Java. This means that Java turns 25 years old and that is something we need to celebrate! Let’s try to decide if Java aged like fine wine or more like milk.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/java-turns-25/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
@@ -1870,13 +1896,13 @@
 	</description>
     </item>
     <item>
-      <title>Java turns 25—aging like fine wine or more like milk?</title>
+      <title>Java turns 25—aging like fine wine or more like milk? | Snyk</title>
       <link>https://snyk.io/blog/java-turns-25/</link>
       <category>Snyk</category>
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/Javaturns25aginglikefinewineormorelikemilk.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/Javaturns25aginglikefinewineormorelikemilkSnyk.html</guid>
       	<description>
-	&lt;p&gt;On May 23, 1995, Sun Microsystems released Java. This means that Java turns 25 years old and that is something we need to celebrate! Let’s try to decide if Java aged like fine wine or more like milk.&lt;/p&gt;
+	&lt;p&gt;On May 23, 1995, Sun Microsystems released Java. This means that Java turns 25 years old and that is something we need to celebrate! Let&apos;s try to decide if Java aged like fine wine or more like milk.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/java-turns-25/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
@@ -2091,13 +2117,13 @@
 	</description>
     </item>
     <item>
-      <title>Kotlin overtakes Scala and Clojure, to become the 2nd most popular ...</title>
+      <title>Kotlin overtakes Scala and Clojure, becoming the 2nd most popular ...</title>
       <link>https://snyk.io/blog/kotlin-overtakes-scala-and-clojure-to-become-the-2nd-most-popular-language-on-the-jvm/</link>
       <category>Snyk</category>
       <pubDate>Tue, 4 Feb 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/KotlinovertakesScalaandClojuretobecomethe2ndmostpopular.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/KotlinovertakesScalaandClojurebecomingthe2ndmostpopular.html</guid>
       	<description>
-	&lt;p&gt;Welcome to our annual JVM ecosystem report! This report presents the results of the largest annual survey on the JVM ecosystem, showing results from the&lt;/p&gt;
+	&lt;p&gt;Snyk&apos;s annual JVM ecosystem report presents the results of the largest annual survey on the JVM ecosystem, which gathered over 2000 responses in the second half of 2019.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/kotlin-overtakes-scala-and-clojure-to-become-the-2nd-most-popular-language-on-the-jvm/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
@@ -2169,13 +2195,13 @@
 	</description>
     </item>
     <item>
-      <title>Kotlin overtakes Scala and Clojure, becoming the 2nd most popular ...</title>
+      <title>Kotlin overtakes Scala and Clojure, to become the 2nd most popular ...</title>
       <link>https://snyk.io/blog/kotlin-overtakes-scala-and-clojure-to-become-the-2nd-most-popular-language-on-the-jvm/</link>
       <category>Snyk</category>
       <pubDate>Tue, 4 Feb 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/KotlinovertakesScalaandClojurebecomingthe2ndmostpopular.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/KotlinovertakesScalaandClojuretobecomethe2ndmostpopular.html</guid>
       	<description>
-	&lt;p&gt;Snyk&apos;s annual JVM ecosystem report presents the results of the largest annual survey on the JVM ecosystem, which gathered over 2000 responses in the second half of 2019.&lt;/p&gt;
+	&lt;p&gt;Welcome to our annual JVM ecosystem report! This report presents the results of the largest annual survey on the JVM ecosystem, showing results from the&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/kotlin-overtakes-scala-and-clojure-to-become-the-2nd-most-popular-language-on-the-jvm/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
