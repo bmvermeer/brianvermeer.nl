@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Tue, 2 May 2023 06:17:18 +0000</pubDate>
-    <lastBuildDate>Tue, 2 May 2023 06:17:18 +0000</lastBuildDate>
+    <pubDate>Wed, 3 May 2023 06:16:51 +0000</pubDate>
+    <lastBuildDate>Wed, 3 May 2023 06:16:51 +0000</lastBuildDate>
 
     <item>
       <title>Preventing Cross-Site Scripting (XSS) in Java applications with Snyk Code</title>
@@ -777,19 +777,6 @@
 	</description>
     </item>
     <item>
-      <title>How Social Trends Help Me Fix Essential Vulnerabilities | Foojay.io ...</title>
-      <link>https://foojay.io/today/how-social-trends-help-me-fix-essential-vulnerabilities/</link>
-      <category>Foojay</category>
-      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/HowSocialTrendsHelpMeFixEssentialVulnerabilitiesFoojayio.html</guid>
-      	<description>
-	&lt;p&gt;Our research team found a correlation between socially trending vulnerabilities and the existence of exploits that can harm your application.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/how-social-trends-help-me-fix-essential-vulnerabilities/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>The 8 best IntelliJ plugins for improving your coding experience</title>
       <link>https://snyk.io/blog/best-intellij-plugins-for-improving-your-coding-experience/</link>
       <category>Snyk</category>
@@ -812,6 +799,19 @@
 	&lt;p&gt;Cloud-native-applicaties bevatten infrastructure-as-code (in het kort iac) die bepalen hoe applicaties werken binnen een cloud-infrastructuur en hoe gecontaineriseerde applicaties op Kubernetes draaien. Iac betekent snellere, herhaalbare implementaties, maar verhoogt tegelijkertijd de druk voor ontwikkelaars om niet alleen hun code te beveiligen, maar ook de infrastructuurconfiguratie, code-afhankelijkheden en containers.&lt;br /&gt;
 ...&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.computable.nl/artikel/opinie/security/7234118/1509029/security-in-geding-bij-infrastructure-as-code.html&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>How Social Trends Help Me Fix Essential Vulnerabilities | Foojay.io ...</title>
+      <link>https://foojay.io/today/how-social-trends-help-me-fix-essential-vulnerabilities/</link>
+      <category>Foojay</category>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/HowSocialTrendsHelpMeFixEssentialVulnerabilitiesFoojayio.html</guid>
+      	<description>
+	&lt;p&gt;Our research team found a correlation between socially trending vulnerabilities and the existence of exploits that can harm your application.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/how-social-trends-help-me-fix-essential-vulnerabilities/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
