@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Thu, 4 May 2023 06:17:06 +0000</pubDate>
-    <lastBuildDate>Thu, 4 May 2023 06:17:06 +0000</lastBuildDate>
+    <pubDate>Fri, 5 May 2023 06:17:12 +0000</pubDate>
+    <lastBuildDate>Fri, 5 May 2023 06:17:12 +0000</lastBuildDate>
 
     <item>
       <title>Preventing Cross-Site Scripting (XSS) in Java applications with Snyk Code</title>
@@ -26,7 +26,7 @@
       <title>Preventing Cross-Site Scripting (XSS) in Java applications with Snyk ...</title>
       <link>https://snyk.io/blog/preventing-xss-snyk-code/</link>
       <category>Snyk</category>
-      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/PreventingCrossSiteScriptingXSSinJavaapplicationswithSnyk.html</guid>
       	<description>
 	&lt;p&gt;In this post, we&apos;ll demonstrate how Snyk Code can help you prevent cross-site scripting (XSS) vulnerabilities in Java.&lt;/p&gt;
