@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sun, 7 May 2023 06:16:30 +0000</pubDate>
-    <lastBuildDate>Sun, 7 May 2023 06:16:30 +0000</lastBuildDate>
+    <pubDate>Mon, 8 May 2023 06:17:34 +0000</pubDate>
+    <lastBuildDate>Mon, 8 May 2023 06:17:34 +0000</lastBuildDate>
 
     <item>
       <title>Preventing Cross-Site Scripting (XSS) in Java applications with Snyk Code</title>
