@@ -6,19 +6,19 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Tue, 23 May 2023 06:17:02 +0000</pubDate>
-    <lastBuildDate>Tue, 23 May 2023 06:17:02 +0000</lastBuildDate>
+    <pubDate>Wed, 24 May 2023 06:17:05 +0000</pubDate>
+    <lastBuildDate>Wed, 24 May 2023 06:17:05 +0000</lastBuildDate>
 
     <item>
-      <title>How to prevent XPath injection attacks</title>
-      <link>https://snyk.io/blog/prevent-xpath-injection-attacks/</link>
+      <title>How to generate an SBOM for JavaScript and Node.js applications ...</title>
+      <link>https://snyk.io/blog/generate-sbom-javascript-node-js-applications/</link>
       <category>Snyk</category>
-      <pubDate>Tue, 9 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/HowtopreventXPathinjectionattacks.html</guid>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/HowtogenerateanSBOMforJavaScriptandNodejsapplications.html</guid>
       	<description>
-	&lt;p&gt;In this article, we’ll explore XML vulnerabilities and learn how to prevent them from compromising application data.&lt;/p&gt;
+	&lt;p&gt;Follow our step by step guide to generating an SBOM for JavaScript and Node.js applications using the Snyk API or CLI tool.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/prevent-xpath-injection-attacks/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://snyk.io/blog/generate-sbom-javascript-node-js-applications/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -361,19 +361,6 @@
 	</description>
     </item>
     <item>
-      <title>Secure CI/CD Pipelines with GitHub Actions for Your Java Apps</title>
-      <link>https://foojay.io/today/building-secure-ci-cd-pipelines-with-github-actions-for-your-java-application/</link>
-      <category>Foojay</category>
-      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/SecureCICDPipelineswithGitHubActionsforYourJavaApps.html</guid>
-      	<description>
-	&lt;p&gt;Learn how to integrate Snyk into your GitHub CI/CD to automate security scanning as part of your build cycle prior to production.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/building-secure-ci-cd-pipelines-with-github-actions-for-your-java-application/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Controlling your server with a reverse shell attack</title>
       <link>https://snyk.io/blog/reverse-shell-attack/</link>
       <category>Snyk</category>
@@ -474,6 +461,19 @@
 	&lt;p&gt;GitHub Actions has made it easier than ever to build a secure continuous integration and continuous delivery (CI/CD) pipeline for your GitHub projects. And by integrating Snyk into your GitHub CI/CD, you can automate security scanning as part of your build cycle prior to production.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/building-a-secure-pipeline-with-github-actions/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Secure CI/CD Pipelines with GitHub Actions for Your Java Apps</title>
+      <link>https://foojay.io/today/building-secure-ci-cd-pipelines-with-github-actions-for-your-java-application/</link>
+      <category>Foojay</category>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/SecureCICDPipelineswithGitHubActionsforYourJavaApps.html</guid>
+      	<description>
+	&lt;p&gt;Learn how to integrate Snyk into your GitHub CI/CD to automate security scanning as part of your build cycle prior to production.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/building-secure-ci-cd-pipelines-with-github-actions-for-your-java-application/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
