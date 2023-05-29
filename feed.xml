@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sun, 28 May 2023 06:15:57 +0000</pubDate>
-    <lastBuildDate>Sun, 28 May 2023 06:15:57 +0000</lastBuildDate>
+    <pubDate>Mon, 29 May 2023 06:17:45 +0000</pubDate>
+    <lastBuildDate>Mon, 29 May 2023 06:17:45 +0000</lastBuildDate>
 
     <item>
       <title>How to generate an SBOM for JavaScript and Node.js applications ...</title>
@@ -995,6 +995,19 @@
 	&lt;p&gt;Just like last year, and together with our partner Azul, we would like your input on how you use Java and the JVM ecosystem.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://foojay.io/today/java-ecosystem-survey-2021/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Sanitize All Input! Sanitize All Input! Sanitize All Input! | foojay</title>
+      <link>https://foojay.io/today/sanitize-all-input/</link>
+      <category>Foojay</category>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/SanitizeAllInputSanitizeAllInputSanitizeAllInputfoojay.html</guid>
+      	<description>
+	&lt;p&gt;Cross-site scripting (XSS) is a well-known issue and mostly utilized in JavaScript applications. However, Java is not immune to this!&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/sanitize-all-input/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -2347,19 +2360,6 @@
 	&lt;p&gt;In this cheat sheet edition, we’re going to focus on ten Java security best practices for both open source maintainers and developers.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/10-java-security-best-practices/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Sanitize All Input! Sanitize All Input! Sanitize All Input! | foojay</title>
-      <link>https://foojay.io/today/sanitize-all-input/</link>
-      <category>Foojay</category>
-      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/SanitizeAllInputSanitizeAllInputSanitizeAllInputfoojay.html</guid>
-      	<description>
-	&lt;p&gt;Cross-site scripting (XSS) is a well-known issue and mostly utilized in JavaScript applications. However, Java is not immune to this!&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/sanitize-all-input/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
