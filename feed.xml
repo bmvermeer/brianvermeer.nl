@@ -6,9 +6,22 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Fri, 9 Jun 2023 06:17:29 +0000</pubDate>
-    <lastBuildDate>Fri, 9 Jun 2023 06:17:29 +0000</lastBuildDate>
+    <pubDate>Sat, 10 Jun 2023 06:16:17 +0000</pubDate>
+    <lastBuildDate>Sat, 10 Jun 2023 06:16:17 +0000</lastBuildDate>
 
+    <item>
+      <title>Preventing Cross-Site Scripting (XSS) in Java with Snyk Code</title>
+      <link>https://foojay.io/today/preventing-cross-site-scripting-xss-in-java-applications-with-snyk-code/</link>
+      <category>Foojay</category>
+      <pubDate>Sat, 10 Jun 2023 06:16:13 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/PreventingCrossSiteScriptingXSSinJavawithSnykCode.html</guid>
+      	<description>
+	&lt;p&gt;foojay is the place for all OpenJDK Update Release Information. Learn More.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/preventing-cross-site-scripting-xss-in-java-applications-with-snyk-code/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
     <item>
       <title>How to generate an SBOM for JavaScript and Node.js applications ...</title>
       <link>https://snyk.io/blog/generate-sbom-javascript-node-js-applications/</link>
@@ -543,6 +556,19 @@
 	</description>
     </item>
     <item>
+      <title>Spring4Shell: The zero-day RCE in the Spring Framework explained</title>
+      <link>https://foojay.io/today/spring4shell-the-zero-day-rce-in-the-spring-framework-explained-ready/</link>
+      <category>Foojay</category>
+      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/Spring4ShellThezerodayRCEintheSpringFrameworkexplained.html</guid>
+      	<description>
+	&lt;p&gt;We’ll explore how remote code execution (RCE) works, explaining Spring4Shell, a zero-day vulnerability in the Spring framework that could allow for RCE&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/spring4shell-the-zero-day-rce-in-the-spring-framework-explained-ready/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>User Office Hours: Building a Secure CI/CD Pipeline with GitHub Actions and Snyk</title>
       <link>https://dev.to/snyk/user-office-hours-building-a-secure-cicd-pipeline-with-github-actions-and-snyk-3jjm</link>
       <category>Dev</category>
@@ -986,6 +1012,19 @@
 	</description>
     </item>
     <item>
+      <title>Explaining Java Deserialization Vulnerabilities (Part 1) | foojay</title>
+      <link>https://foojay.io/today/explaining-java-deserialization-vulnerabilities-part-1/</link>
+      <category>Foojay</category>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/ExplainingJavaDeserializationVulnerabilitiesPart1foojay.html</guid>
+      	<description>
+	&lt;p&gt;Java serialization—and specifically deserialization—is “the gift that keeps on giving” for the security issues produced over the years.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/explaining-java-deserialization-vulnerabilities-part-1/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>Sanitize All Input! Sanitize All Input! Sanitize All Input! | foojay</title>
       <link>https://foojay.io/today/sanitize-all-input/</link>
       <category>Foojay</category>
@@ -1346,19 +1385,6 @@
 	&lt;p&gt;Deserialization in Java is also known as “the gift that keeps on giving” due to the many security issues and other problems it has produced over the years.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/serialization-and-deserialization-in-java/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Explaining Java Deserialization Vulnerabilities (Part 1) | foojay</title>
-      <link>https://foojay.io/today/explaining-java-deserialization-vulnerabilities-part-1/</link>
-      <category>Foojay</category>
-      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/ExplainingJavaDeserializationVulnerabilitiesPart1foojay.html</guid>
-      	<description>
-	&lt;p&gt;Java serialization—and specifically deserialization—is “the gift that keeps on giving” for the security issues produced over the years.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/explaining-java-deserialization-vulnerabilities-part-1/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1974,19 +2000,6 @@
 	</description>
     </item>
     <item>
-      <title>Secure Code Review Best Practices (Part 1) | foojay</title>
-      <link>https://foojay.io/today/secure-code-review-best-practices-part-1/</link>
-      <category>Foojay</category>
-      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/SecureCodeReviewBestPracticesPart1foojay.html</guid>
-      	<description>
-	&lt;p&gt;Code reviews are hard to do well. Particularly when you’re not entirely sure about the errors you should be looking for!&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/secure-code-review-best-practices-part-1/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Secure Code Review</title>
       <link>https://snyk.io/blog/secure-code-review/</link>
       <category>Snyk</category>
@@ -1996,6 +2009,19 @@
 	&lt;p&gt;It’s always a good idea to check for security issues in code that you review. In case you don’t know what to look for, here’s a handy checklist to give you pointers for your next code reviews!&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/secure-code-review/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Secure Code Review Best Practices (Part 1) | foojay</title>
+      <link>https://foojay.io/today/secure-code-review-best-practices-part-1/</link>
+      <category>Foojay</category>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/SecureCodeReviewBestPracticesPart1foojay.html</guid>
+      	<description>
+	&lt;p&gt;Code reviews are hard to do well. Particularly when you’re not entirely sure about the errors you should be looking for!&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/secure-code-review-best-practices-part-1/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
