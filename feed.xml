@@ -6,14 +6,14 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Fri, 16 Jun 2023 06:17:14 +0000</pubDate>
-    <lastBuildDate>Fri, 16 Jun 2023 06:17:14 +0000</lastBuildDate>
+    <pubDate>Sat, 17 Jun 2023 06:16:03 +0000</pubDate>
+    <lastBuildDate>Sat, 17 Jun 2023 06:16:03 +0000</lastBuildDate>
 
     <item>
       <title>Preventing Cross-Site Scripting (XSS) in Java with Snyk Code</title>
       <link>https://foojay.io/today/preventing-cross-site-scripting-xss-in-java-applications-with-snyk-code/</link>
       <category>Foojay</category>
-      <pubDate>Fri, 16 Jun 2023 06:17:12 +0000</pubDate>
+      <pubDate>Thu, 8 Jun 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Foojay/PreventingCrossSiteScriptingXSSinJavawithSnykCode.html</guid>
       	<description>
 	&lt;p&gt;foojay is the place for all OpenJDK Update Release Information. Learn More.&lt;/p&gt;
