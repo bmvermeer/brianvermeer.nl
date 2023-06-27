@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Mon, 26 Jun 2023 06:21:13 +0000</pubDate>
-    <lastBuildDate>Mon, 26 Jun 2023 06:21:13 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Jun 2023 06:19:39 +0000</pubDate>
+    <lastBuildDate>Tue, 27 Jun 2023 06:19:39 +0000</lastBuildDate>
 
     <item>
       <title>SnakeYaml 2.0: Solving the unsafe deserialization vulnerability</title>
@@ -816,19 +816,6 @@
 	</description>
     </item>
     <item>
-      <title>Secure Code Review Best Practices (Part 1) | foojay</title>
-      <link>https://foojay.io/today/secure-code-review-best-practices-part-1/</link>
-      <category>Foojay</category>
-      <pubDate>Wed, 8 Sep 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/SecureCodeReviewBestPracticesPart1foojay.html</guid>
-      	<description>
-	&lt;p&gt;Code reviews are hard to do well. Particularly when you’re not entirely sure about the errors you should be looking for!&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/secure-code-review-best-practices-part-1/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>The 8 best IntelliJ plugins for improving your coding experience</title>
       <link>https://snyk.io/blog/best-intellij-plugins-for-improving-your-coding-experience/</link>
       <category>Snyk</category>
@@ -1041,7 +1028,7 @@
       <title>Sanitize All Input! Sanitize All Input! Sanitize All Input! | foojay</title>
       <link>https://foojay.io/today/sanitize-all-input/</link>
       <category>Foojay</category>
-      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Foojay/SanitizeAllInputSanitizeAllInputSanitizeAllInputfoojay.html</guid>
       	<description>
 	&lt;p&gt;Cross-site scripting (XSS) is a well-known issue and mostly utilized in JavaScript applications. However, Java is not immune to this!&lt;/p&gt;
@@ -1636,19 +1623,6 @@
 	</description>
     </item>
     <item>
-      <title>Fixing Vulnerabilities in Maven-Based Projects | foojay</title>
-      <link>https://foojay.io/today/fixing-vulnerabilities-in-maven-projects/</link>
-      <category>Foojay</category>
-      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/FixingVulnerabilitiesinMavenBasedProjectsfoojay.html</guid>
-      	<description>
-	&lt;p&gt;In this article, I will explain how you can fix vulnerabilities in third-party libraries when using Maven, even when it is not obvious.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/fixing-vulnerabilities-in-maven-projects/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Fixing vulnerabilities in Maven projects | Snyk</title>
       <link>https://snyk.io/blog/fixing-vulnerabilities-in-maven-projects/</link>
       <category>Snyk</category>
@@ -1671,6 +1645,19 @@
 	&lt;p&gt;In this article, I will explain how you can fix vulnerabilities in third-party libraries when using Maven, even if it is not obvious.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/fixing-vulnerabilities-in-maven-projects/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Fixing Vulnerabilities in Maven-Based Projects | foojay</title>
+      <link>https://foojay.io/today/fixing-vulnerabilities-in-maven-projects/</link>
+      <category>Foojay</category>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/FixingVulnerabilitiesinMavenBasedProjectsfoojay.html</guid>
+      	<description>
+	&lt;p&gt;In this article, I will explain how you can fix vulnerabilities in third-party libraries when using Maven, even when it is not obvious.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/fixing-vulnerabilities-in-maven-projects/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -2009,6 +1996,19 @@
 	&lt;p&gt;So, let’s get started with our secure code review list of 8 security code review tips that you can check for, when looking at future pull requests!&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/secure-code-review/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Secure Code Review Best Practices (Part 1) | foojay</title>
+      <link>https://foojay.io/today/secure-code-review-best-practices-part-1/</link>
+      <category>Foojay</category>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/SecureCodeReviewBestPracticesPart1foojay.html</guid>
+      	<description>
+	&lt;p&gt;Code reviews are hard to do well. Particularly when you’re not entirely sure about the errors you should be looking for!&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/secure-code-review-best-practices-part-1/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
