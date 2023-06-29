@@ -6,14 +6,14 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Wed, 28 Jun 2023 06:19:36 +0000</pubDate>
-    <lastBuildDate>Wed, 28 Jun 2023 06:19:36 +0000</lastBuildDate>
+    <pubDate>Thu, 29 Jun 2023 06:19:29 +0000</pubDate>
+    <lastBuildDate>Thu, 29 Jun 2023 06:19:29 +0000</lastBuildDate>
 
     <item>
       <title>SnakeYaml 2.0: Solving the unsafe deserialization vulnerability</title>
       <link>https://snyk.io/blog/snakeyaml-unsafe-deserialization-vulnerability/</link>
       <category>Snyk</category>
-      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/SnakeYaml20Solvingtheunsafedeserializationvulnerability.html</guid>
       	<description>
 	&lt;p&gt;In this post, we&apos;ll walk you through using SnakeYaml 2.0 to solve the unsafe deserialization vulnerability.&lt;/p&gt;
@@ -1028,7 +1028,7 @@
       <title>Sanitize All Input! Sanitize All Input! Sanitize All Input! | foojay</title>
       <link>https://foojay.io/today/sanitize-all-input/</link>
       <category>Foojay</category>
-      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Foojay/SanitizeAllInputSanitizeAllInputSanitizeAllInputfoojay.html</guid>
       	<description>
 	&lt;p&gt;Cross-site scripting (XSS) is a well-known issue and mostly utilized in JavaScript applications. However, Java is not immune to this!&lt;/p&gt;
