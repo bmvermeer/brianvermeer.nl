@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sat, 1 Jul 2023 06:17:44 +0000</pubDate>
-    <lastBuildDate>Sat, 1 Jul 2023 06:17:44 +0000</lastBuildDate>
+    <pubDate>Sun, 2 Jul 2023 06:17:31 +0000</pubDate>
+    <lastBuildDate>Sun, 2 Jul 2023 06:17:31 +0000</lastBuildDate>
 
     <item>
       <title>SnakeYaml 2.0: Solving the unsafe deserialization vulnerability</title>
@@ -777,6 +777,19 @@
 	</description>
     </item>
     <item>
+      <title>How Social Trends Help Me Fix Essential Vulnerabilities | Foojay.io ...</title>
+      <link>https://foojay.io/today/how-social-trends-help-me-fix-essential-vulnerabilities/</link>
+      <category>Foojay</category>
+      <pubDate>Wed, 3 Nov 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/HowSocialTrendsHelpMeFixEssentialVulnerabilitiesFoojayio.html</guid>
+      	<description>
+	&lt;p&gt;Our research team found a correlation between socially trending vulnerabilities and the existence of exploits that can harm your application.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/how-social-trends-help-me-fix-essential-vulnerabilities/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>Security Horror Story: Accidentally exposing PII data</title>
       <link>https://snyk.io/blog/security-horror-story-accidentally-exposing-pii-data/</link>
       <category>Snyk</category>
@@ -838,19 +851,6 @@
 	&lt;p&gt;Cloud-native-applicaties bevatten infrastructure-as-code (in het kort iac) die bepalen hoe applicaties werken binnen een cloud-infrastructuur en hoe gecontaineriseerde applicaties op Kubernetes draaien. Iac betekent snellere, herhaalbare implementaties, maar verhoogt tegelijkertijd de druk voor ontwikkelaars om niet alleen hun code te beveiligen, maar ook de infrastructuurconfiguratie, code-afhankelijkheden en containers.&lt;br /&gt;
 ...&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.computable.nl/artikel/opinie/security/7234118/1509029/security-in-geding-bij-infrastructure-as-code.html&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>How Social Trends Help Me Fix Essential Vulnerabilities | Foojay.io ...</title>
-      <link>https://foojay.io/today/how-social-trends-help-me-fix-essential-vulnerabilities/</link>
-      <category>Foojay</category>
-      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/HowSocialTrendsHelpMeFixEssentialVulnerabilitiesFoojayio.html</guid>
-      	<description>
-	&lt;p&gt;Our research team found a correlation between socially trending vulnerabilities and the existence of exploits that can harm your application.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/how-social-trends-help-me-fix-essential-vulnerabilities/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1528,6 +1528,19 @@
 	&lt;p&gt;A pragmatic guide to Java logging—what should we log, what shouldn’t we log, and how to implement Java logging properly.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://foojay.io/today/java-logging-what-to-log-what-not-to-log/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Avoid Java Serialization: The Gift That Keeps On Giving | foojay</title>
+      <link>https://foojay.io/today/avoid-java-serialization/</link>
+      <category>Foojay</category>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/AvoidJavaSerializationTheGiftThatKeepsOnGivingfoojay.html</guid>
+      	<description>
+	&lt;p&gt;If you need to Deserialize an inputstream yourself, you should use an ObjectsInputStream with restrictions.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/avoid-java-serialization/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -2399,19 +2412,6 @@
 	&lt;p&gt;With XML eXternal Entity (XXE) enabled, it is possible to create a malicious XML, and read the content of an arbitrary file on the machine.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://foojay.io/today/how-to-configure-your-java-xml-parsers-to-prevent-xxe-attacks/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Avoid Java Serialization: The Gift That Keeps On Giving | foojay</title>
-      <link>https://foojay.io/today/avoid-java-serialization/</link>
-      <category>Foojay</category>
-      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/AvoidJavaSerializationTheGiftThatKeepsOnGivingfoojay.html</guid>
-      	<description>
-	&lt;p&gt;If you need to Deserialize an inputstream yourself, you should use an ObjectsInputStream with restrictions.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/avoid-java-serialization/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>

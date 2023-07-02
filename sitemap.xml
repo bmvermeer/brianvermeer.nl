@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>https://www.brianvermeer.nl/publications.html</loc>
-        <lastmod>2023-07-01</lastmod>
+        <lastmod>2023-07-02</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/talks.html</loc>
@@ -249,6 +249,10 @@
         <lastmod>2021-11-10</lastmod>
     </url>
     <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/HowSocialTrendsHelpMeFixEssentialVulnerabilitiesFoojayio.html</loc>
+        <lastmod>2021-11-03</lastmod>
+    </url>
+    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SecurityHorrorStoryAccidentallyexposingPIIdata.html</loc>
         <lastmod>2021-10-24</lastmod>
     </url>
@@ -267,10 +271,6 @@
     <url>
         <loc>https://www.brianvermeer.nl/blog/manual/security-in-geding-bij-infrastructure-as-code.html</loc>
         <lastmod>2021-08-24</lastmod>
-    </url>
-    <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/HowSocialTrendsHelpMeFixEssentialVulnerabilitiesFoojayio.html</loc>
-        <lastmod>2021-08-22</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/HowSnykSocialTrendshelpyoufixessentialsecurityvulnerabilities.html</loc>
@@ -478,6 +478,10 @@
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Foojay/JavaLoggingWhatToLogWhatNotToLogfoojay.html</loc>
+        <lastmod>2020-11-10</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/AvoidJavaSerializationTheGiftThatKeepsOnGivingfoojay.html</loc>
         <lastmod>2020-11-10</lastmod>
     </url>
     <url>
@@ -746,10 +750,6 @@
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Foojay/HowtoConfigureYourJavaXMLParserstoPreventXXEAttacks.html</loc>
-        <lastmod>2019-09-16</lastmod>
-    </url>
-    <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/AvoidJavaSerializationTheGiftThatKeepsOnGivingfoojay.html</loc>
         <lastmod>2019-09-16</lastmod>
     </url>
     <url>
