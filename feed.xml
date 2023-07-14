@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Thu, 13 Jul 2023 06:19:27 +0000</pubDate>
-    <lastBuildDate>Thu, 13 Jul 2023 06:19:27 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Jul 2023 06:19:41 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Jul 2023 06:19:41 +0000</lastBuildDate>
 
     <item>
       <title>SnakeYaml 2.0: Solving the unsafe deserialization vulnerability</title>
