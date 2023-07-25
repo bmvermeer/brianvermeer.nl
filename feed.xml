@@ -6,14 +6,14 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Mon, 24 Jul 2023 06:18:16 +0000</pubDate>
-    <lastBuildDate>Mon, 24 Jul 2023 06:18:16 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Jul 2023 06:17:40 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Jul 2023 06:17:40 +0000</lastBuildDate>
 
     <item>
       <title>SnakeYaml 2.0: Solving the unsafe deserialization vulnerability</title>
       <link>https://foojay.io/today/snakeyaml-2-0-solving-the-unsafe-deserialization-vulnerability/</link>
       <category>Foojay</category>
-      <pubDate>Mon, 24 Jul 2023 06:18:13 +0000</pubDate>
+      <pubDate>Tue, 25 Jul 2023 06:17:37 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Foojay/SnakeYaml20Solvingtheunsafedeserializationvulnerability.html</guid>
       	<description>
 	&lt;p&gt;In December of last year, we reported CVE-2022-1471 to you. This unsafe deserialization problem could easily lead to arbitrary code execution.&lt;/p&gt;
