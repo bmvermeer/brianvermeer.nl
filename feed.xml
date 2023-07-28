@@ -6,14 +6,14 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Thu, 27 Jul 2023 06:17:25 +0000</pubDate>
-    <lastBuildDate>Thu, 27 Jul 2023 06:17:25 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Jul 2023 06:17:04 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Jul 2023 06:17:04 +0000</lastBuildDate>
 
     <item>
       <title>SnakeYaml 2.0: Solving the unsafe deserialization vulnerability</title>
       <link>https://foojay.io/today/snakeyaml-2-0-solving-the-unsafe-deserialization-vulnerability/</link>
       <category>Foojay</category>
-      <pubDate>Thu, 27 Jul 2023 06:17:21 +0000</pubDate>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Foojay/SnakeYaml20Solvingtheunsafedeserializationvulnerability.html</guid>
       	<description>
 	&lt;p&gt;In December of last year, we reported CVE-2022-1471 to you. This unsafe deserialization problem could easily lead to arbitrary code execution.&lt;/p&gt;
@@ -26,7 +26,7 @@
       <title>8 tips for securing your CI/CD pipeline with Snyk</title>
       <link>https://snyk.io/blog/securing-ci-cd-pipeline-with-snyk/</link>
       <category>Snyk</category>
-      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/8tipsforsecuringyourCICDpipelinewithSnyk.html</guid>
       	<description>
 	&lt;p&gt;In this post, we’ll cover using Snyk in your CI/CD pipelines to catch security issues quickly and empower your developers to fix them before they ever get to production.&lt;/p&gt;
@@ -920,6 +920,19 @@
 	</description>
     </item>
     <item>
+      <title>Getting Started with Snyk for Secure Java Development | Foojay Today</title>
+      <link>https://foojay.io/today/getting-started-with-snyk-for-secure-java-development/</link>
+      <category>Foojay</category>
+      <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/GettingStartedwithSnykforSecureJavaDevelopmentFoojayToday.html</guid>
+      	<description>
+	&lt;p&gt;Learn how to begin with Snyk for secure Java development so that you too can be more secure from the get-go!&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/getting-started-with-snyk-for-secure-java-development/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>Why You Should Upgrade to Maven Version 3.8.1 Today or Very Soon</title>
       <link>https://foojay.io/today/why-you-should-upgrade-to-maven-version-3-8-1-today-or-very-soon/</link>
       <category>Foojay</category>
@@ -955,19 +968,6 @@
 	&lt;p&gt;As part of this year’s annual JVM Ecosystem Report, we raised money for Devoxx4Kids, an amazing organization that promotes computer programming, robotics, and engineering to kids in a fun and engaging way.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/devoxx4kids-empowering-young-java-developers-and-creating-future-industry-stars/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Getting Started with Snyk for Secure Java Development | Foojay Today</title>
-      <link>https://foojay.io/today/getting-started-with-snyk-for-secure-java-development/</link>
-      <category>Foojay</category>
-      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/GettingStartedwithSnykforSecureJavaDevelopmentFoojayToday.html</guid>
-      	<description>
-	&lt;p&gt;Learn how to begin with Snyk for secure Java development so that you too can be more secure from the get-go!&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/getting-started-with-snyk-for-secure-java-development/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1103,6 +1103,19 @@
 	</description>
     </item>
     <item>
+      <title>8 Best Practices to Prevent SQL Injection Attacks | foojay</title>
+      <link>https://foojay.io/today/8-best-practices-to-prevent-sql-injection-attacks/</link>
+      <category>Foojay</category>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/8BestPracticestoPreventSQLInjectionAttacksfoojay.html</guid>
+      	<description>
+	&lt;p&gt;SQL injection, when a user adds untrusted data to a database query, is one of the most dangerous vulnerabilities for online applications.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/8-best-practices-to-prevent-sql-injection-attacks/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>Preventing YAML parsing issues in Java</title>
       <link>https://dev.to/brianverm/preventing-yaml-parsing-issues-in-java-33l0</link>
       <category>Dev</category>
@@ -1190,19 +1203,6 @@
 	&lt;p&gt;YAML files are often used to configure applications, application servers, or clusters. It is a very common format in Spring Boot applications and, of course,&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/java-yaml-parser-with-snakeyaml/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>8 Best Practices to Prevent SQL Injection Attacks | foojay</title>
-      <link>https://foojay.io/today/8-best-practices-to-prevent-sql-injection-attacks/</link>
-      <category>Foojay</category>
-      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/8BestPracticestoPreventSQLInjectionAttacksfoojay.html</guid>
-      	<description>
-	&lt;p&gt;SQL injection, when a user adds untrusted data to a database query, is one of the most dangerous vulnerabilities for online applications.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/8-best-practices-to-prevent-sql-injection-attacks/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1580,6 +1580,19 @@
 	&lt;p&gt;If you need to Deserialize an inputstream yourself, you should use an ObjectsInputStream with restrictions.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://foojay.io/today/avoid-java-serialization/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>How to Configure Your Java XML Parsers to Prevent XXE Attacks ...</title>
+      <link>https://foojay.io/today/how-to-configure-your-java-xml-parsers-to-prevent-xxe-attacks/</link>
+      <category>Foojay</category>
+      <pubDate>Thu, 5 Nov 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/HowtoConfigureYourJavaXMLParserstoPreventXXEAttacks.html</guid>
+      	<description>
+	&lt;p&gt;With XML eXternal Entity (XXE) enabled, it is possible to create a malicious XML, and read the content of an arbitrary file on the machine.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/how-to-configure-your-java-xml-parsers-to-prevent-xxe-attacks/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -2438,19 +2451,6 @@
 	&lt;p&gt;In this cheat sheet edition, we’re going to focus on ten Java security best practices for both open source maintainers and developers.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/10-java-security-best-practices/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>How to Configure Your Java XML Parsers to Prevent XXE Attacks ...</title>
-      <link>https://foojay.io/today/how-to-configure-your-java-xml-parsers-to-prevent-xxe-attacks/</link>
-      <category>Foojay</category>
-      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/HowtoConfigureYourJavaXMLParserstoPreventXXEAttacks.html</guid>
-      	<description>
-	&lt;p&gt;With XML eXternal Entity (XXE) enabled, it is possible to create a malicious XML, and read the content of an arbitrary file on the machine.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/how-to-configure-your-java-xml-parsers-to-prevent-xxe-attacks/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>

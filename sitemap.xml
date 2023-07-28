@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>https://www.brianvermeer.nl/publications.html</loc>
-        <lastmod>2023-07-27</lastmod>
+        <lastmod>2023-07-28</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/talks.html</loc>
@@ -14,11 +14,11 @@
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Foojay/SnakeYaml20Solvingtheunsafedeserializationvulnerability.html</loc>
-        <lastmod>2023-07-27</lastmod>
+        <lastmod>2023-07-19</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/8tipsforsecuringyourCICDpipelinewithSnyk.html</loc>
-        <lastmod>2023-07-20</lastmod>
+        <lastmod>2023-07-19</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SnakeYaml20Solvingtheunsafedeserializationvulnerability.html</loc>
@@ -293,6 +293,10 @@
         <lastmod>2021-08-02</lastmod>
     </url>
     <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/GettingStartedwithSnykforSecureJavaDevelopmentFoojayToday.html</loc>
+        <lastmod>2021-07-28</lastmod>
+    </url>
+    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Foojay/WhyYouShouldUpgradetoMavenVersion381TodayorVerySoon.html</loc>
         <lastmod>2021-07-19</lastmod>
     </url>
@@ -303,10 +307,6 @@
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/Devoxx4KidsEmpoweringyoungJavadevelopersandcreating.html</loc>
         <lastmod>2021-07-14</lastmod>
-    </url>
-    <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/GettingStartedwithSnykforSecureJavaDevelopmentFoojayToday.html</loc>
-        <lastmod>2021-06-24</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/GettingstartedwithSnykforsecureJavadevelopment.html</loc>
@@ -349,6 +349,10 @@
         <lastmod>2021-04-19</lastmod>
     </url>
     <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/8BestPracticestoPreventSQLInjectionAttacksfoojay.html</loc>
+        <lastmod>2021-04-14</lastmod>
+    </url>
+    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Dev/PreventingYAMLparsingissuesinJava.html</loc>
         <lastmod>2021-04-08</lastmod>
     </url>
@@ -375,10 +379,6 @@
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/PreventingYAMLparsingvulnerabilitieswithsnakeyamlinJavaSnyk.html</loc>
         <lastmod>2021-03-29</lastmod>
-    </url>
-    <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/8BestPracticestoPreventSQLInjectionAttacksfoojay.html</loc>
-        <lastmod>2021-03-26</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SQLinjectioncheatsheet8bestpracticestopreventSQLinjection.html</loc>
@@ -495,6 +495,10 @@
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Foojay/AvoidJavaSerializationTheGiftThatKeepsOnGivingfoojay.html</loc>
         <lastmod>2020-11-10</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/HowtoConfigureYourJavaXMLParserstoPreventXXEAttacks.html</loc>
+        <lastmod>2020-11-05</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Dev/VideoSecurityscanningwithinGradle.html</loc>
@@ -758,10 +762,6 @@
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/10Javasecuritybestpractices.html</loc>
-        <lastmod>2019-09-16</lastmod>
-    </url>
-    <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/HowtoConfigureYourJavaXMLParserstoPreventXXEAttacks.html</loc>
         <lastmod>2019-09-16</lastmod>
     </url>
     <url>
