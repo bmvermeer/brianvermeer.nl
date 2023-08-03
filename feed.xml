@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Wed, 2 Aug 2023 06:17:33 +0000</pubDate>
-    <lastBuildDate>Wed, 2 Aug 2023 06:17:33 +0000</lastBuildDate>
+    <pubDate>Thu, 3 Aug 2023 06:16:43 +0000</pubDate>
+    <lastBuildDate>Thu, 3 Aug 2023 06:16:43 +0000</lastBuildDate>
 
     <item>
       <title>8 tips for securing your CI/CD pipeline with Snyk</title>
@@ -1064,6 +1064,19 @@
 	</description>
     </item>
     <item>
+      <title>Preventing YAML Parsing Vulnerabilities in Java | foojay</title>
+      <link>https://foojay.io/today/preventing-yaml-parsing-vulnerabilities-in-java/</link>
+      <category>Foojay</category>
+      <pubDate>Wed, 5 May 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/PreventingYAMLParsingVulnerabilitiesinJavafoojay.html</guid>
+      	<description>
+	&lt;p&gt;With anchors, you can create a YAML bomb! The tremendous amount of (nested) objects will cause a memory overload.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/preventing-yaml-parsing-vulnerabilities-in-java/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>Snyk Maven plugin: Integrated security vulnerability scanning for ...</title>
       <link>https://snyk.io/blog/snyk-maven-plugin-integrated-security-vulnerability-scanning-for-developers/</link>
       <category>Snyk</category>
@@ -1138,19 +1151,6 @@
 	&lt;p&gt;SQL injection is one of the most dangerous vulnerabilities for online applications. It occurs when a...&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://dev.to/brianverm/sql-injection-cheat-sheet-411d&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Preventing YAML Parsing Vulnerabilities in Java | foojay</title>
-      <link>https://foojay.io/today/preventing-yaml-parsing-vulnerabilities-in-java/</link>
-      <category>Foojay</category>
-      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/PreventingYAMLParsingVulnerabilitiesinJavafoojay.html</guid>
-      	<description>
-	&lt;p&gt;With anchors, you can create a YAML bomb! The tremendous amount of (nested) objects will cause a memory overload.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/preventing-yaml-parsing-vulnerabilities-in-java/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
