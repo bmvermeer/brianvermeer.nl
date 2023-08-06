@@ -6,14 +6,14 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sat, 5 Aug 2023 06:15:38 +0000</pubDate>
-    <lastBuildDate>Sat, 5 Aug 2023 06:15:38 +0000</lastBuildDate>
+    <pubDate>Sun, 6 Aug 2023 06:16:05 +0000</pubDate>
+    <lastBuildDate>Sun, 6 Aug 2023 06:16:05 +0000</lastBuildDate>
 
     <item>
       <title>Foojay Podcast #7: Security in Java -- what do we need to know?</title>
       <link>https://foojay.io/today/foojay-podcast-7/</link>
       <category>Foojay</category>
-      <pubDate>Sat, 5 Aug 2023 06:15:35 +0000</pubDate>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Foojay/FoojayPodcast7SecurityinJavawhatdoweneedtoknow.html</guid>
       	<description>
 	&lt;p&gt;We invited Java security experts to dive into the fascinating world of secure coding and detecting vulnerabilities in your Java applications!&lt;/p&gt;
