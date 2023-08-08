@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Mon, 7 Aug 2023 06:16:49 +0000</pubDate>
-    <lastBuildDate>Mon, 7 Aug 2023 06:16:49 +0000</lastBuildDate>
+    <pubDate>Tue, 8 Aug 2023 06:16:36 +0000</pubDate>
+    <lastBuildDate>Tue, 8 Aug 2023 06:16:36 +0000</lastBuildDate>
 
     <item>
       <title>Foojay Podcast #7: Security in Java -- what do we need to know?</title>
@@ -23,19 +23,6 @@
 	</description>
     </item>
     <item>
-      <title>SnakeYaml 2.0: Solving the unsafe deserialization vulnerability</title>
-      <link>https://foojay.io/today/snakeyaml-2-0-solving-the-unsafe-deserialization-vulnerability/</link>
-      <category>Foojay</category>
-      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/SnakeYaml20Solvingtheunsafedeserializationvulnerability.html</guid>
-      	<description>
-	&lt;p&gt;In December of last year, we reported CVE-2022-1471 to you. This unsafe deserialization problem could easily lead to arbitrary code execution.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/snakeyaml-2-0-solving-the-unsafe-deserialization-vulnerability/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>8 tips for securing your CI/CD pipeline with Snyk</title>
       <link>https://snyk.io/blog/securing-ci-cd-pipeline-with-snyk/</link>
       <category>Snyk</category>
@@ -45,6 +32,19 @@
 	&lt;p&gt;In this post, we’ll cover using Snyk in your CI/CD pipelines to catch security issues quickly and empower your developers to fix them before they ever get to production.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/securing-ci-cd-pipeline-with-snyk/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>SnakeYaml 2.0: Solving the unsafe deserialization vulnerability</title>
+      <link>https://foojay.io/today/snakeyaml-2-0-solving-the-unsafe-deserialization-vulnerability/</link>
+      <category>Foojay</category>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/SnakeYaml20Solvingtheunsafedeserializationvulnerability.html</guid>
+      	<description>
+	&lt;p&gt;In December of last year, we reported CVE-2022-1471 to you. This unsafe deserialization problem could easily lead to arbitrary code execution.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/snakeyaml-2-0-solving-the-unsafe-deserialization-vulnerability/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -136,32 +136,6 @@
 	&lt;p&gt;In this post, we&apos;ll discuss the recent data leaks in the Netherlands and what developers can learn from these security incidents.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/data-leak-netherlands/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>a place for friends of OpenJDK - foojay</title>
-      <link>https://foojay.io/today/mitigating-path-traversal-vulnerabilities-in-java/</link>
-      <category>Foojay</category>
-      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/aplaceforfriendsofOpenJDKfoojay.html</guid>
-      	<description>
-	&lt;p&gt;Path traversal vulnerabilities are a serious threat to Java web applications, amongst the top security issues Snyk finds in Java code.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/mitigating-path-traversal-vulnerabilities-in-java/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>How to create SBOMs in Java with Maven and Gradle</title>
-      <link>https://foojay.io/today/how-to-create-sboms-in-java-with-maven-and-gradle/</link>
-      <category>Foojay</category>
-      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/HowtocreateSBOMsinJavawithMavenandGradle.html</guid>
-      	<description>
-	&lt;p&gt;Java is a compiled language, so you should create an SBOM whenever you build a release version of your application. Find out more here!&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/how-to-create-sboms-in-java-with-maven-and-gradle/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -985,19 +959,6 @@
 	</description>
     </item>
     <item>
-      <title>New JVM Ecosystem Report 2021 Has Arrived! | foojay</title>
-      <link>https://foojay.io/today/new-jvm-ecosystem-report-2021-has-arrived/</link>
-      <category>Foojay</category>
-      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/NewJVMEcosystemReport2021HasArrivedfoojay.html</guid>
-      	<description>
-	&lt;p&gt;JVM Ecosystem Report 2021 presents the results of the largest annual survey on the state of the JVM ecosystem.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/new-jvm-ecosystem-report-2021-has-arrived/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>JVM Ecosystem Report 2021</title>
       <link>https://dev.to/brianverm/jvm-ecosystem-report-2021-3hp</link>
       <category>Dev</category>
@@ -1007,6 +968,19 @@
 	&lt;p&gt;Snyk has just released the annual JVM ecosystem report! This report presents the results of the...&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://dev.to/brianverm/jvm-ecosystem-report-2021-3hp&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>New JVM Ecosystem Report 2021 Has Arrived! | foojay</title>
+      <link>https://foojay.io/today/new-jvm-ecosystem-report-2021-has-arrived/</link>
+      <category>Foojay</category>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/NewJVMEcosystemReport2021HasArrivedfoojay.html</guid>
+      	<description>
+	&lt;p&gt;JVM Ecosystem Report 2021 presents the results of the largest annual survey on the state of the JVM ecosystem.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/new-jvm-ecosystem-report-2021-has-arrived/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1545,19 +1519,6 @@
 	</description>
     </item>
     <item>
-      <title>Java Logging: What To Log &amp; What Not To Log? | foojay</title>
-      <link>https://foojay.io/today/java-logging-what-to-log-what-not-to-log/</link>
-      <category>Foojay</category>
-      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/JavaLoggingWhatToLogWhatNotToLogfoojay.html</guid>
-      	<description>
-	&lt;p&gt;A pragmatic guide to Java logging—what should we log, what shouldn’t we log, and how to implement Java logging properly.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/java-logging-what-to-log-what-not-to-log/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Java logging: what should you log and what not? | Snyk</title>
       <link>https://snyk.io/blog/java-logging-what-should-you-log-and-what-not/</link>
       <category>Snyk</category>
@@ -1567,6 +1528,19 @@
 	&lt;p&gt;In addition to the functional aspect of logging, logs are also critical from a Java security perspective. When a security breach occurs, your log files are&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/java-logging-what-should-you-log-and-what-not/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Java Logging: What To Log &amp; What Not To Log? | foojay</title>
+      <link>https://foojay.io/today/java-logging-what-to-log-what-not-to-log/</link>
+      <category>Foojay</category>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/JavaLoggingWhatToLogWhatNotToLogfoojay.html</guid>
+      	<description>
+	&lt;p&gt;A pragmatic guide to Java logging—what should we log, what shouldn’t we log, and how to implement Java logging properly.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/java-logging-what-to-log-what-not-to-log/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -2078,19 +2052,6 @@
 	</description>
     </item>
     <item>
-      <title>Secure Code Review</title>
-      <link>https://snyk.io/blog/secure-code-review/</link>
-      <category>Snyk</category>
-      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/SecureCodeReview.html</guid>
-      	<description>
-	&lt;p&gt;It’s always a good idea to check for security issues in code that you review. In case you don’t know what to look for, here’s a handy checklist to give you pointers for your next code reviews!&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/secure-code-review/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Secure Code Review Best Practices (Part 1) | foojay</title>
       <link>https://foojay.io/today/secure-code-review-best-practices-part-1/</link>
       <category>Foojay</category>
@@ -2100,6 +2061,19 @@
 	&lt;p&gt;Code reviews are hard to do well. Particularly when you’re not entirely sure about the errors you should be looking for!&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://foojay.io/today/secure-code-review-best-practices-part-1/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Secure Code Review</title>
+      <link>https://snyk.io/blog/secure-code-review/</link>
+      <category>Snyk</category>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/SecureCodeReview.html</guid>
+      	<description>
+	&lt;p&gt;It’s always a good idea to check for security issues in code that you review. In case you don’t know what to look for, here’s a handy checklist to give you pointers for your next code reviews!&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/secure-code-review/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
