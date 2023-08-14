@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>https://www.brianvermeer.nl/publications.html</loc>
-        <lastmod>2023-08-13</lastmod>
+        <lastmod>2023-08-14</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/talks.html</loc>
@@ -14,7 +14,7 @@
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Foojay/FoojayPodcast7SecurityinJavawhatdoweneedtoknow.html</loc>
-        <lastmod>2023-08-13</lastmod>
+        <lastmod>2023-08-14</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/8tipsforsecuringyourCICDpipelinewithSnyk.html</loc>
@@ -27,10 +27,6 @@
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SnakeYaml20Solvingtheunsafedeserializationvulnerability.html</loc>
         <lastmod>2023-06-20</lastmod>
-    </url>
-    <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/PreventingCrossSiteScriptingXSSinJavawithSnykCode.html</loc>
-        <lastmod>2023-06-08</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/HowtogenerateanSBOMforJavaScriptandNodejsapplications.html</loc>
@@ -261,11 +257,11 @@
         <lastmod>2021-11-03</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/DiscussionTheStateofJava2021FoojayioToday.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SecurityHorrorStoryAccidentallyexposingPIIdata.html</loc>
         <lastmod>2021-10-24</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SecurityHorrorStoryAccidentallyexposingPIIdata.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/DiscussionTheStateofJava2021FoojayioToday.html</loc>
         <lastmod>2021-10-24</lastmod>
     </url>
     <url>
@@ -353,11 +349,11 @@
         <lastmod>2021-04-08</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/HowtofixJavasecurityissueswhilecodinginIntelliJIDEA.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/HowtofixJavasecurityissueswhilecodinginIntelliJIDEASnyk.html</loc>
         <lastmod>2021-04-07</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/HowtofixJavasecurityissueswhilecodinginIntelliJIDEASnyk.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/HowtofixJavasecurityissueswhilecodinginIntelliJIDEA.html</loc>
         <lastmod>2021-04-07</lastmod>
     </url>
     <url>
@@ -365,11 +361,11 @@
         <lastmod>2021-04-06</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/PreventingYAMLparsingvulnerabilitieswithsnakeyamlinJavaSnyk.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/PreventingYAMLparsingvulnerabilitieswithsnakeyamlinJava.html</loc>
         <lastmod>2021-03-29</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/PreventingYAMLparsingvulnerabilitieswithsnakeyamlinJava.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/PreventingYAMLparsingvulnerabilitieswithsnakeyamlinJavaSnyk.html</loc>
         <lastmod>2021-03-29</lastmod>
     </url>
     <url>
@@ -381,11 +377,11 @@
         <lastmod>2021-03-17</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SolvingJavasecurityissuesinaSpringMVCapp.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SolvingJavasecurityissuesinaSpringMVCappSnyk.html</loc>
         <lastmod>2021-03-14</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SolvingJavasecurityissuesinaSpringMVCappSnyk.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SolvingJavasecurityissuesinaSpringMVCapp.html</loc>
         <lastmod>2021-03-14</lastmod>
     </url>
     <url>
@@ -397,27 +393,27 @@
         <lastmod>2021-02-19</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/10bestpracticestobuildJavacontainerswithDockerSnykBlog.html</loc>
-        <lastmod>2021-02-17</lastmod>
-    </url>
-    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/10bestpracticestobuildJavacontainerswithDockerBlog.html</loc>
         <lastmod>2021-02-17</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/Javaecosystemsurvey2021SnykBlog.html</loc>
-        <lastmod>2021-02-14</lastmod>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/10bestpracticestobuildJavacontainerswithDockerSnykBlog.html</loc>
+        <lastmod>2021-02-17</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/Javaecosystemsurvey2021Blog.html</loc>
         <lastmod>2021-02-14</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/IdentifyprioritizeandfixvulnerabilitieswithReachable.html</loc>
-        <lastmod>2021-01-27</lastmod>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/Javaecosystemsurvey2021SnykBlog.html</loc>
+        <lastmod>2021-02-14</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Foojay/ExplainingJavaDeserializationVulnerabilitiesPart2foojay.html</loc>
+        <lastmod>2021-01-27</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/IdentifyprioritizeandfixvulnerabilitieswithReachable.html</loc>
         <lastmod>2021-01-27</lastmod>
     </url>
     <url>
@@ -441,19 +437,19 @@
         <lastmod>2020-12-23</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SerializationanddeserializationinJavaBlog.html</loc>
-        <lastmod>2020-12-17</lastmod>
-    </url>
-    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SerializationanddeserializationinJavaSnykBlog.html</loc>
         <lastmod>2020-12-17</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/GitcheckoutremotebranchhowitworksandwhentouseSnykBlog.html</loc>
-        <lastmod>2020-12-14</lastmod>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SerializationanddeserializationinJavaBlog.html</loc>
+        <lastmod>2020-12-17</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/GitcheckoutremotebranchhowitworksandwhentouseBlog.html</loc>
+        <lastmod>2020-12-14</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/GitcheckoutremotebranchhowitworksandwhentouseSnykBlog.html</loc>
         <lastmod>2020-12-14</lastmod>
     </url>
     <url>
@@ -461,11 +457,11 @@
         <lastmod>2020-12-04</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SnykCLIcheatsheetSnyk.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SnykCLIcheatsheet.html</loc>
         <lastmod>2020-11-25</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SnykCLIcheatsheet.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SnykCLIcheatsheetSnyk.html</loc>
         <lastmod>2020-11-25</lastmod>
     </url>
     <url>
@@ -477,7 +473,7 @@
         <lastmod>2020-11-19</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JavaloggingwhatshouldyoulogandwhatnotSnyk.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/Javaloggingwhatshouldyoulogandwhatnot.html</loc>
         <lastmod>2020-11-10</lastmod>
     </url>
     <url>
@@ -485,7 +481,7 @@
         <lastmod>2020-11-10</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/Javaloggingwhatshouldyoulogandwhatnot.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JavaloggingwhatshouldyoulogandwhatnotSnyk.html</loc>
         <lastmod>2020-11-10</lastmod>
     </url>
     <url>
@@ -505,19 +501,19 @@
         <lastmod>2020-10-29</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/GradledependenciesscanningwithnewSnykGradlepluginSnyk.html</loc>
-        <lastmod>2020-10-22</lastmod>
-    </url>
-    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/GradledependenciesscanningwithnewSnykGradleplugin.html</loc>
         <lastmod>2020-10-22</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JHipstersecurityscanningwithSnyk.html</loc>
-        <lastmod>2020-10-07</lastmod>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/GradledependenciesscanningwithnewSnykGradlepluginSnyk.html</loc>
+        <lastmod>2020-10-22</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JHipstersecurityscanningwithSnykSnyk.html</loc>
+        <lastmod>2020-10-07</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JHipstersecurityscanningwithSnyk.html</loc>
         <lastmod>2020-10-07</lastmod>
     </url>
     <url>
@@ -529,7 +525,7 @@
         <lastmod>2020-09-18</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/FixingvulnerabilitiesinMavenprojects.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/FixingvulnerabilitiesinMavenprojectsSnyk.html</loc>
         <lastmod>2020-09-13</lastmod>
     </url>
     <url>
@@ -537,7 +533,7 @@
         <lastmod>2020-09-13</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/FixingvulnerabilitiesinMavenprojectsSnyk.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/FixingvulnerabilitiesinMavenprojects.html</loc>
         <lastmod>2020-09-13</lastmod>
     </url>
     <url>
@@ -621,14 +617,6 @@
         <lastmod>2020-06-07</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SumListofnumbersinJavaSnyk.html</loc>
-        <lastmod>2020-05-21</lastmod>
-    </url>
-    <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/Javaturns25aginglikefinewineormorelikemilkSnyk.html</loc>
-        <lastmod>2020-05-21</lastmod>
-    </url>
-    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SumListofnumbersinJava.html</loc>
         <lastmod>2020-05-21</lastmod>
     </url>
@@ -637,12 +625,16 @@
         <lastmod>2020-05-21</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Dev/SummingaListofnumbersinJava.html</loc>
-        <lastmod>2020-05-08</lastmod>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SumListofnumbersinJavaSnyk.html</loc>
+        <lastmod>2020-05-21</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SecureCodeReview.html</loc>
-        <lastmod>2020-04-19</lastmod>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/Javaturns25aginglikefinewineormorelikemilkSnyk.html</loc>
+        <lastmod>2020-05-21</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Dev/SummingaListofnumbersinJava.html</loc>
+        <lastmod>2020-05-08</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SecureCodeReviewSnyk.html</loc>
@@ -650,6 +642,10 @@
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Foojay/SecureCodeReviewBestPracticesPart1foojay.html</loc>
+        <lastmod>2020-04-19</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SecureCodeReview.html</loc>
         <lastmod>2020-04-19</lastmod>
     </url>
     <url>
@@ -701,18 +697,6 @@
         <lastmod>2020-02-12</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SpringdominatestheJavaecosystemwith60usingitfortheir.html</loc>
-        <lastmod>2020-02-04</lastmod>
-    </url>
-    <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/KotlinovertakesScalaandClojuretobecomethe2ndmostpopular.html</loc>
-        <lastmod>2020-02-04</lastmod>
-    </url>
-    <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JVMEcosystemReport2020.html</loc>
-        <lastmod>2020-02-04</lastmod>
-    </url>
-    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/KotlinovertakesScalaandClojurebecomingthe2ndmostpopular.html</loc>
         <lastmod>2020-02-04</lastmod>
     </url>
@@ -733,11 +717,23 @@
         <lastmod>2020-02-04</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/Thecostofasecuritybreach.html</loc>
-        <lastmod>2020-01-21</lastmod>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SpringdominatestheJavaecosystemwith60usingitfortheir.html</loc>
+        <lastmod>2020-02-04</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/KotlinovertakesScalaandClojuretobecomethe2ndmostpopular.html</loc>
+        <lastmod>2020-02-04</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JVMEcosystemReport2020.html</loc>
+        <lastmod>2020-02-04</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/ThecostofasecuritybreachSnyk.html</loc>
+        <lastmod>2020-01-21</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/Thecostofasecuritybreach.html</loc>
         <lastmod>2020-01-21</lastmod>
     </url>
     <url>
@@ -769,11 +765,11 @@
         <lastmod>2019-08-26</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JacksonDeserializationVulnerability.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JacksonDeserializationVulnerabilitySnyk.html</loc>
         <lastmod>2019-08-20</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JacksonDeserializationVulnerabilitySnyk.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JacksonDeserializationVulnerability.html</loc>
         <lastmod>2019-08-20</lastmod>
     </url>
     <url>
@@ -785,20 +781,32 @@
         <lastmod>2019-08-16</lastmod>
     </url>
     <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/10Eclipsepluginsyoushouldntcodewithout.html</loc>
+        <lastmod>2019-08-14</lastmod>
+    </url>
+    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/10EclipsepluginsyoushouldntcodewithoutSnyk.html</loc>
         <lastmod>2019-08-14</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/10Eclipsepluginsyoushouldntcodewithout.html</loc>
-        <lastmod>2019-08-14</lastmod>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/FixopensourcevulnerabilitiesdirectlyfromyourEclipseIDESnyk.html</loc>
+        <lastmod>2019-07-24</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/FixopensourcevulnerabilitiesdirectlyfromyourEclipseIDE.html</loc>
         <lastmod>2019-07-24</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/FixopensourcevulnerabilitiesdirectlyfromyourEclipseIDESnyk.html</loc>
-        <lastmod>2019-07-24</lastmod>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/TakeactionstoimprovesecurityinyourDockerimages.html</loc>
+        <lastmod>2019-04-16</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/ShiftingDockersecurityleftSnyk.html</loc>
+        <lastmod>2019-04-16</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/80ofdevelopersarenotaddressingDockersecuritySnyk.html</loc>
+        <lastmod>2019-04-16</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/ThetoptwomostpopularDockerbaseimageseachhaveover500.html</loc>
@@ -814,18 +822,6 @@
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/80ofdevelopersarenotaddressingDockersecurity.html</loc>
-        <lastmod>2019-04-16</lastmod>
-    </url>
-    <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/TakeactionstoimprovesecurityinyourDockerimages.html</loc>
-        <lastmod>2019-04-16</lastmod>
-    </url>
-    <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/ShiftingDockersecurityleftSnyk.html</loc>
-        <lastmod>2019-04-16</lastmod>
-    </url>
-    <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/80ofdevelopersarenotaddressingDockersecuritySnyk.html</loc>
         <lastmod>2019-04-16</lastmod>
     </url>
     <url>
@@ -989,11 +985,11 @@
         <lastmod>2021-09-09</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/talks/2021/devoxx-pl-2021_2.html</loc>
+        <loc>https://www.brianvermeer.nl/talks/2021/devoxx-pl-2021.html</loc>
         <lastmod>2021-08-26</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/talks/2021/devoxx-pl-2021.html</loc>
+        <loc>https://www.brianvermeer.nl/talks/2021/devoxx-pl-2021_2.html</loc>
         <lastmod>2021-08-26</lastmod>
     </url>
     <url>
