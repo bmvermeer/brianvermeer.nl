@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>https://www.brianvermeer.nl/publications.html</loc>
-        <lastmod>2023-08-19</lastmod>
+        <lastmod>2023-08-20</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/talks.html</loc>
@@ -233,10 +233,6 @@
         <lastmod>2021-12-09</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/NewJava17FeaturesforImprovedSecurityandSerialization.html</loc>
-        <lastmod>2021-12-01</lastmod>
-    </url>
-    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JavaJSONdeserializationproblemswiththeJacksonObjectMapper.html</loc>
         <lastmod>2021-11-30</lastmod>
     </url>
@@ -305,11 +301,11 @@
         <lastmod>2021-06-22</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Dev/JVMEcosystemReport2021.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/NewJVMEcosystemReport2021HasArrivedfoojay.html</loc>
         <lastmod>2021-06-21</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/NewJVMEcosystemReport2021HasArrivedfoojay.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Dev/JVMEcosystemReport2021.html</loc>
         <lastmod>2021-06-21</lastmod>
     </url>
     <url>
@@ -481,20 +477,16 @@
         <lastmod>2020-11-10</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/Javaloggingwhatshouldyoulogandwhatnot.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/JavaLoggingWhatToLogWhatNotToLogfoojay.html</loc>
         <lastmod>2020-11-10</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/JavaLoggingWhatToLogWhatNotToLogfoojay.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/Javaloggingwhatshouldyoulogandwhatnot.html</loc>
         <lastmod>2020-11-10</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Foojay/AvoidJavaSerializationTheGiftThatKeepsOnGivingfoojay.html</loc>
         <lastmod>2020-11-10</lastmod>
-    </url>
-    <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/HowtoConfigureYourJavaXMLParserstoPreventXXEAttacks.html</loc>
-        <lastmod>2020-11-05</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Dev/VideoSecurityscanningwithinGradle.html</loc>

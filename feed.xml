@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sat, 19 Aug 2023 06:15:02 +0000</pubDate>
-    <lastBuildDate>Sat, 19 Aug 2023 06:15:02 +0000</lastBuildDate>
+    <pubDate>Sun, 20 Aug 2023 06:14:49 +0000</pubDate>
+    <lastBuildDate>Sun, 20 Aug 2023 06:14:49 +0000</lastBuildDate>
 
     <item>
       <title>Foojay Podcast #7: Security in Java -- what do we need to know?</title>
@@ -725,19 +725,6 @@
 	</description>
     </item>
     <item>
-      <title>New Java 17 Features for Improved Security and Serialization ...</title>
-      <link>https://foojay.io/today/new-java-17-features-for-improved-security-and-serialization/</link>
-      <category>Foojay</category>
-      <pubDate>Wed, 1 Dec 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/NewJava17FeaturesforImprovedSecurityandSerialization.html</guid>
-      	<description>
-	&lt;p&gt;The Java 17 LTS release brings you significant improvements to prevent malicious deserialization in your java applications.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/new-java-17-features-for-improved-security-and-serialization/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Java JSON deserialization problems with the Jackson ObjectMapper ...</title>
       <link>https://snyk.io/blog/java-json-deserialization-problems-jackson-objectmapper/</link>
       <category>Snyk</category>
@@ -959,19 +946,6 @@
 	</description>
     </item>
     <item>
-      <title>JVM Ecosystem Report 2021</title>
-      <link>https://dev.to/brianverm/jvm-ecosystem-report-2021-3hp</link>
-      <category>Dev</category>
-      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Dev/JVMEcosystemReport2021.html</guid>
-      	<description>
-	&lt;p&gt;Snyk has just released the annual JVM ecosystem report! This report presents the results of the...&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://dev.to/brianverm/jvm-ecosystem-report-2021-3hp&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>New JVM Ecosystem Report 2021 Has Arrived! | foojay</title>
       <link>https://foojay.io/today/new-jvm-ecosystem-report-2021-has-arrived/</link>
       <category>Foojay</category>
@@ -981,6 +955,19 @@
 	&lt;p&gt;JVM Ecosystem Report 2021 presents the results of the largest annual survey on the state of the JVM ecosystem.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://foojay.io/today/new-jvm-ecosystem-report-2021-has-arrived/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>JVM Ecosystem Report 2021</title>
+      <link>https://dev.to/brianverm/jvm-ecosystem-report-2021-3hp</link>
+      <category>Dev</category>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Dev/JVMEcosystemReport2021.html</guid>
+      	<description>
+	&lt;p&gt;Snyk has just released the annual JVM ecosystem report! This report presents the results of the...&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://dev.to/brianverm/jvm-ecosystem-report-2021-3hp&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1532,19 +1519,6 @@
 	</description>
     </item>
     <item>
-      <title>Java logging: what should you log and what not?</title>
-      <link>https://snyk.io/blog/java-logging-what-should-you-log-and-what-not/</link>
-      <category>Snyk</category>
-      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/Javaloggingwhatshouldyoulogandwhatnot.html</guid>
-      	<description>
-	&lt;p&gt;null&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/java-logging-what-should-you-log-and-what-not/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Java Logging: What To Log &amp; What Not To Log? | foojay</title>
       <link>https://foojay.io/today/java-logging-what-to-log-what-not-to-log/</link>
       <category>Foojay</category>
@@ -1558,6 +1532,19 @@
 	</description>
     </item>
     <item>
+      <title>Java logging: what should you log and what not?</title>
+      <link>https://snyk.io/blog/java-logging-what-should-you-log-and-what-not/</link>
+      <category>Snyk</category>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/Javaloggingwhatshouldyoulogandwhatnot.html</guid>
+      	<description>
+	&lt;p&gt;null&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/java-logging-what-should-you-log-and-what-not/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>Avoid Java Serialization: The Gift That Keeps On Giving | foojay</title>
       <link>https://foojay.io/today/avoid-java-serialization/</link>
       <category>Foojay</category>
@@ -1567,19 +1554,6 @@
 	&lt;p&gt;If you need to Deserialize an inputstream yourself, you should use an ObjectsInputStream with restrictions.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://foojay.io/today/avoid-java-serialization/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>How to Configure Your Java XML Parsers to Prevent XXE Attacks ...</title>
-      <link>https://foojay.io/today/how-to-configure-your-java-xml-parsers-to-prevent-xxe-attacks/</link>
-      <category>Foojay</category>
-      <pubDate>Thu, 5 Nov 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/HowtoConfigureYourJavaXMLParserstoPreventXXEAttacks.html</guid>
-      	<description>
-	&lt;p&gt;With XML eXternal Entity (XXE) enabled, it is possible to create a malicious XML, and read the content of an arbitrary file on the machine.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/how-to-configure-your-java-xml-parsers-to-prevent-xxe-attacks/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
