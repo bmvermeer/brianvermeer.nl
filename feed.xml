@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Mon, 21 Aug 2023 06:16:54 +0000</pubDate>
-    <lastBuildDate>Mon, 21 Aug 2023 06:16:54 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Aug 2023 06:16:16 +0000</pubDate>
+    <lastBuildDate>Tue, 22 Aug 2023 06:16:16 +0000</lastBuildDate>
 
     <item>
       <title>Foojay Podcast #7: Security in Java -- what do we need to know?</title>
@@ -803,19 +803,6 @@
 	</description>
     </item>
     <item>
-      <title>Security Horror Story: Accidentally exposing PII data</title>
-      <link>https://snyk.io/blog/security-horror-story-accidentally-exposing-pii-data/</link>
-      <category>Snyk</category>
-      <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/SecurityHorrorStoryAccidentallyexposingPIIdata.html</guid>
-      	<description>
-	&lt;p&gt;Welcome to our first Security Horror Story of October. Steel yourself for this spooky tale of accidentally exposed PII! Halloween month just got scarier!&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/security-horror-story-accidentally-exposing-pii-data/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Discussion: The State of Java 2021 | Foojay.io Today</title>
       <link>https://foojay.io/today/discussion-state-of-java-2021/</link>
       <category>Foojay</category>
@@ -825,6 +812,19 @@
 	&lt;p&gt;A discussion with some great folks in the Java world about the highlights of the Snyk Java Ecosystem report and current developments in Java.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://foojay.io/today/discussion-state-of-java-2021/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Security Horror Story: Accidentally exposing PII data</title>
+      <link>https://snyk.io/blog/security-horror-story-accidentally-exposing-pii-data/</link>
+      <category>Snyk</category>
+      <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/SecurityHorrorStoryAccidentallyexposingPIIdata.html</guid>
+      	<description>
+	&lt;p&gt;Welcome to our first Security Horror Story of October. Steel yourself for this spooky tale of accidentally exposed PII! Halloween month just got scarier!&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/security-horror-story-accidentally-exposing-pii-data/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -995,6 +995,19 @@
 &lt;p&gt;This year&apos;s survey is a cooperation between Snyk and Azul and was slightly different from the previous surveys. We aimed for the survey to be more concise and focus only on the most important aspects of JVM developers today. Additionally, this year every participant was allowed to choose multiple options. We believe that the way the 2021 survey was designed, we have a better and more comprehensive view of the current JVM ecosystem. In this report, we also looked at different open data sources like GitHub and Google Trends to see how that data compares to the survey results.&lt;br /&gt;
 ...&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://snyk.io/jvm-ecosystem-report-2021/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Learn All About Java Encryption and Hashing | foojay</title>
+      <link>https://foojay.io/today/java-encryption-and-hashing/</link>
+      <category>Foojay</category>
+      <pubDate>Wed, 9 Jun 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/LearnAllAboutJavaEncryptionandHashingfoojay.html</guid>
+      	<description>
+	&lt;p&gt;What is a strong encryption algorithm today, might be a weak algorithm a year from now. Therefore, encryption needs to be reviewed regularly!&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/java-encryption-and-hashing/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1363,6 +1376,19 @@
 	</description>
     </item>
     <item>
+      <title>5 Tips to Create Secure Docker Images for Java Applications | foojay</title>
+      <link>https://foojay.io/today/5-tips-to-create-secure-docker-images-for-java-applications/</link>
+      <category>Foojay</category>
+      <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/5TipstoCreateSecureDockerImagesforJavaApplicationsfoojay.html</guid>
+      	<description>
+	&lt;p&gt;Naively creating custom Docker images for Java apps comes with security concerns. How do we make security an essential part of Docker images?&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/5-tips-to-create-secure-docker-images-for-java-applications/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>Git checkout remote branch: how it works and when to use it</title>
       <link>https://dev.to/brianverm/git-checkout-remote-branch-how-it-works-and-when-to-use-it-ghi</link>
       <category>Dev</category>
@@ -1506,6 +1532,19 @@
 	</description>
     </item>
     <item>
+      <title>Java logging: what should you log and what not?</title>
+      <link>https://snyk.io/blog/java-logging-what-should-you-log-and-what-not/</link>
+      <category>Snyk</category>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/Javaloggingwhatshouldyoulogandwhatnot.html</guid>
+      	<description>
+	&lt;p&gt;null&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/java-logging-what-should-you-log-and-what-not/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>Java Logging: What To Log &amp; What Not To Log? | foojay</title>
       <link>https://foojay.io/today/java-logging-what-to-log-what-not-to-log/</link>
       <category>Foojay</category>
@@ -1532,15 +1571,15 @@
 	</description>
     </item>
     <item>
-      <title>Java logging: what should you log and what not?</title>
-      <link>https://snyk.io/blog/java-logging-what-should-you-log-and-what-not/</link>
-      <category>Snyk</category>
-      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/Javaloggingwhatshouldyoulogandwhatnot.html</guid>
+      <title>How to Configure Your Java XML Parsers to Prevent XXE Attacks ...</title>
+      <link>https://foojay.io/today/how-to-configure-your-java-xml-parsers-to-prevent-xxe-attacks/</link>
+      <category>Foojay</category>
+      <pubDate>Thu, 5 Nov 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/HowtoConfigureYourJavaXMLParserstoPreventXXEAttacks.html</guid>
       	<description>
-	&lt;p&gt;null&lt;/p&gt;
+	&lt;p&gt;With XML eXternal Entity (XXE) enabled, it is possible to create a malicious XML, and read the content of an arbitrary file on the machine.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/java-logging-what-should-you-log-and-what-not/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://foojay.io/today/how-to-configure-your-java-xml-parsers-to-prevent-xxe-attacks/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1554,19 +1593,6 @@
 	&lt;p&gt;Check out the Snyk Gradle plugin.   Scan your thirds party open source dependencies for security...&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://dev.to/snyk/video-security-scanning-within-gradle-45dj&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>How to Configure Your Java XML Parsers to Prevent XXE Attacks ...</title>
-      <link>https://foojay.io/today/how-to-configure-your-java-xml-parsers-to-prevent-xxe-attacks/</link>
-      <category>Foojay</category>
-      <pubDate>Thu, 5 Nov 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/HowtoConfigureYourJavaXMLParserstoPreventXXEAttacks.html</guid>
-      	<description>
-	&lt;p&gt;With XML eXternal Entity (XXE) enabled, it is possible to create a malicious XML, and read the content of an arbitrary file on the machine.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/how-to-configure-your-java-xml-parsers-to-prevent-xxe-attacks/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1675,19 +1701,6 @@
 	</description>
     </item>
     <item>
-      <title>Fixing Vulnerabilities in Maven-Based Projects | foojay</title>
-      <link>https://foojay.io/today/fixing-vulnerabilities-in-maven-projects/</link>
-      <category>Foojay</category>
-      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/FixingVulnerabilitiesinMavenBasedProjectsfoojay.html</guid>
-      	<description>
-	&lt;p&gt;In this article, I will explain how you can fix vulnerabilities in third-party libraries when using Maven, even when it is not obvious.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/fixing-vulnerabilities-in-maven-projects/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Fixing vulnerabilities in Maven projects | Snyk</title>
       <link>https://snyk.io/blog/fixing-vulnerabilities-in-maven-projects/</link>
       <category>Snyk</category>
@@ -1697,6 +1710,19 @@
 	&lt;p&gt;In this article, I will explain how you can fix vulnerabilities in third-party libraries when using Maven, even if it is not obvious.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/fixing-vulnerabilities-in-maven-projects/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Fixing Vulnerabilities in Maven-Based Projects | foojay</title>
+      <link>https://foojay.io/today/fixing-vulnerabilities-in-maven-projects/</link>
+      <category>Foojay</category>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/FixingVulnerabilitiesinMavenBasedProjectsfoojay.html</guid>
+      	<description>
+	&lt;p&gt;In this article, I will explain how you can fix vulnerabilities in third-party libraries when using Maven, even when it is not obvious.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/fixing-vulnerabilities-in-maven-projects/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
