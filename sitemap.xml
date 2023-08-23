@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>https://www.brianvermeer.nl/publications.html</loc>
-        <lastmod>2023-08-22</lastmod>
+        <lastmod>2023-08-23</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/talks.html</loc>
@@ -11,10 +11,6 @@
     <url>
         <loc>https://www.brianvermeer.nl/index.html</loc>
         <lastmod>2021-06-01</lastmod>
-    </url>
-    <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/FoojayPodcast7SecurityinJavawhatdoweneedtoknow.html</loc>
-        <lastmod>2023-08-08</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/8tipsforsecuringyourCICDpipelinewithSnyk.html</loc>
@@ -75,6 +71,10 @@
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/UnsafedeserializationinSnakeYamlExploringCVE20221471.html</loc>
         <lastmod>2022-12-13</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/FoojayPodcast7SecurityinJavawhatdoweneedtoknow.html</loc>
+        <lastmod>2022-11-20</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Foojay/CVE202242889ApacheCommonsTextText4ShellVulnerability.html</loc>
@@ -321,10 +321,6 @@
         <lastmod>2021-06-09</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/ParticipateintheJavaEcosystemSurvey2021foojay.html</loc>
-        <lastmod>2021-05-19</lastmod>
-    </url>
-    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Foojay/SanitizeAllInputSanitizeAllInputSanitizeAllInputfoojay.html</loc>
         <lastmod>2021-05-12</lastmod>
     </url>
@@ -403,6 +399,10 @@
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/10bestpracticestobuildJavacontainerswithDockerBlog.html</loc>
         <lastmod>2021-02-17</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/ParticipateintheJavaEcosystemSurvey2021foojay.html</loc>
+        <lastmod>2021-02-16</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/Javaecosystemsurvey2021SnykBlog.html</loc>
