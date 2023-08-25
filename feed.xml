@@ -6,9 +6,22 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Thu, 24 Aug 2023 06:16:21 +0000</pubDate>
-    <lastBuildDate>Thu, 24 Aug 2023 06:16:21 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Aug 2023 06:16:12 +0000</pubDate>
+    <lastBuildDate>Fri, 25 Aug 2023 06:16:12 +0000</lastBuildDate>
 
+    <item>
+      <title>Using JLink to create smaller Docker images for your Spring Boot ...</title>
+      <link>https://snyk.io/blog/jlink-create-docker-images-spring-boot-java/</link>
+      <category>Snyk</category>
+      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/UsingJLinktocreatesmallerDockerimagesforyourSpringBoot.html</guid>
+      	<description>
+	&lt;p&gt;In this blog post, we&apos;ll present an in-depth exploration of utilizing JLink to optimize Docker image sizes, enhancing application security and performance.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/jlink-create-docker-images-spring-boot-java/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
     <item>
       <title>8 tips for securing your CI/CD pipeline with Snyk</title>
       <link>https://snyk.io/blog/securing-ci-cd-pipeline-with-snyk/</link>
