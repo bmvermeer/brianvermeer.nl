@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sat, 9 Sep 2023 06:15:10 +0000</pubDate>
-    <lastBuildDate>Sat, 9 Sep 2023 06:15:10 +0000</lastBuildDate>
+    <pubDate>Sun, 10 Sep 2023 06:14:55 +0000</pubDate>
+    <lastBuildDate>Sun, 10 Sep 2023 06:14:55 +0000</lastBuildDate>
 
     <item>
       <title>Using JLink to create smaller Docker images for your Spring Boot ...</title>
@@ -2234,19 +2234,6 @@
 	</description>
     </item>
     <item>
-      <title>The cost of a security breach</title>
-      <link>https://snyk.io/blog/the-cost-of-a-security-breach/</link>
-      <category>Snyk</category>
-      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/Thecostofasecuritybreach.html</guid>
-      	<description>
-	&lt;p&gt;This post measures the cost of implementing security against the cost of a security breach.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/the-cost-of-a-security-breach/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>The cost of a security breach | Snyk</title>
       <link>https://snyk.io/blog/the-cost-of-a-security-breach/</link>
       <category>Snyk</category>
@@ -2254,6 +2241,19 @@
       <guid isPermaLink="false">blog/generated/Snyk/ThecostofasecuritybreachSnyk.html</guid>
       	<description>
 	&lt;p&gt;Back in 2017, the Atlanta-based credit monitoring company Equifax was hacked. Equifax had been using an outdated version of the Java Apache Struts library in&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/the-cost-of-a-security-breach/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>The cost of a security breach</title>
+      <link>https://snyk.io/blog/the-cost-of-a-security-breach/</link>
+      <category>Snyk</category>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/Thecostofasecuritybreach.html</guid>
+      	<description>
+	&lt;p&gt;This post measures the cost of implementing security against the cost of a security breach.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/the-cost-of-a-security-breach/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
@@ -2455,26 +2455,13 @@
 	</description>
     </item>
     <item>
-      <title>The top two most popular Docker base images each have over 500 ...</title>
-      <link>https://snyk.io/blog/the-top-two-most-popular-docker-base-images-each-have-over-500-vulnerabilities/</link>
-      <category>Snyk</category>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/ThetoptwomostpopularDockerbaseimageseachhaveover500.html</guid>
-      	<description>
-	&lt;p&gt;Or download our lovely handcrafted pdf report which contains all of this information and more in one place:&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/the-top-two-most-popular-docker-base-images-each-have-over-500-vulnerabilities/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Take actions to improve security in your Docker images | Snyk</title>
+      <title>Take actions to improve security in your Docker images</title>
       <link>https://snyk.io/blog/take-actions-to-improve-security-in-your-docker-images/</link>
       <category>Snyk</category>
       <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/TakeactionstoimprovesecurityinyourDockerimagesSnyk.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/TakeactionstoimprovesecurityinyourDockerimages.html</guid>
       	<description>
-	&lt;p&gt;Welcome to the Docker security report: Shifting Docker security left.This report is split into several posts:&lt;/p&gt;
+	&lt;p&gt;Welcome to the Docker security report “Shifting Docker security left.”&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/take-actions-to-improve-security-in-your-docker-images/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
@@ -2490,6 +2477,32 @@
 	&lt;p&gt;Or download our lovely handcrafted pdf report which contains all of this information and more in one place:&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/80-of-developers-are-not-addressing-docker-security/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>The top two most popular Docker base images each have over 500 ...</title>
+      <link>https://snyk.io/blog/the-top-two-most-popular-docker-base-images-each-have-over-500-vulnerabilities/</link>
+      <category>Snyk</category>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/ThetoptwomostpopularDockerbaseimageseachhaveover500.html</guid>
+      	<description>
+	&lt;p&gt;Welcome to the Docker security report “Shifting Docker security left.”&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/the-top-two-most-popular-docker-base-images-each-have-over-500-vulnerabilities/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Take actions to improve security in your Docker images | Snyk</title>
+      <link>https://snyk.io/blog/take-actions-to-improve-security-in-your-docker-images/</link>
+      <category>Snyk</category>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/TakeactionstoimprovesecurityinyourDockerimagesSnyk.html</guid>
+      	<description>
+	&lt;p&gt;Welcome to the Docker security report: Shifting Docker security left.This report is split into several posts:&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/take-actions-to-improve-security-in-your-docker-images/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
