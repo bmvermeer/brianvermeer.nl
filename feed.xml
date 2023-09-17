@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sat, 16 Sep 2023 06:15:42 +0000</pubDate>
-    <lastBuildDate>Sat, 16 Sep 2023 06:15:42 +0000</lastBuildDate>
+    <pubDate>Sun, 17 Sep 2023 06:15:28 +0000</pubDate>
+    <lastBuildDate>Sun, 17 Sep 2023 06:15:28 +0000</lastBuildDate>
 
     <item>
       <title>Using JLink to create smaller Docker images for your Spring Boot ...</title>
@@ -1155,19 +1155,6 @@
 	</description>
     </item>
     <item>
-      <title>Preventing YAML parsing vulnerabilities with snakeyaml in Java | Snyk</title>
-      <link>https://snyk.io/blog/java-yaml-parser-with-snakeyaml/</link>
-      <category>Snyk</category>
-      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/PreventingYAMLparsingvulnerabilitieswithsnakeyamlinJavaSnyk.html</guid>
-      	<description>
-	&lt;p&gt;YAML files are often used to configure applications, application servers, or clusters. It is a very common format in Spring Boot applications and, of course,&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/java-yaml-parser-with-snakeyaml/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Preventing YAML parsing vulnerabilities with snakeyaml in Java</title>
       <link>https://snyk.io/blog/java-yaml-parser-with-snakeyaml/</link>
       <category>Snyk</category>
@@ -1175,6 +1162,19 @@
       <guid isPermaLink="false">blog/generated/Snyk/PreventingYAMLparsingvulnerabilitieswithsnakeyamlinJava.html</guid>
       	<description>
 	&lt;p&gt;The outdated version of snakeyaml contains a Denial of Service vulnerability. We highly recommend that you update snakeyaml to version 1.26 or higher to prevent this problem.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/java-yaml-parser-with-snakeyaml/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Preventing YAML parsing vulnerabilities with snakeyaml in Java | Snyk</title>
+      <link>https://snyk.io/blog/java-yaml-parser-with-snakeyaml/</link>
+      <category>Snyk</category>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/PreventingYAMLparsingvulnerabilitieswithsnakeyamlinJavaSnyk.html</guid>
+      	<description>
+	&lt;p&gt;YAML files are often used to configure applications, application servers, or clusters. It is a very common format in Spring Boot applications and, of course,&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/java-yaml-parser-with-snakeyaml/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
@@ -1935,6 +1935,19 @@
 	</description>
     </item>
     <item>
+      <title>Security Badge - Instant Security Information</title>
+      <link>https://snyk.io/blog/instant-security-information-with-the-snyk-security-badge/</link>
+      <category>Snyk</category>
+      <pubDate>Mon, 3 Aug 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/SecurityBadgeInstantSecurityInformation.html</guid>
+      	<description>
+	&lt;p&gt;We are excited to announce the Snyk security badge for open source libraries offering instant security information.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/instant-security-information-with-the-snyk-security-badge/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>Live Vulnerability spotting in VSCode</title>
       <link>https://dev.to/brianverm/live-vulnerability-spotting-in-vscode-4jh3</link>
       <category>Dev</category>
@@ -2039,13 +2052,13 @@
 	</description>
     </item>
     <item>
-      <title>Secure Code Review</title>
+      <title>Secure Code Review | Snyk</title>
       <link>https://snyk.io/blog/secure-code-review/</link>
       <category>Snyk</category>
       <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/SecureCodeReview.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/SecureCodeReviewSnyk.html</guid>
       	<description>
-	&lt;p&gt;It’s always a good idea to check for security issues in code that you review. In case you don’t know what to look for, here’s a handy checklist to give you pointers for your next code reviews!&lt;/p&gt;
+	&lt;p&gt;So, let’s get started with our secure code review list of 8 security code review tips that you can check for, when looking at future pull requests!&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/secure-code-review/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
@@ -2065,13 +2078,13 @@
 	</description>
     </item>
     <item>
-      <title>Secure Code Review | Snyk</title>
+      <title>Secure Code Review</title>
       <link>https://snyk.io/blog/secure-code-review/</link>
       <category>Snyk</category>
       <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/SecureCodeReviewSnyk.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/SecureCodeReview.html</guid>
       	<description>
-	&lt;p&gt;So, let’s get started with our secure code review list of 8 security code review tips that you can check for, when looking at future pull requests!&lt;/p&gt;
+	&lt;p&gt;It’s always a good idea to check for security issues in code that you review. In case you don’t know what to look for, here’s a handy checklist to give you pointers for your next code reviews!&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/secure-code-review/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
@@ -2247,13 +2260,13 @@
 	</description>
     </item>
     <item>
-      <title>Kotlin overtakes Scala and Clojure, to become the 2nd most popular ...</title>
+      <title>Kotlin overtakes Scala and Clojure, becoming the 2nd most popular ...</title>
       <link>https://snyk.io/blog/kotlin-overtakes-scala-and-clojure-to-become-the-2nd-most-popular-language-on-the-jvm/</link>
       <category>Snyk</category>
       <pubDate>Tue, 4 Feb 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/KotlinovertakesScalaandClojuretobecomethe2ndmostpopular.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/KotlinovertakesScalaandClojurebecomingthe2ndmostpopular.html</guid>
       	<description>
-	&lt;p&gt;Welcome to our annual JVM ecosystem report! This report presents the results of the largest annual survey on the JVM ecosystem, showing results from the&lt;/p&gt;
+	&lt;p&gt;Snyk&apos;s annual JVM ecosystem report presents the results of the largest annual survey on the JVM ecosystem, which gathered over 2000 responses in the second half of 2019.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/kotlin-overtakes-scala-and-clojure-to-become-the-2nd-most-popular-language-on-the-jvm/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
@@ -2282,6 +2295,19 @@
 	&lt;p&gt;Snyk&apos;s annual JVM ecosystem report presents the results of the largest annual survey on the JVM ecosystem, which gathered over 2000 responses in the second half of 2019.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/intellij-idea-dominates-the-ide-market-with-62-adoption-among-jvm-developers/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Kotlin overtakes Scala and Clojure, to become the 2nd most popular ...</title>
+      <link>https://snyk.io/blog/kotlin-overtakes-scala-and-clojure-to-become-the-2nd-most-popular-language-on-the-jvm/</link>
+      <category>Snyk</category>
+      <pubDate>Tue, 4 Feb 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/KotlinovertakesScalaandClojuretobecomethe2ndmostpopular.html</guid>
+      	<description>
+	&lt;p&gt;Welcome to our annual JVM ecosystem report! This report presents the results of the largest annual survey on the JVM ecosystem, showing results from the&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/kotlin-overtakes-scala-and-clojure-to-become-the-2nd-most-popular-language-on-the-jvm/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
