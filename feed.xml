@@ -6,14 +6,14 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Mon, 25 Sep 2023 06:18:20 +0000</pubDate>
-    <lastBuildDate>Mon, 25 Sep 2023 06:18:20 +0000</lastBuildDate>
+    <pubDate>Tue, 26 Sep 2023 06:18:14 +0000</pubDate>
+    <lastBuildDate>Tue, 26 Sep 2023 06:18:14 +0000</lastBuildDate>
 
     <item>
       <title>Using JLink to create smaller Docker images for Spring Boot apps</title>
       <link>https://foojay.io/today/using-jlink-to-create-smaller-docker-images-for-your-spring-boot-java-application/</link>
       <category>Foojay</category>
-      <pubDate>Mon, 25 Sep 2023 06:18:17 +0000</pubDate>
+      <pubDate>Tue, 26 Sep 2023 06:18:12 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Foojay/UsingJLinktocreatesmallerDockerimagesforSpringBootapps.html</guid>
       	<description>
 	&lt;p&gt;An in-depth exploration of utilizing JLink to optimize Docker image sizes, enhancing application security and performance.&lt;/p&gt;
@@ -244,11 +244,11 @@
 	</description>
     </item>
     <item>
-      <title>Unsafe deserialization vulnerability in SnakeYaml (CVE-2022-1471)</title>
+      <title>Unsafe deserialization in SnakeYaml - Exploring CVE-2022-1471 ...</title>
       <link>https://snyk.io/blog/unsafe-deserialization-snakeyaml-java-cve-2022-1471/</link>
       <category>Snyk</category>
       <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/UnsafedeserializationvulnerabilityinSnakeYamlCVE20221471.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/UnsafedeserializationinSnakeYamlExploringCVE20221471.html</guid>
       	<description>
 	&lt;p&gt;SnakeYaml, a YAML 1.1 parser and emitter for Java, has been reported as vulnerable to CVE-2022-1471, a deserialization vulnerability that can lead to arbitrary code execution.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
