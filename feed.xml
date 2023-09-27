@@ -6,14 +6,14 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Tue, 26 Sep 2023 06:18:14 +0000</pubDate>
-    <lastBuildDate>Tue, 26 Sep 2023 06:18:14 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Sep 2023 06:18:25 +0000</pubDate>
+    <lastBuildDate>Wed, 27 Sep 2023 06:18:25 +0000</lastBuildDate>
 
     <item>
       <title>Using JLink to create smaller Docker images for Spring Boot apps</title>
       <link>https://foojay.io/today/using-jlink-to-create-smaller-docker-images-for-your-spring-boot-java-application/</link>
       <category>Foojay</category>
-      <pubDate>Tue, 26 Sep 2023 06:18:12 +0000</pubDate>
+      <pubDate>Wed, 27 Sep 2023 06:18:21 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Foojay/UsingJLinktocreatesmallerDockerimagesforSpringBootapps.html</guid>
       	<description>
 	&lt;p&gt;An in-depth exploration of utilizing JLink to optimize Docker image sizes, enhancing application security and performance.&lt;/p&gt;
