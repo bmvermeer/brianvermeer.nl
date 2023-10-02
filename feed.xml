@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sun, 1 Oct 2023 06:16:43 +0000</pubDate>
-    <lastBuildDate>Sun, 1 Oct 2023 06:16:43 +0000</lastBuildDate>
+    <pubDate>Mon, 2 Oct 2023 06:18:22 +0000</pubDate>
+    <lastBuildDate>Mon, 2 Oct 2023 06:18:22 +0000</lastBuildDate>
 
     <item>
       <title>Using JLink to create smaller Docker images for your Spring Boot Java application</title>
