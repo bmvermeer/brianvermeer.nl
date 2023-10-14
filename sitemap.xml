@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>https://www.brianvermeer.nl/publications.html</loc>
-        <lastmod>2023-10-13</lastmod>
+        <lastmod>2023-10-14</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/talks.html</loc>
@@ -35,6 +35,10 @@
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SnakeYaml20Solvingtheunsafedeserializationvulnerability.html</loc>
         <lastmod>2023-06-20</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/PreventingCrossSiteScriptingXSSinJavawithSnykCode.html</loc>
+        <lastmod>2023-06-08</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/HowtogenerateanSBOMforJavaScriptandNodejsapplications.html</loc>
@@ -129,6 +133,10 @@
         <lastmod>2022-09-14</lastmod>
     </url>
     <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/ControllingyourServerwithaReverseShellAttackFoojayio.html</loc>
+        <lastmod>2022-09-07</lastmod>
+    </url>
+    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Dev/BestpracticesformanagingJavadependencies.html</loc>
         <lastmod>2022-09-02</lastmod>
     </url>
@@ -157,11 +165,11 @@
         <lastmod>2022-07-13</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/ExploringtheApacheCommonsConfigurationRCEVulnerability.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/ExploringCVE202233980theApacheCommonsconfiguration.html</loc>
         <lastmod>2022-07-07</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/ExploringCVE202233980theApacheCommonsconfiguration.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/ExploringtheApacheCommonsConfigurationRCEVulnerability.html</loc>
         <lastmod>2022-07-07</lastmod>
     </url>
     <url>
@@ -317,11 +325,11 @@
         <lastmod>2021-06-22</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/NewJVMEcosystemReport2021HasArrivedfoojay.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Dev/JVMEcosystemReport2021.html</loc>
         <lastmod>2021-06-21</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Dev/JVMEcosystemReport2021.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/NewJVMEcosystemReport2021HasArrivedfoojay.html</loc>
         <lastmod>2021-06-21</lastmod>
     </url>
     <url>
@@ -425,11 +433,11 @@
         <lastmod>2021-02-14</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/IdentifyprioritizeandfixvulnerabilitieswithReachable.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/ExplainingJavaDeserializationVulnerabilitiesPart2foojay.html</loc>
         <lastmod>2021-01-27</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/ExplainingJavaDeserializationVulnerabilitiesPart2foojay.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/IdentifyprioritizeandfixvulnerabilitieswithReachable.html</loc>
         <lastmod>2021-01-27</lastmod>
     </url>
     <url>
@@ -493,11 +501,11 @@
         <lastmod>2020-11-10</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/JavaLoggingWhatToLogWhatNotToLogfoojay.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JavaloggingwhatshouldyoulogandwhatnotSnyk.html</loc>
         <lastmod>2020-11-10</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JavaloggingwhatshouldyoulogandwhatnotSnyk.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/JavaLoggingWhatToLogWhatNotToLogfoojay.html</loc>
         <lastmod>2020-11-10</lastmod>
     </url>
     <url>
@@ -545,11 +553,11 @@
         <lastmod>2020-09-13</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/FixingVulnerabilitiesinMavenBasedProjectsfoojay.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/FixingvulnerabilitiesinMavenprojects.html</loc>
         <lastmod>2020-09-13</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/FixingvulnerabilitiesinMavenprojects.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/FixingVulnerabilitiesinMavenBasedProjectsfoojay.html</loc>
         <lastmod>2020-09-13</lastmod>
     </url>
     <url>
