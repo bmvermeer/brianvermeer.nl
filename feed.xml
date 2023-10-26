@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Wed, 25 Oct 2023 06:17:36 +0000</pubDate>
-    <lastBuildDate>Wed, 25 Oct 2023 06:17:36 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Oct 2023 06:17:39 +0000</pubDate>
+    <lastBuildDate>Thu, 26 Oct 2023 06:17:39 +0000</lastBuildDate>
 
     <item>
       <title>Using JLink to create smaller Docker images for your Spring Boot Java application</title>
@@ -1077,19 +1077,6 @@
 	</description>
     </item>
     <item>
-      <title>Solving Java security issues in a Spring MVC app</title>
-      <link>https://snyk.io/blog/java-code-analysis-solving-java-security-issues-in-spring-mvc-app/</link>
-      <category>Snyk</category>
-      <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/SolvingJavasecurityissuesinaSpringMVCapp.html</guid>
-      	<description>
-	&lt;p&gt;For this article, I created a Spring MVC application with JSP web pages that runs on a tomcat server. Although the code works perfectly, I did make some security-related mistakes. Let’s see how we can detect these mistakes in my Spring MVC application performing Java static code analyses and how to fix them.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/java-code-analysis-solving-java-security-issues-in-spring-mvc-app/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Solving Java security issues in a Spring MVC app | Snyk</title>
       <link>https://snyk.io/blog/java-code-analysis-solving-java-security-issues-in-spring-mvc-app/</link>
       <category>Snyk</category>
@@ -1097,6 +1084,19 @@
       <guid isPermaLink="false">blog/generated/Snyk/SolvingJavasecurityissuesinaSpringMVCappSnyk.html</guid>
       	<description>
 	&lt;p&gt;The Spring MVC framework is a well-known Java framework to build interactive web applications. It implements the Model-View-Controller architecture pattern to&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/java-code-analysis-solving-java-security-issues-in-spring-mvc-app/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Solving Java security issues in a Spring MVC app</title>
+      <link>https://snyk.io/blog/java-code-analysis-solving-java-security-issues-in-spring-mvc-app/</link>
+      <category>Snyk</category>
+      <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/SolvingJavasecurityissuesinaSpringMVCapp.html</guid>
+      	<description>
+	&lt;p&gt;For this article, I created a Spring MVC application with JSP web pages that runs on a tomcat server. Although the code works perfectly, I did make some security-related mistakes. Let’s see how we can detect these mistakes in my Spring MVC application performing Java static code analyses and how to fix them.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/java-code-analysis-solving-java-security-issues-in-spring-mvc-app/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
@@ -1766,19 +1766,6 @@
 	</description>
     </item>
     <item>
-      <title>Java turns 25—aging like fine wine or more like milk?</title>
-      <link>https://snyk.io/blog/java-turns-25/</link>
-      <category>Snyk</category>
-      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/Javaturns25aginglikefinewineormorelikemilk.html</guid>
-      	<description>
-	&lt;p&gt;On May 23, 1995, Sun Microsystems released Java. This means that Java turns 25 years old and that is something we need to celebrate! Let’s try to decide if Java aged like fine wine or more like milk.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/java-turns-25/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Sum List of numbers in Java | Snyk</title>
       <link>https://snyk.io/blog/sum-list-of-numbers-in-java/</link>
       <category>Snyk</category>
@@ -2000,26 +1987,13 @@
 	</description>
     </item>
     <item>
-      <title>Spring dominates the Java ecosystem with 60% using it for their ...</title>
-      <link>https://snyk.io/blog/spring-dominates-the-java-ecosystem-with-60-using-it-for-their-main-applications/</link>
-      <category>Snyk</category>
-      <pubDate>Tue, 4 Feb 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/SpringdominatestheJavaecosystemwith60usingitfortheir.html</guid>
-      	<description>
-	&lt;p&gt;Welcome to our annual JVM ecosystem report! This report presents the results of the largest annual survey on the JVM ecosystem, showing results from the&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/spring-dominates-the-java-ecosystem-with-60-using-it-for-their-main-applications/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Kotlin overtakes Scala and Clojure, becoming the 2nd most popular ...</title>
+      <title>Kotlin overtakes Scala and Clojure, to become the 2nd most popular ...</title>
       <link>https://snyk.io/blog/kotlin-overtakes-scala-and-clojure-to-become-the-2nd-most-popular-language-on-the-jvm/</link>
       <category>Snyk</category>
       <pubDate>Tue, 4 Feb 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/KotlinovertakesScalaandClojurebecomingthe2ndmostpopular.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/KotlinovertakesScalaandClojuretobecomethe2ndmostpopular.html</guid>
       	<description>
-	&lt;p&gt;Snyk&apos;s annual JVM ecosystem report presents the results of the largest annual survey on the JVM ecosystem, which gathered over 2000 responses in the second half of 2019.&lt;/p&gt;
+	&lt;p&gt;Welcome to our annual JVM ecosystem report! This report presents the results of the largest annual survey on the JVM ecosystem, showing results from the&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/kotlin-overtakes-scala-and-clojure-to-become-the-2nd-most-popular-language-on-the-jvm/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
@@ -2052,13 +2026,26 @@
 	</description>
     </item>
     <item>
-      <title>Kotlin overtakes Scala and Clojure, to become the 2nd most popular ...</title>
+      <title>Spring dominates the Java ecosystem with 60% using it for their ...</title>
+      <link>https://snyk.io/blog/spring-dominates-the-java-ecosystem-with-60-using-it-for-their-main-applications/</link>
+      <category>Snyk</category>
+      <pubDate>Tue, 4 Feb 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/SpringdominatestheJavaecosystemwith60usingitfortheir.html</guid>
+      	<description>
+	&lt;p&gt;Welcome to our annual JVM ecosystem report! This report presents the results of the largest annual survey on the JVM ecosystem, showing results from the&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/spring-dominates-the-java-ecosystem-with-60-using-it-for-their-main-applications/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Kotlin overtakes Scala and Clojure, becoming the 2nd most popular ...</title>
       <link>https://snyk.io/blog/kotlin-overtakes-scala-and-clojure-to-become-the-2nd-most-popular-language-on-the-jvm/</link>
       <category>Snyk</category>
       <pubDate>Tue, 4 Feb 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/KotlinovertakesScalaandClojuretobecomethe2ndmostpopular.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/KotlinovertakesScalaandClojurebecomingthe2ndmostpopular.html</guid>
       	<description>
-	&lt;p&gt;Welcome to our annual JVM ecosystem report! This report presents the results of the largest annual survey on the JVM ecosystem, showing results from the&lt;/p&gt;
+	&lt;p&gt;Snyk&apos;s annual JVM ecosystem report presents the results of the largest annual survey on the JVM ecosystem, which gathered over 2000 responses in the second half of 2019.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/kotlin-overtakes-scala-and-clojure-to-become-the-2nd-most-popular-language-on-the-jvm/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
@@ -2078,19 +2065,6 @@
 	</description>
     </item>
     <item>
-      <title>The cost of a security breach | Snyk</title>
-      <link>https://snyk.io/blog/the-cost-of-a-security-breach/</link>
-      <category>Snyk</category>
-      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/ThecostofasecuritybreachSnyk.html</guid>
-      	<description>
-	&lt;p&gt;Back in 2017, the Atlanta-based credit monitoring company Equifax was hacked. Equifax had been using an outdated version of the Java Apache Struts library in&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/the-cost-of-a-security-breach/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>The cost of a security breach</title>
       <link>https://snyk.io/blog/the-cost-of-a-security-breach/</link>
       <category>Snyk</category>
@@ -2098,6 +2072,19 @@
       <guid isPermaLink="false">blog/generated/Snyk/Thecostofasecuritybreach.html</guid>
       	<description>
 	&lt;p&gt;This post measures the cost of implementing security against the cost of a security breach.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/the-cost-of-a-security-breach/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>The cost of a security breach | Snyk</title>
+      <link>https://snyk.io/blog/the-cost-of-a-security-breach/</link>
+      <category>Snyk</category>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/ThecostofasecuritybreachSnyk.html</guid>
+      	<description>
+	&lt;p&gt;Back in 2017, the Atlanta-based credit monitoring company Equifax was hacked. Equifax had been using an outdated version of the Java Apache Struts library in&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/the-cost-of-a-security-breach/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
@@ -2273,6 +2260,32 @@
 	</description>
     </item>
     <item>
+      <title>The top two most popular Docker base images each have over 500 ...</title>
+      <link>https://snyk.io/blog/the-top-two-most-popular-docker-base-images-each-have-over-500-vulnerabilities/</link>
+      <category>Snyk</category>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/ThetoptwomostpopularDockerbaseimageseachhaveover500.html</guid>
+      	<description>
+	&lt;p&gt;Or download our lovely handcrafted pdf report which contains all of this information and more in one place:&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/the-top-two-most-popular-docker-base-images-each-have-over-500-vulnerabilities/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>80% of developers are not addressing Docker security | Snyk</title>
+      <link>https://snyk.io/blog/80-of-developers-are-not-addressing-docker-security/</link>
+      <category>Snyk</category>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/80ofdevelopersarenotaddressingDockersecuritySnyk.html</guid>
+      	<description>
+	&lt;p&gt;Or download our lovely handcrafted pdf report which contains all of this information and more in one place:&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/80-of-developers-are-not-addressing-docker-security/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>Take actions to improve security in your Docker images | Snyk</title>
       <link>https://snyk.io/blog/take-actions-to-improve-security-in-your-docker-images/</link>
       <category>Snyk</category>
@@ -2295,32 +2308,6 @@
 	&lt;p&gt;As more organizations create, spread and use Docker containers, the risk of security vulnerabilities grows. Docker images are largely built on top of other images, meaning a vulnerability in one image is also present in all the images that utilize it. The wide adoption of Docker comes at a price — a single vulnerability can be widely spread and have major impact.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/shifting-docker-security-left/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>80% of developers are not addressing Docker security | Snyk</title>
-      <link>https://snyk.io/blog/80-of-developers-are-not-addressing-docker-security/</link>
-      <category>Snyk</category>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/80ofdevelopersarenotaddressingDockersecuritySnyk.html</guid>
-      	<description>
-	&lt;p&gt;Or download our lovely handcrafted pdf report which contains all of this information and more in one place:&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/80-of-developers-are-not-addressing-docker-security/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>The top two most popular Docker base images each have over 500 ...</title>
-      <link>https://snyk.io/blog/the-top-two-most-popular-docker-base-images-each-have-over-500-vulnerabilities/</link>
-      <category>Snyk</category>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/ThetoptwomostpopularDockerbaseimageseachhaveover500.html</guid>
-      	<description>
-	&lt;p&gt;Or download our lovely handcrafted pdf report which contains all of this information and more in one place:&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/the-top-two-most-popular-docker-base-images-each-have-over-500-vulnerabilities/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
