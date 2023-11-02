@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Wed, 1 Nov 2023 06:17:46 +0000</pubDate>
-    <lastBuildDate>Wed, 1 Nov 2023 06:17:46 +0000</lastBuildDate>
+    <pubDate>Thu, 2 Nov 2023 06:17:00 +0000</pubDate>
+    <lastBuildDate>Thu, 2 Nov 2023 06:17:00 +0000</lastBuildDate>
 
     <item>
       <title>Using JLink to create smaller Docker images for your Spring Boot Java application</title>
@@ -1051,19 +1051,6 @@
 	</description>
     </item>
     <item>
-      <title>Explaining Java Deserialization Vulnerabilities (Part 2) | foojay</title>
-      <link>https://foojay.io/today/explaining-java-deserialization-vulnerabilities-part-2/</link>
-      <category>Foojay</category>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/ExplainingJavaDeserializationVulnerabilitiesPart2foojay.html</guid>
-      	<description>
-	&lt;p&gt;In this part, we continue with even more harmful attacks and show you how you can prevent this in your own code.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/explaining-java-deserialization-vulnerabilities-part-2/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Identify, prioritize, and fix vulnerabilities with Reachable ...</title>
       <link>https://snyk.io/blog/identify-security-vulnerabilities-with-reachable-vulnerabilities-for-github/</link>
       <category>Snyk</category>
@@ -1073,6 +1060,19 @@
 	&lt;p&gt;Imagine you are a Java programmer and that you just decided you want to use Snyk Open Source scanning to help you find security problems in your third party&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/identify-security-vulnerabilities-with-reachable-vulnerabilities-for-github/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Explaining Java Deserialization Vulnerabilities (Part 2) | foojay</title>
+      <link>https://foojay.io/today/explaining-java-deserialization-vulnerabilities-part-2/</link>
+      <category>Foojay</category>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/ExplainingJavaDeserializationVulnerabilitiesPart2foojay.html</guid>
+      	<description>
+	&lt;p&gt;In this part, we continue with even more harmful attacks and show you how you can prevent this in your own code.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/explaining-java-deserialization-vulnerabilities-part-2/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1324,11 +1324,11 @@
 	</description>
     </item>
     <item>
-      <title>JHipster security scanning with Snyk</title>
+      <title>JHipster security scanning with Snyk | Snyk</title>
       <link>https://snyk.io/blog/jhipster-security-scanning/</link>
       <category>Snyk</category>
       <pubDate>Wed, 7 Oct 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/JHipstersecurityscanningwithSnyk.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/JHipstersecurityscanningwithSnykSnyk.html</guid>
       	<description>
 	&lt;p&gt;Scan your JHipster project at the Command Line using the free Snyk scanner to test the dependencies in your application.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
@@ -1337,11 +1337,11 @@
 	</description>
     </item>
     <item>
-      <title>JHipster security scanning with Snyk | Snyk</title>
+      <title>JHipster security scanning with Snyk</title>
       <link>https://snyk.io/blog/jhipster-security-scanning/</link>
       <category>Snyk</category>
       <pubDate>Wed, 7 Oct 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/JHipstersecurityscanningwithSnykSnyk.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/JHipstersecurityscanningwithSnyk.html</guid>
       	<description>
 	&lt;p&gt;Scan your JHipster project at the Command Line using the free Snyk scanner to test the dependencies in your application.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
@@ -1528,19 +1528,6 @@
 	&lt;p&gt;Code reviews are hard to do well. Particularly when you’re not entirely sure about the errors you sho...&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://dev.to/brianverm/secure-code-review-part-3-test-for-vulnerabilities-introduced-by-dependencies-2pp7&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Java dependency management: how many lines of code does my ...</title>
-      <link>https://snyk.io/blog/java-dependency-management/</link>
-      <category>Snyk</category>
-      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/Javadependencymanagementhowmanylinesofcodedoesmy.html</guid>
-      	<description>
-	&lt;p&gt;This post provides a quick overview of Java dependency management.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/java-dependency-management/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1831,19 +1818,6 @@
 	</description>
     </item>
     <item>
-      <title>Ghostcat breach affects all Tomcat versions</title>
-      <link>https://snyk.io/blog/ghostcat-breach-affects-all-tomcat-versions/</link>
-      <category>Snyk</category>
-      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/GhostcatbreachaffectsallTomcatversions.html</guid>
-      	<description>
-	&lt;p&gt;The vulnerability was found in the Apache JServ Protocol (AJP). The issue is that this binary protocol allows an attacker to read or include any file into Tomcat webapp directories.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/ghostcat-breach-affects-all-tomcat-versions/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Ghostcat breach affects all Tomcat versions | Snyk</title>
       <link>https://snyk.io/blog/ghostcat-breach-affects-all-tomcat-versions/</link>
       <category>Snyk</category>
@@ -1879,19 +1853,6 @@
 	&lt;p&gt;Welcome to our annual JVM ecosystem report! This report presents the results of the largest annual survey on the JVM ecosystem, showing results from the&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/kotlin-overtakes-scala-and-clojure-to-become-the-2nd-most-popular-language-on-the-jvm/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>JVM Ecosystem Report 2020 | Snyk</title>
-      <link>https://snyk.io/blog/jvm-ecosystem-report-2020/</link>
-      <category>Snyk</category>
-      <pubDate>Tue, 4 Feb 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/JVMEcosystemReport2020Snyk.html</guid>
-      	<description>
-	&lt;p&gt;Welcome to our annual JVM ecosystem report! This report presents the results of the largest annual survey on the JVM ecosystem, showing results from the&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/jvm-ecosystem-report-2020/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1944,6 +1905,19 @@
 	&lt;p&gt;Snyk&apos;s annual JVM ecosystem report presents the results of the largest annual survey on the JVM ecosystem, which gathered over 2000 responses in the second half of 2019.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/kotlin-overtakes-scala-and-clojure-to-become-the-2nd-most-popular-language-on-the-jvm/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>JVM Ecosystem Report 2020 | Snyk</title>
+      <link>https://snyk.io/blog/jvm-ecosystem-report-2020/</link>
+      <category>Snyk</category>
+      <pubDate>Tue, 4 Feb 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/JVMEcosystemReport2020Snyk.html</guid>
+      	<description>
+	&lt;p&gt;Welcome to our annual JVM ecosystem report! This report presents the results of the largest annual survey on the JVM ecosystem, showing results from the&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/jvm-ecosystem-report-2020/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
