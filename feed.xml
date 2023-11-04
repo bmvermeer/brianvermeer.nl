@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Fri, 3 Nov 2023 06:16:54 +0000</pubDate>
-    <lastBuildDate>Fri, 3 Nov 2023 06:16:54 +0000</lastBuildDate>
+    <pubDate>Sat, 4 Nov 2023 06:15:45 +0000</pubDate>
+    <lastBuildDate>Sat, 4 Nov 2023 06:15:45 +0000</lastBuildDate>
 
     <item>
       <title>Using JLink to create smaller Docker images for your Spring Boot Java application</title>
@@ -36,19 +36,6 @@
 	</description>
     </item>
     <item>
-      <title>SnakeYaml 2.0: Solving the unsafe deserialization vulnerability</title>
-      <link>https://foojay.io/today/snakeyaml-2-0-solving-the-unsafe-deserialization-vulnerability/</link>
-      <category>Foojay</category>
-      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/SnakeYaml20Solvingtheunsafedeserializationvulnerability.html</guid>
-      	<description>
-	&lt;p&gt;In December of last year, we reported CVE-2022-1471 to you. This unsafe deserialization problem could easily lead to arbitrary code execution.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/snakeyaml-2-0-solving-the-unsafe-deserialization-vulnerability/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>8 tips for securing your CI/CD pipeline with Snyk</title>
       <link>https://snyk.io/blog/securing-ci-cd-pipeline-with-snyk/</link>
       <category>Snyk</category>
@@ -58,6 +45,19 @@
 	&lt;p&gt;In this post, we’ll cover using Snyk in your CI/CD pipelines to catch security issues quickly and empower your developers to fix them before they ever get to production.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/securing-ci-cd-pipeline-with-snyk/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>SnakeYaml 2.0: Solving the unsafe deserialization vulnerability</title>
+      <link>https://foojay.io/today/snakeyaml-2-0-solving-the-unsafe-deserialization-vulnerability/</link>
+      <category>Foojay</category>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/SnakeYaml20Solvingtheunsafedeserializationvulnerability.html</guid>
+      	<description>
+	&lt;p&gt;In December of last year, we reported CVE-2022-1471 to you. This unsafe deserialization problem could easily lead to arbitrary code execution.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/snakeyaml-2-0-solving-the-unsafe-deserialization-vulnerability/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -686,19 +686,6 @@
 	</description>
     </item>
     <item>
-      <title>Security Horror Story: Accidentally exposing PII data</title>
-      <link>https://snyk.io/blog/security-horror-story-accidentally-exposing-pii-data/</link>
-      <category>Snyk</category>
-      <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/SecurityHorrorStoryAccidentallyexposingPIIdata.html</guid>
-      	<description>
-	&lt;p&gt;Welcome to our first Security Horror Story of October. Steel yourself for this spooky tale of accidentally exposed PII! Halloween month just got scarier!&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/security-horror-story-accidentally-exposing-pii-data/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>New Java 17 features for improved security and serialization</title>
       <link>https://snyk.io/blog/new-java-17-features-for-improved-security-and-serialization/</link>
       <category>Snyk</category>
@@ -747,6 +734,19 @@
 	&lt;p&gt;Learn how to begin with Snyk for secure Java development so that you too can be more secure from the get-go!&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://foojay.io/today/getting-started-with-snyk-for-secure-java-development/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Devoxx4Kids: Empowering young Java developers and creating ...</title>
+      <link>https://snyk.io/blog/devoxx4kids-empowering-young-java-developers-and-creating-future-industry-stars/</link>
+      <category>Snyk</category>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/Devoxx4KidsEmpoweringyoungJavadevelopersandcreating.html</guid>
+      	<description>
+	&lt;p&gt;As part of this year’s annual JVM Ecosystem Report, we raised money for Devoxx4Kids, an amazing organization that promotes computer programming, robotics, and engineering to kids in a fun and engaging way.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/devoxx4kids-empowering-young-java-developers-and-creating-future-industry-stars/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -956,19 +956,6 @@
 	&lt;p&gt;Code reviews are hard to do well. Particularly when you’re not entirely sure about the errors you should be looking for!&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://foojay.io/today/secure-code-review-best-practices-part-2/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Solving Java security issues in a Spring MVC app</title>
-      <link>https://snyk.io/blog/java-code-analysis-solving-java-security-issues-in-spring-mvc-app/</link>
-      <category>Snyk</category>
-      <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/SolvingJavasecurityissuesinaSpringMVCapp.html</guid>
-      	<description>
-	&lt;p&gt;For this article, I created a Spring MVC application with JSP web pages that runs on a tomcat server. Although the code works perfectly, I did make some security-related mistakes. Let’s see how we can detect these mistakes in my Spring MVC application performing Java static code analyses and how to fix them.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/java-code-analysis-solving-java-security-issues-in-spring-mvc-app/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -2091,15 +2078,15 @@
 	</description>
     </item>
     <item>
-      <title>80% of developers are not addressing Docker security | Snyk</title>
-      <link>https://snyk.io/blog/80-of-developers-are-not-addressing-docker-security/</link>
+      <title>Shifting Docker security left | Snyk</title>
+      <link>https://snyk.io/blog/shifting-docker-security-left/</link>
       <category>Snyk</category>
       <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/80ofdevelopersarenotaddressingDockersecuritySnyk.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/ShiftingDockersecurityleftSnyk.html</guid>
       	<description>
-	&lt;p&gt;Or download our lovely handcrafted pdf report which contains all of this information and more in one place:&lt;/p&gt;
+	&lt;p&gt;As more organizations create, spread and use Docker containers, the risk of security vulnerabilities grows. Docker images are largely built on top of other images, meaning a vulnerability in one image is also present in all the images that utilize it. The wide adoption of Docker comes at a price — a single vulnerability can be widely spread and have major impact.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/80-of-developers-are-not-addressing-docker-security/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://snyk.io/blog/shifting-docker-security-left/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -2117,26 +2104,13 @@
 	</description>
     </item>
     <item>
-      <title>Shifting Docker security left | Snyk</title>
-      <link>https://snyk.io/blog/shifting-docker-security-left/</link>
-      <category>Snyk</category>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/ShiftingDockersecurityleftSnyk.html</guid>
-      	<description>
-	&lt;p&gt;As more organizations create, spread and use Docker containers, the risk of security vulnerabilities grows. Docker images are largely built on top of other images, meaning a vulnerability in one image is also present in all the images that utilize it. The wide adoption of Docker comes at a price — a single vulnerability can be widely spread and have major impact.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/shifting-docker-security-left/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>80% of developers are not addressing Docker security</title>
+      <title>80% of developers are not addressing Docker security | Snyk</title>
       <link>https://snyk.io/blog/80-of-developers-are-not-addressing-docker-security/</link>
       <category>Snyk</category>
       <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/80ofdevelopersarenotaddressingDockersecurity.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/80ofdevelopersarenotaddressingDockersecuritySnyk.html</guid>
       	<description>
-	&lt;p&gt;Welcome to the Docker security report “Shifting Docker security left.”&lt;/p&gt;
+	&lt;p&gt;Or download our lovely handcrafted pdf report which contains all of this information and more in one place:&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/80-of-developers-are-not-addressing-docker-security/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
