@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sat, 4 Nov 2023 06:15:45 +0000</pubDate>
-    <lastBuildDate>Sat, 4 Nov 2023 06:15:45 +0000</lastBuildDate>
+    <pubDate>Sun, 5 Nov 2023 06:15:53 +0000</pubDate>
+    <lastBuildDate>Sun, 5 Nov 2023 06:15:53 +0000</lastBuildDate>
 
     <item>
       <title>Using JLink to create smaller Docker images for your Spring Boot Java application</title>
@@ -1883,19 +1883,6 @@
 	</description>
     </item>
     <item>
-      <title>The cost of a security breach</title>
-      <link>https://snyk.io/blog/the-cost-of-a-security-breach/</link>
-      <category>Snyk</category>
-      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/Thecostofasecuritybreach.html</guid>
-      	<description>
-	&lt;p&gt;This post measures the cost of implementing security against the cost of a security breach.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/the-cost-of-a-security-breach/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>The cost of a security breach | Snyk</title>
       <link>https://snyk.io/blog/the-cost-of-a-security-breach/</link>
       <category>Snyk</category>
@@ -2065,19 +2052,6 @@
 	</description>
     </item>
     <item>
-      <title>The top two most popular Docker base images each have over 500 ...</title>
-      <link>https://snyk.io/blog/the-top-two-most-popular-docker-base-images-each-have-over-500-vulnerabilities/</link>
-      <category>Snyk</category>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/ThetoptwomostpopularDockerbaseimageseachhaveover500.html</guid>
-      	<description>
-	&lt;p&gt;Or download our lovely handcrafted pdf report which contains all of this information and more in one place:&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/the-top-two-most-popular-docker-base-images-each-have-over-500-vulnerabilities/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Shifting Docker security left | Snyk</title>
       <link>https://snyk.io/blog/shifting-docker-security-left/</link>
       <category>Snyk</category>
@@ -2087,6 +2061,19 @@
 	&lt;p&gt;As more organizations create, spread and use Docker containers, the risk of security vulnerabilities grows. Docker images are largely built on top of other images, meaning a vulnerability in one image is also present in all the images that utilize it. The wide adoption of Docker comes at a price — a single vulnerability can be widely spread and have major impact.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/shifting-docker-security-left/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>The top two most popular Docker base images each have over 500 ...</title>
+      <link>https://snyk.io/blog/the-top-two-most-popular-docker-base-images-each-have-over-500-vulnerabilities/</link>
+      <category>Snyk</category>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/ThetoptwomostpopularDockerbaseimageseachhaveover500.html</guid>
+      	<description>
+	&lt;p&gt;Or download our lovely handcrafted pdf report which contains all of this information and more in one place:&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/the-top-two-most-popular-docker-base-images-each-have-over-500-vulnerabilities/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
