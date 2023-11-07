@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Mon, 6 Nov 2023 06:17:48 +0000</pubDate>
-    <lastBuildDate>Mon, 6 Nov 2023 06:17:48 +0000</lastBuildDate>
+    <pubDate>Tue, 7 Nov 2023 06:17:11 +0000</pubDate>
+    <lastBuildDate>Tue, 7 Nov 2023 06:17:11 +0000</lastBuildDate>
 
     <item>
       <title>Using JLink to create smaller Docker images for your Spring Boot Java application</title>
@@ -88,6 +88,19 @@
 	</description>
     </item>
     <item>
+      <title>Preventing Cross-Site Scripting (XSS) in Java applications with Snyk ...</title>
+      <link>https://snyk.io/blog/preventing-xss-snyk-code/</link>
+      <category>Snyk</category>
+      <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/PreventingCrossSiteScriptingXSSinJavaapplicationswithSnyk.html</guid>
+      	<description>
+	&lt;p&gt;In this post, we&apos;ll demonstrate how Snyk Code can help you prevent cross-site scripting (XSS) vulnerabilities in Java.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/preventing-xss-snyk-code/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>Data leak in the Netherlands: What developers should learn from this</title>
       <link>https://dev.to/snyk/data-leak-in-the-netherlands-what-developers-should-learn-from-this-431c</link>
       <category>Dev</category>
@@ -123,6 +136,19 @@
 	&lt;p&gt;Path traversal is a type of security vulnerability that can occur when a web application or service...&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://dev.to/snyk/mitigating-path-traversal-vulns-in-java-with-snyk-code-4g80&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Mitigating path traversal vulns in Java with Snyk Code</title>
+      <link>https://snyk.io/blog/mitigating-path-traversal-java-snyk-code/</link>
+      <category>Snyk</category>
+      <pubDate>Sun, 5 Mar 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/MitigatingpathtraversalvulnsinJavawithSnykCode.html</guid>
+      	<description>
+	&lt;p&gt;Whether you&apos;re a developer or simply interested in learning more about security in Java, this post will provide you with information and insights to help keep your Java applications secure.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/mitigating-path-traversal-java-snyk-code/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -270,6 +296,19 @@
 	</description>
     </item>
     <item>
+      <title>How to use Java DTOs to stay secure</title>
+      <link>https://snyk.io/blog/how-to-use-java-dtos/</link>
+      <category>Snyk</category>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/HowtouseJavaDTOstostaysecure.html</guid>
+      	<description>
+	&lt;p&gt;In this article, I will explain how DTOs are used in modern Java applications, ways your application can benefit, and how Java DTOs can help you be more secure by preventing accidental data leaks.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/how-to-use-java-dtos/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>Best practices for managing Java dependencies</title>
       <link>https://dev.to/snyk/best-practices-for-managing-java-dependencies-2po6</link>
       <category>Dev</category>
@@ -344,6 +383,19 @@
 	&lt;p&gt;Deserialization vulnerabilities work natively in Java, how attack chains are created, not restricted to Java&apos;s custom serialization framework.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://foojay.io/today/deserialization-exploits-in-java-why-should-i-care/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Exploring CVE-2022-33980: the Apache Commons configuration ...</title>
+      <link>https://snyk.io/blog/cve-2022-33980-apache-commons-configuration-rce-vulnerability/</link>
+      <category>Snyk</category>
+      <pubDate>Thu, 7 Jul 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/ExploringCVE202233980theApacheCommonsconfiguration.html</guid>
+      	<description>
+	&lt;p&gt;In this post, we’ll explore CVE-2022-33980, the Apache Commons configuration RCE vulnerability. However, we want to make it clear that there’s no need for panic. This is not Log4Shell all over again. This is simple configuration manipulation.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/cve-2022-33980-apache-commons-configuration-rce-vulnerability/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -474,6 +526,19 @@
 	&lt;p&gt;March 23, 2022   In this session, we’ll attempt to build a secure CI/CD pipeline with Github Actions...&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://dev.to/snyk/user-office-hours-building-a-secure-cicd-pipeline-with-github-actions-and-snyk-3jjm&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>How to do password hashing in Java applications the right way!</title>
+      <link>https://snyk.io/blog/password-hashing-java-applications/</link>
+      <category>Snyk</category>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/HowtodopasswordhashinginJavaapplicationstherightway.html</guid>
+      	<description>
+	&lt;p&gt;Learn how to best hash passwords in Java applications using secure password hashing algorithms.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/password-hashing-java-applications/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -940,7 +1005,7 @@
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/SQLinjectioncheatsheet8bestpracticestopreventSQLinjection.html</guid>
       	<description>
-	&lt;p&gt;SQL injection is one of the most dangerous vulnerabilities for online applications. It occurs when a user adds untrusted data to a database query. For&lt;/p&gt;
+	&lt;p&gt;null&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/sql-injection-cheat-sheet/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
@@ -1025,19 +1090,6 @@
 	</description>
     </item>
     <item>
-      <title>Explaining Java Deserialization Vulnerabilities (Part 2) | foojay</title>
-      <link>https://foojay.io/today/explaining-java-deserialization-vulnerabilities-part-2/</link>
-      <category>Foojay</category>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/ExplainingJavaDeserializationVulnerabilitiesPart2foojay.html</guid>
-      	<description>
-	&lt;p&gt;In this part, we continue with even more harmful attacks and show you how you can prevent this in your own code.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/explaining-java-deserialization-vulnerabilities-part-2/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Identify, prioritize, and fix vulnerabilities with Reachable ...</title>
       <link>https://snyk.io/blog/identify-security-vulnerabilities-with-reachable-vulnerabilities-for-github/</link>
       <category>Snyk</category>
@@ -1047,6 +1099,19 @@
 	&lt;p&gt;Imagine you are a Java programmer and that you just decided you want to use Snyk Open Source scanning to help you find security problems in your third party&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/identify-security-vulnerabilities-with-reachable-vulnerabilities-for-github/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Explaining Java Deserialization Vulnerabilities (Part 2) | foojay</title>
+      <link>https://foojay.io/today/explaining-java-deserialization-vulnerabilities-part-2/</link>
+      <category>Foojay</category>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/ExplainingJavaDeserializationVulnerabilitiesPart2foojay.html</guid>
+      	<description>
+	&lt;p&gt;In this part, we continue with even more harmful attacks and show you how you can prevent this in your own code.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/explaining-java-deserialization-vulnerabilities-part-2/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1116,6 +1181,19 @@
 	</description>
     </item>
     <item>
+      <title>Serialization and deserialization in Java  Blog</title>
+      <link>https://snyk.io/blog/serialization-and-deserialization-in-java/</link>
+      <category>Snyk</category>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/SerializationanddeserializationinJavaBlog.html</guid>
+      	<description>
+	&lt;p&gt;Deserialization in Java is also known as “the gift that keeps on giving” due to the many security issues and other problems it has produced over the years.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/serialization-and-deserialization-in-java/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>Serialization and deserialization in Java | Snyk Blog</title>
       <link>https://snyk.io/blog/serialization-and-deserialization-in-java/</link>
       <category>Snyk</category>
@@ -1125,6 +1203,19 @@
 	&lt;p&gt;Deserialization in Java is also known as “the gift that keeps on giving” due to the many security issues and other problems it has produced over the years.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/serialization-and-deserialization-in-java/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Git checkout remote branch: how it works and when to use  Blog</title>
+      <link>https://snyk.io/blog/git-checkout-remote-branch/</link>
+      <category>Snyk</category>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/GitcheckoutremotebranchhowitworksandwhentouseBlog.html</guid>
+      	<description>
+	&lt;p&gt;In this article, we are taking a look at branches in git and what git checkout remote branch actually means.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/git-checkout-remote-branch/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1207,19 +1298,6 @@
 	</description>
     </item>
     <item>
-      <title>Java logging: what should you log and what not? | Snyk</title>
-      <link>https://snyk.io/blog/java-logging-what-should-you-log-and-what-not/</link>
-      <category>Snyk</category>
-      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/JavaloggingwhatshouldyoulogandwhatnotSnyk.html</guid>
-      	<description>
-	&lt;p&gt;In addition to the functional aspect of logging, logs are also critical from a Java security perspective. When a security breach occurs, your log files are&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/java-logging-what-should-you-log-and-what-not/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Avoid Java Serialization: The Gift That Keeps On Giving | foojay</title>
       <link>https://foojay.io/today/avoid-java-serialization/</link>
       <category>Foojay</category>
@@ -1229,6 +1307,19 @@
 	&lt;p&gt;If you need to Deserialize an inputstream yourself, you should use an ObjectsInputStream with restrictions.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://foojay.io/today/avoid-java-serialization/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Java logging: what should you log and what not? | Snyk</title>
+      <link>https://snyk.io/blog/java-logging-what-should-you-log-and-what-not/</link>
+      <category>Snyk</category>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/JavaloggingwhatshouldyoulogandwhatnotSnyk.html</guid>
+      	<description>
+	&lt;p&gt;In addition to the functional aspect of logging, logs are also critical from a Java security perspective. When a security breach occurs, your log files are&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/java-logging-what-should-you-log-and-what-not/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1792,6 +1883,19 @@
 	</description>
     </item>
     <item>
+      <title>Ghostcat breach affects all Tomcat versions</title>
+      <link>https://snyk.io/blog/ghostcat-breach-affects-all-tomcat-versions/</link>
+      <category>Snyk</category>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/GhostcatbreachaffectsallTomcatversions.html</guid>
+      	<description>
+	&lt;p&gt;The vulnerability was found in the Apache JServ Protocol (AJP). The issue is that this binary protocol allows an attacker to read or include any file into Tomcat webapp directories.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/ghostcat-breach-affects-all-tomcat-versions/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>Ghostcat breach affects all Tomcat versions | Snyk</title>
       <link>https://snyk.io/blog/ghostcat-breach-affects-all-tomcat-versions/</link>
       <category>Snyk</category>
@@ -1818,26 +1922,13 @@
 	</description>
     </item>
     <item>
-      <title>Kotlin overtakes Scala and Clojure, to become the 2nd most popular ...</title>
-      <link>https://snyk.io/blog/kotlin-overtakes-scala-and-clojure-to-become-the-2nd-most-popular-language-on-the-jvm/</link>
-      <category>Snyk</category>
-      <pubDate>Tue, 4 Feb 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/KotlinovertakesScalaandClojuretobecomethe2ndmostpopular.html</guid>
-      	<description>
-	&lt;p&gt;Welcome to our annual JVM ecosystem report! This report presents the results of the largest annual survey on the JVM ecosystem, showing results from the&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/kotlin-overtakes-scala-and-clojure-to-become-the-2nd-most-popular-language-on-the-jvm/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>JVM Ecosystem Report 2020 | Snyk</title>
+      <title>JVM Ecosystem Report 2020</title>
       <link>https://snyk.io/blog/jvm-ecosystem-report-2020/</link>
       <category>Snyk</category>
       <pubDate>Tue, 4 Feb 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/JVMEcosystemReport2020Snyk.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/JVMEcosystemReport2020.html</guid>
       	<description>
-	&lt;p&gt;Welcome to our annual JVM ecosystem report! This report presents the results of the largest annual survey on the JVM ecosystem, showing results from the&lt;/p&gt;
+	&lt;p&gt;Snyk&apos;s annual JVM ecosystem report presents the results of the largest annual survey on the JVM ecosystem, which gathered over 2000 responses in the second half of 2019.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/jvm-ecosystem-report-2020/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
@@ -1879,6 +1970,45 @@
 	&lt;p&gt;Welcome to our annual JVM ecosystem report! This report presents the results of the largest annual survey on the JVM ecosystem, showing results from the&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/spring-dominates-the-java-ecosystem-with-60-using-it-for-their-main-applications/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Kotlin overtakes Scala and Clojure, to become the 2nd most popular ...</title>
+      <link>https://snyk.io/blog/kotlin-overtakes-scala-and-clojure-to-become-the-2nd-most-popular-language-on-the-jvm/</link>
+      <category>Snyk</category>
+      <pubDate>Tue, 4 Feb 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/KotlinovertakesScalaandClojuretobecomethe2ndmostpopular.html</guid>
+      	<description>
+	&lt;p&gt;Welcome to our annual JVM ecosystem report! This report presents the results of the largest annual survey on the JVM ecosystem, showing results from the&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/kotlin-overtakes-scala-and-clojure-to-become-the-2nd-most-popular-language-on-the-jvm/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>JVM Ecosystem Report 2020 | Snyk</title>
+      <link>https://snyk.io/blog/jvm-ecosystem-report-2020/</link>
+      <category>Snyk</category>
+      <pubDate>Tue, 4 Feb 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/JVMEcosystemReport2020Snyk.html</guid>
+      	<description>
+	&lt;p&gt;Welcome to our annual JVM ecosystem report! This report presents the results of the largest annual survey on the JVM ecosystem, showing results from the&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/jvm-ecosystem-report-2020/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>IntelliJ IDEA dominates the IDE market with 62% adoption among ...</title>
+      <link>https://snyk.io/blog/intellij-idea-dominates-the-ide-market-with-62-adoption-among-jvm-developers/</link>
+      <category>Snyk</category>
+      <pubDate>Tue, 4 Feb 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/IntelliJIDEAdominatestheIDEmarketwith62adoptionamong.html</guid>
+      	<description>
+	&lt;p&gt;Snyk&apos;s annual JVM ecosystem report presents the results of the largest annual survey on the JVM ecosystem, which gathered over 2000 responses in the second half of 2019.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/intellij-idea-dominates-the-ide-market-with-62-adoption-among-jvm-developers/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
