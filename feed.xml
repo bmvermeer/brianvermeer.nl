@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Tue, 12 Dec 2023 06:18:27 +0000</pubDate>
-    <lastBuildDate>Tue, 12 Dec 2023 06:18:27 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Dec 2023 06:17:54 +0000</pubDate>
+    <lastBuildDate>Wed, 13 Dec 2023 06:17:54 +0000</lastBuildDate>
 
     <item>
       <title>Handling security vulnerabilities in Spring Boot</title>
@@ -608,19 +608,6 @@
 	</description>
     </item>
     <item>
-      <title>Spring4Shell: The zero-day RCE in the Spring Framework explained</title>
-      <link>https://foojay.io/today/spring4shell-the-zero-day-rce-in-the-spring-framework-explained-ready/</link>
-      <category>Foojay</category>
-      <pubDate>Thu, 7 Apr 2022 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/Spring4ShellThezerodayRCEintheSpringFrameworkexplained.html</guid>
-      	<description>
-	&lt;p&gt;We’ll explore how remote code execution (RCE) works, explaining Spring4Shell, a zero-day vulnerability in the Spring framework that could allow for RCE&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/spring4shell-the-zero-day-rce-in-the-spring-framework-explained-ready/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Spring4Shell extends to Glassfish and Payara: same vulnerability ...</title>
       <link>https://snyk.io/blog/spring4shell-rce-vulnerability-glassfish-payara/</link>
       <category>Snyk</category>
@@ -630,6 +617,19 @@
 	&lt;p&gt;You’ve heard of Spring4Shell, now learn about similar exploits for Glassfish and Payara that leverage the same issue in Spring, but with a different payload.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/spring4shell-rce-vulnerability-glassfish-payara/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Spring4Shell: The zero-day RCE in the Spring Framework explained</title>
+      <link>https://foojay.io/today/spring4shell-the-zero-day-rce-in-the-spring-framework-explained-ready/</link>
+      <category>Foojay</category>
+      <pubDate>Thu, 7 Apr 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/Spring4ShellThezerodayRCEintheSpringFrameworkexplained.html</guid>
+      	<description>
+	&lt;p&gt;We’ll explore how remote code execution (RCE) works, explaining Spring4Shell, a zero-day vulnerability in the Spring framework that could allow for RCE&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/spring4shell-the-zero-day-rce-in-the-spring-framework-explained-ready/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -968,6 +968,19 @@
 	&lt;p&gt;Learn how to begin with Snyk for secure Java development so that you too can be more secure from the get-go!&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://foojay.io/today/getting-started-with-snyk-for-secure-java-development/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Why You Should Upgrade to Maven Version 3.8.1 Today or Very Soon</title>
+      <link>https://foojay.io/today/why-you-should-upgrade-to-maven-version-3-8-1-today-or-very-soon/</link>
+      <category>Foojay</category>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/WhyYouShouldUpgradetoMavenVersion381TodayorVerySoon.html</guid>
+      	<description>
+	&lt;p&gt;If you are still running on an old Maven version like 3.6.3 or below, you need to upgrade to version 3.8.1 because of security reasons.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/why-you-should-upgrade-to-maven-version-3-8-1-today-or-very-soon/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -2139,6 +2152,19 @@
 	&lt;p&gt;It’s always a good idea to check for security issues in code that you review. In case you don’t know what to look for, here’s a handy checklist to give you pointers for your next code reviews!&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/secure-code-review/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Secure Code Review Best Practices (Part 1) | foojay</title>
+      <link>https://foojay.io/today/secure-code-review-best-practices-part-1/</link>
+      <category>Foojay</category>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/SecureCodeReviewBestPracticesPart1foojay.html</guid>
+      	<description>
+	&lt;p&gt;Code reviews are hard to do well. Particularly when you’re not entirely sure about the errors you should be looking for!&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/secure-code-review-best-practices-part-1/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
