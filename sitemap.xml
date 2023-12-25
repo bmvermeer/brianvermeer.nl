@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>https://www.brianvermeer.nl/publications.html</loc>
-        <lastmod>2023-12-24</lastmod>
+        <lastmod>2023-12-25</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/talks.html</loc>
@@ -14,7 +14,7 @@
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Foojay/HandlingsecurityvulnerabilitiesinSpringBoot.html</loc>
-        <lastmod>2023-12-24</lastmod>
+        <lastmod>2023-12-25</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Dev/MasteringSymmetricEncryptioninJavaAPracticalGuideforDevelopers.html</loc>
@@ -181,10 +181,6 @@
         <lastmod>2022-07-07</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/ExploringtheApacheCommonsConfigurationRCEVulnerability.html</loc>
-        <lastmod>2022-07-07</lastmod>
-    </url>
-    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Dev/DeserializationexploitsinJavawhyshouldIcare.html</loc>
         <lastmod>2022-07-05</lastmod>
     </url>
@@ -337,11 +333,11 @@
         <lastmod>2021-06-22</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Dev/JVMEcosystemReport2021.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/NewJVMEcosystemReport2021HasArrivedfoojay.html</loc>
         <lastmod>2021-06-21</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/NewJVMEcosystemReport2021HasArrivedfoojay.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Dev/JVMEcosystemReport2021.html</loc>
         <lastmod>2021-06-21</lastmod>
     </url>
     <url>
@@ -359,6 +355,10 @@
     <url>
         <loc>https://www.brianvermeer.nl/blog/manual/zo-leg-je-fundament-van-productieve-devsecops-cultuur.html</loc>
         <lastmod>2021-05-11</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/PreventingYAMLParsingVulnerabilitiesinJavafoojay.html</loc>
+        <lastmod>2021-05-05</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Foojay/FixJavaSecurityIssuesWhileCodinginIntelliJIDEAfoojay.html</loc>
@@ -513,11 +513,11 @@
         <lastmod>2020-11-10</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JavaloggingwhatshouldyoulogandwhatnotSnyk.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/JavaLoggingWhatToLogWhatNotToLogfoojay.html</loc>
         <lastmod>2020-11-10</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/JavaLoggingWhatToLogWhatNotToLogfoojay.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JavaloggingwhatshouldyoulogandwhatnotSnyk.html</loc>
         <lastmod>2020-11-10</lastmod>
     </url>
     <url>
@@ -525,11 +525,11 @@
         <lastmod>2020-11-10</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/HowtoConfigureYourJavaXMLParserstoPreventXXEAttacks.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Dev/VideoSecurityscanningwithinGradle.html</loc>
         <lastmod>2020-11-05</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Dev/VideoSecurityscanningwithinGradle.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/HowtoConfigureYourJavaXMLParserstoPreventXXEAttacks.html</loc>
         <lastmod>2020-11-05</lastmod>
     </url>
     <url>
@@ -565,11 +565,11 @@
         <lastmod>2020-09-13</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/FixingVulnerabilitiesinMavenBasedProjectsfoojay.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/FixingvulnerabilitiesinMavenprojectsSnyk.html</loc>
         <lastmod>2020-09-13</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/FixingvulnerabilitiesinMavenprojectsSnyk.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/FixingVulnerabilitiesinMavenBasedProjectsfoojay.html</loc>
         <lastmod>2020-09-13</lastmod>
     </url>
     <url>
