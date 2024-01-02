@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Mon, 1 Jan 2024 06:18:50 +0000</pubDate>
-    <lastBuildDate>Mon, 1 Jan 2024 06:18:50 +0000</lastBuildDate>
+    <pubDate>Tue, 2 Jan 2024 06:18:15 +0000</pubDate>
+    <lastBuildDate>Tue, 2 Jan 2024 06:18:15 +0000</lastBuildDate>
 
     <item>
       <title>Handling security vulnerabilities in Spring Boot</title>
@@ -136,19 +136,6 @@
 	&lt;p&gt;In this post, we&apos;ll walk you through using SnakeYaml 2.0 to solve the unsafe deserialization vulnerability.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/snakeyaml-unsafe-deserialization-vulnerability/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Preventing Cross-Site Scripting (XSS) in Java with Snyk Code</title>
-      <link>https://foojay.io/today/preventing-cross-site-scripting-xss-in-java-applications-with-snyk-code/</link>
-      <category>Foojay</category>
-      <pubDate>Thu, 8 Jun 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/PreventingCrossSiteScriptingXSSinJavawithSnykCode.html</guid>
-      	<description>
-	&lt;p&gt;foojay is the place for all OpenJDK Update Release Information. Learn More.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/preventing-cross-site-scripting-xss-in-java-applications-with-snyk-code/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1076,19 +1063,6 @@
 	</description>
     </item>
     <item>
-      <title>JVM Ecosystem Report 2021</title>
-      <link>https://dev.to/brianverm/jvm-ecosystem-report-2021-3hp</link>
-      <category>Dev</category>
-      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Dev/JVMEcosystemReport2021.html</guid>
-      	<description>
-	&lt;p&gt;Snyk has just released the annual JVM ecosystem report! This report presents the results of the...&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://dev.to/brianverm/jvm-ecosystem-report-2021-3hp&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>New JVM Ecosystem Report 2021 Has Arrived! | foojay</title>
       <link>https://foojay.io/today/new-jvm-ecosystem-report-2021-has-arrived/</link>
       <category>Foojay</category>
@@ -1098,6 +1072,19 @@
 	&lt;p&gt;JVM Ecosystem Report 2021 presents the results of the largest annual survey on the state of the JVM ecosystem.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://foojay.io/today/new-jvm-ecosystem-report-2021-has-arrived/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>JVM Ecosystem Report 2021</title>
+      <link>https://dev.to/brianverm/jvm-ecosystem-report-2021-3hp</link>
+      <category>Dev</category>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Dev/JVMEcosystemReport2021.html</guid>
+      	<description>
+	&lt;p&gt;Snyk has just released the annual JVM ecosystem report! This report presents the results of the...&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://dev.to/brianverm/jvm-ecosystem-report-2021-3hp&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1662,19 +1649,6 @@
 	</description>
     </item>
     <item>
-      <title>Java logging: what should you log and what not? | Snyk</title>
-      <link>https://snyk.io/blog/java-logging-what-should-you-log-and-what-not/</link>
-      <category>Snyk</category>
-      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/JavaloggingwhatshouldyoulogandwhatnotSnyk.html</guid>
-      	<description>
-	&lt;p&gt;In addition to the functional aspect of logging, logs are also critical from a Java security perspective. When a security breach occurs, your log files are&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/java-logging-what-should-you-log-and-what-not/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Java Logging: What To Log &amp; What Not To Log? | foojay</title>
       <link>https://foojay.io/today/java-logging-what-to-log-what-not-to-log/</link>
       <category>Foojay</category>
@@ -1684,6 +1658,19 @@
 	&lt;p&gt;A pragmatic guide to Java logging—what should we log, what shouldn’t we log, and how to implement Java logging properly.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://foojay.io/today/java-logging-what-to-log-what-not-to-log/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Java logging: what should you log and what not? | Snyk</title>
+      <link>https://snyk.io/blog/java-logging-what-should-you-log-and-what-not/</link>
+      <category>Snyk</category>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/JavaloggingwhatshouldyoulogandwhatnotSnyk.html</guid>
+      	<description>
+	&lt;p&gt;In addition to the functional aspect of logging, logs are also critical from a Java security perspective. When a security breach occurs, your log files are&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/java-logging-what-should-you-log-and-what-not/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1701,19 +1688,6 @@
 	</description>
     </item>
     <item>
-      <title>How to Configure Your Java XML Parsers to Prevent XXE Attacks ...</title>
-      <link>https://foojay.io/today/how-to-configure-your-java-xml-parsers-to-prevent-xxe-attacks/</link>
-      <category>Foojay</category>
-      <pubDate>Thu, 5 Nov 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/HowtoConfigureYourJavaXMLParserstoPreventXXEAttacks.html</guid>
-      	<description>
-	&lt;p&gt;With XML eXternal Entity (XXE) enabled, it is possible to create a malicious XML, and read the content of an arbitrary file on the machine.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/how-to-configure-your-java-xml-parsers-to-prevent-xxe-attacks/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>[Video] Security scanning within Gradle</title>
       <link>https://dev.to/snyk/video-security-scanning-within-gradle-45dj</link>
       <category>Dev</category>
@@ -1723,6 +1697,19 @@
 	&lt;p&gt;Check out the Snyk Gradle plugin.   Scan your thirds party open source dependencies for security...&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://dev.to/snyk/video-security-scanning-within-gradle-45dj&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>How to Configure Your Java XML Parsers to Prevent XXE Attacks ...</title>
+      <link>https://foojay.io/today/how-to-configure-your-java-xml-parsers-to-prevent-xxe-attacks/</link>
+      <category>Foojay</category>
+      <pubDate>Thu, 5 Nov 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/HowtoConfigureYourJavaXMLParserstoPreventXXEAttacks.html</guid>
+      	<description>
+	&lt;p&gt;With XML eXternal Entity (XXE) enabled, it is possible to create a malicious XML, and read the content of an arbitrary file on the machine.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/how-to-configure-your-java-xml-parsers-to-prevent-xxe-attacks/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1840,6 +1827,19 @@
 	&lt;p&gt;In this article, I will explain how you can fix vulnerabilities in third-party libraries when using Maven, even if it is not obvious.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/fixing-vulnerabilities-in-maven-projects/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Fixing Vulnerabilities in Maven-Based Projects | foojay</title>
+      <link>https://foojay.io/today/fixing-vulnerabilities-in-maven-projects/</link>
+      <category>Foojay</category>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/FixingVulnerabilitiesinMavenBasedProjectsfoojay.html</guid>
+      	<description>
+	&lt;p&gt;In this article, I will explain how you can fix vulnerabilities in third-party libraries when using Maven, even when it is not obvious.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/fixing-vulnerabilities-in-maven-projects/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
