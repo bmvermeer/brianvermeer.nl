@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Mon, 15 Jan 2024 06:19:20 +0000</pubDate>
-    <lastBuildDate>Mon, 15 Jan 2024 06:19:20 +0000</lastBuildDate>
+    <pubDate>Tue, 16 Jan 2024 06:18:36 +0000</pubDate>
+    <lastBuildDate>Tue, 16 Jan 2024 06:18:36 +0000</lastBuildDate>
 
     <item>
       <title>Handling security vulnerabilities in Spring Boot</title>
@@ -439,6 +439,19 @@
 	</description>
     </item>
     <item>
+      <title>Controlling your Server with a Reverse Shell Attack | Foojay.io</title>
+      <link>https://foojay.io/today/controlling-your-server-with-a-reverse-shell-attack/</link>
+      <category>Foojay</category>
+      <pubDate>Wed, 7 Sep 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/ControllingyourServerwithaReverseShellAttackFoojayio.html</guid>
+      	<description>
+	&lt;p&gt;The last thing you need for your happily deployed application is someone to take over your system and fully control it!&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/controlling-your-server-with-a-reverse-shell-attack/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>Best practices for managing Java dependencies</title>
       <link>https://dev.to/snyk/best-practices-for-managing-java-dependencies-2po6</link>
       <category>Dev</category>
@@ -543,19 +556,6 @@
 	</description>
     </item>
     <item>
-      <title>Exploring CVE-2022-33980: the Apache Commons configuration ...</title>
-      <link>https://snyk.io/blog/cve-2022-33980-apache-commons-configuration-rce-vulnerability/</link>
-      <category>Snyk</category>
-      <pubDate>Thu, 7 Jul 2022 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/ExploringCVE202233980theApacheCommonsconfiguration.html</guid>
-      	<description>
-	&lt;p&gt;In this post, we’ll explore CVE-2022-33980, the Apache Commons configuration RCE vulnerability. However, we want to make it clear that there’s no need for panic. This is not Log4Shell all over again. This is simple configuration manipulation.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/cve-2022-33980-apache-commons-configuration-rce-vulnerability/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Exploring the Apache Commons Configuration RCE Vulnerability</title>
       <link>https://foojay.io/today/exploring-cve-2022-33980-the-apache-commons-configuration-rce-vulnerability/</link>
       <category>Foojay</category>
@@ -565,6 +565,19 @@
 	&lt;p&gt;Before we dive into the details of this vulnerability, we want to make it clear that there’s no need for panic!&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://foojay.io/today/exploring-cve-2022-33980-the-apache-commons-configuration-rce-vulnerability/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Exploring CVE-2022-33980: the Apache Commons configuration ...</title>
+      <link>https://snyk.io/blog/cve-2022-33980-apache-commons-configuration-rce-vulnerability/</link>
+      <category>Snyk</category>
+      <pubDate>Thu, 7 Jul 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/ExploringCVE202233980theApacheCommonsconfiguration.html</guid>
+      	<description>
+	&lt;p&gt;In this post, we’ll explore CVE-2022-33980, the Apache Commons configuration RCE vulnerability. However, we want to make it clear that there’s no need for panic. This is not Log4Shell all over again. This is simple configuration manipulation.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/cve-2022-33980-apache-commons-configuration-rce-vulnerability/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -617,6 +630,19 @@
 	&lt;p&gt;Visual Studio Code (VS Code) is a code editor redefined and optimized for building and debugging...&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://dev.to/snyk/user-office-hours-building-secure-application-in-vs-code-with-snyk-5hbl&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>How to do password hashing in Java applications the right way</title>
+      <link>https://foojay.io/today/how-to-do-password-hashing-in-java-applications-the-right-way/</link>
+      <category>Foojay</category>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/HowtodopasswordhashinginJavaapplicationstherightway.html</guid>
+      	<description>
+	&lt;p&gt;The first rule of password hashing algorithms is: Don&apos;t write your own password hashing algorithm! Let&apos;s learn how we do password hashing.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/how-to-do-password-hashing-in-java-applications-the-right-way/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1142,6 +1168,19 @@
 	</description>
     </item>
     <item>
+      <title>Fix Java Security Issues While Coding in IntelliJ IDEA | foojay</title>
+      <link>https://foojay.io/today/fix-java-security-issues-while-coding-in-intellij-idea/</link>
+      <category>Foojay</category>
+      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/FixJavaSecurityIssuesWhileCodinginIntelliJIDEAfoojay.html</guid>
+      	<description>
+	&lt;p&gt;Let’s see how we can integrate security and secure development into IntelliJ IDEA using the new Snyk vulnerability scanner plugin!&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/fix-java-security-issues-while-coding-in-intellij-idea/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>Snyk Maven plugin: Integrated security vulnerability scanning for ...</title>
       <link>https://snyk.io/blog/snyk-maven-plugin-integrated-security-vulnerability-scanning-for-developers/</link>
       <category>Snyk</category>
@@ -1528,19 +1567,6 @@
 	&lt;p&gt;In this article, we are taking a look at branches in git and what git checkout remote branch actually means.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/git-checkout-remote-branch/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Minimizing Security Risks in Application Development | foojay</title>
-      <link>https://foojay.io/today/minimizing-security-risks-in-java-application-development/</link>
-      <category>Foojay</category>
-      <pubDate>Mon, 7 Dec 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/MinimizingSecurityRisksinApplicationDevelopmentfoojay.html</guid>
-      	<description>
-	&lt;p&gt;United by their passion for open source, Payara and IBM recently teamed up for a panel discussion on security in Java application development.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/minimizing-security-risks-in-java-application-development/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
