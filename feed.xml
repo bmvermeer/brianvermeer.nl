@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Wed, 17 Jan 2024 06:18:27 +0000</pubDate>
-    <lastBuildDate>Wed, 17 Jan 2024 06:18:27 +0000</lastBuildDate>
+    <pubDate>Thu, 18 Jan 2024 06:18:34 +0000</pubDate>
+    <lastBuildDate>Thu, 18 Jan 2024 06:18:34 +0000</lastBuildDate>
 
     <item>
       <title>Handling security vulnerabilities in Spring Boot</title>
@@ -136,19 +136,6 @@
 	&lt;p&gt;In this post, we&apos;ll walk you through using SnakeYaml 2.0 to solve the unsafe deserialization vulnerability.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/snakeyaml-unsafe-deserialization-vulnerability/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Preventing Cross-Site Scripting (XSS) in Java with Snyk Code</title>
-      <link>https://foojay.io/today/preventing-cross-site-scripting-xss-in-java-applications-with-snyk-code/</link>
-      <category>Foojay</category>
-      <pubDate>Thu, 8 Jun 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/PreventingCrossSiteScriptingXSSinJavawithSnykCode.html</guid>
-      	<description>
-	&lt;p&gt;foojay is the place for all OpenJDK Update Release Information. Learn More.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/preventing-cross-site-scripting-xss-in-java-applications-with-snyk-code/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1151,19 +1138,6 @@
 	&lt;p&gt;Bij het ontstaan van devops - we spreken meer dan tien jaar geleden - was het verbeteren van de samenwerking tussen development- en operations-teams het belangrijkste doel. Het automatiseren van processen bij het bouwen, testen en implementeren van applicaties speelden hierbij een belangrijke rol. Wat begon als een verzameling standaardprocedures, veranderde in een nieuwe engineeringcultuur en -proces: devops. Security had op dat moment zeker aandacht, maar niet altijd de prioriteit.&lt;br /&gt;
 ...&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.computable.nl/artikel/blogs/development/7174027/5260614/zo-leg-je-fundament-van-productieve-devsecops-cultuur.html&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Preventing YAML Parsing Vulnerabilities in Java | foojay</title>
-      <link>https://foojay.io/today/preventing-yaml-parsing-vulnerabilities-in-java/</link>
-      <category>Foojay</category>
-      <pubDate>Wed, 5 May 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/PreventingYAMLParsingVulnerabilitiesinJavafoojay.html</guid>
-      	<description>
-	&lt;p&gt;With anchors, you can create a YAML bomb! The tremendous amount of (nested) objects will cause a memory overload.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/preventing-yaml-parsing-vulnerabilities-in-java/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
