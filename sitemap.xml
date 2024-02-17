@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>https://www.brianvermeer.nl/publications.html</loc>
-        <lastmod>2024-02-16</lastmod>
+        <lastmod>2024-02-17</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/talks.html</loc>
@@ -185,10 +185,6 @@
         <lastmod>2022-07-14</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/DeserializationexploitsinJavawhyshouldICareFoojayToday.html</loc>
-        <lastmod>2022-07-13</lastmod>
-    </url>
-    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/ExploringCVE202233980theApacheCommonsconfiguration.html</loc>
         <lastmod>2022-07-07</lastmod>
     </url>
@@ -269,6 +265,10 @@
         <lastmod>2022-01-04</lastmod>
     </url>
     <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/JavaLoggingWhatToLogWhatNotToLogfoojay.html</loc>
+        <lastmod>2021-12-17</lastmod>
+    </url>
+    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Foojay/Log4ShellCriticalLog4jRCEVulnerabiltyUpdatetoVersion2150.html</loc>
         <lastmod>2021-12-12</lastmod>
     </url>
@@ -301,11 +301,11 @@
         <lastmod>2021-11-03</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SecurityHorrorStoryAccidentallyexposingPIIdata.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/DiscussionTheStateofJava2021FoojayioToday.html</loc>
         <lastmod>2021-10-24</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/DiscussionTheStateofJava2021FoojayioToday.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SecurityHorrorStoryAccidentallyexposingPIIdata.html</loc>
         <lastmod>2021-10-24</lastmod>
     </url>
     <url>
@@ -461,11 +461,11 @@
         <lastmod>2021-02-14</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/IdentifyprioritizeandfixvulnerabilitieswithReachable.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/ExplainingJavaDeserializationVulnerabilitiesPart2foojay.html</loc>
         <lastmod>2021-01-27</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/ExplainingJavaDeserializationVulnerabilitiesPart2foojay.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/IdentifyprioritizeandfixvulnerabilitieswithReachable.html</loc>
         <lastmod>2021-01-27</lastmod>
     </url>
     <url>
