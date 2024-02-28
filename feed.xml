@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Tue, 27 Feb 2024 06:15:58 +0000</pubDate>
-    <lastBuildDate>Tue, 27 Feb 2024 06:15:58 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Feb 2024 06:16:18 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Feb 2024 06:16:18 +0000</lastBuildDate>
 
     <item>
       <title>Creating SBOMs with the Snyk CLI</title>
