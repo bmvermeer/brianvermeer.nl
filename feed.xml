@@ -6,14 +6,14 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Thu, 18 Apr 2024 06:18:19 +0000</pubDate>
-    <lastBuildDate>Thu, 18 Apr 2024 06:18:19 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Apr 2024 06:18:15 +0000</pubDate>
+    <lastBuildDate>Fri, 19 Apr 2024 06:18:15 +0000</lastBuildDate>
 
     <item>
       <title>Nine Docker pro tips for Node.js developers</title>
       <link>https://snyk.io/blog/nine-docker-pro-tips-node-js-developers/</link>
       <category>Snyk</category>
-      <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/NineDockerprotipsforNodejsdevelopers.html</guid>
       	<description>
 	&lt;p&gt;In this post, we dive into nine lesser-known yet highly effective commands that can significantly improve your Docker experience in Node.js.&lt;/p&gt;
