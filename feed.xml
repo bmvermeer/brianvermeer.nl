@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Fri, 3 May 2024 06:18:28 +0000</pubDate>
-    <lastBuildDate>Fri, 3 May 2024 06:18:28 +0000</lastBuildDate>
+    <pubDate>Sat, 4 May 2024 06:17:57 +0000</pubDate>
+    <lastBuildDate>Sat, 4 May 2024 06:17:57 +0000</lastBuildDate>
 
     <item>
       <title>Nine Docker pro tips for Node.js developers</title>
@@ -140,19 +140,6 @@
 	</description>
     </item>
     <item>
-      <title>SnakeYaml 2.0: Solving the unsafe deserialization vulnerability</title>
-      <link>https://foojay.io/today/snakeyaml-2-0-solving-the-unsafe-deserialization-vulnerability/</link>
-      <category>Foojay</category>
-      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/SnakeYaml20Solvingtheunsafedeserializationvulnerability.html</guid>
-      	<description>
-	&lt;p&gt;In December of last year, we reported CVE-2022-1471 to you. This unsafe deserialization problem could easily lead to arbitrary code execution.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/snakeyaml-2-0-solving-the-unsafe-deserialization-vulnerability/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>8 tips for securing your CI/CD pipeline with Snyk</title>
       <link>https://snyk.io/blog/securing-ci-cd-pipeline-with-snyk/</link>
       <category>Snyk</category>
@@ -162,6 +149,19 @@
 	&lt;p&gt;In this post, we’ll cover using Snyk in your CI/CD pipelines to catch security issues quickly and empower your developers to fix them before they ever get to production.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/securing-ci-cd-pipeline-with-snyk/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>SnakeYaml 2.0: Solving the unsafe deserialization vulnerability</title>
+      <link>https://foojay.io/today/snakeyaml-2-0-solving-the-unsafe-deserialization-vulnerability/</link>
+      <category>Foojay</category>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/SnakeYaml20Solvingtheunsafedeserializationvulnerability.html</guid>
+      	<description>
+	&lt;p&gt;In December of last year, we reported CVE-2022-1471 to you. This unsafe deserialization problem could easily lead to arbitrary code execution.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/snakeyaml-2-0-solving-the-unsafe-deserialization-vulnerability/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -279,19 +279,6 @@
 	&lt;p&gt;Whether you&apos;re a developer or simply interested in learning more about security in Java, this post will provide you with information and insights to help keep your Java applications secure.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/mitigating-path-traversal-java-snyk-code/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Unsafe Deserialization Vulnerability in SnakeYaml | Foojay.io</title>
-      <link>https://foojay.io/today/unsafe-deserialization-vulnerability-in-snakeyaml-cve-2022-1471/</link>
-      <category>Foojay</category>
-      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/UnsafeDeserializationVulnerabilityinSnakeYamlFoojayio.html</guid>
-      	<description>
-	&lt;p&gt;org.yaml:snakeyaml package is widely used in the Java ecosystem, in part because it is packaged by default in the spring-boot-starter.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/unsafe-deserialization-vulnerability-in-snakeyaml-cve-2022-1471/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1115,6 +1102,19 @@
 	</description>
     </item>
     <item>
+      <title>New JVM Ecosystem Report 2021 Has Arrived! | foojay</title>
+      <link>https://foojay.io/today/new-jvm-ecosystem-report-2021-has-arrived/</link>
+      <category>Foojay</category>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/NewJVMEcosystemReport2021HasArrivedfoojay.html</guid>
+      	<description>
+	&lt;p&gt;JVM Ecosystem Report 2021 presents the results of the largest annual survey on the state of the JVM ecosystem.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/new-jvm-ecosystem-report-2021-has-arrived/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>JVM Ecosystem report 2021</title>
       <link>https://snyk.io/jvm-ecosystem-report-2021/</link>
       <category>Snyk</category>
@@ -1125,19 +1125,6 @@
 &lt;p&gt;This year&apos;s survey is a cooperation between Snyk and Azul and was slightly different from the previous surveys. We aimed for the survey to be more concise and focus only on the most important aspects of JVM developers today. Additionally, this year every participant was allowed to choose multiple options. We believe that the way the 2021 survey was designed, we have a better and more comprehensive view of the current JVM ecosystem. In this report, we also looked at different open data sources like GitHub and Google Trends to see how that data compares to the survey results.&lt;br /&gt;
 ...&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://snyk.io/jvm-ecosystem-report-2021/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>New JVM Ecosystem Report 2021 Has Arrived! | foojay</title>
-      <link>https://foojay.io/today/new-jvm-ecosystem-report-2021-has-arrived/</link>
-      <category>Foojay</category>
-      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/NewJVMEcosystemReport2021HasArrivedfoojay.html</guid>
-      	<description>
-	&lt;p&gt;JVM Ecosystem Report 2021 presents the results of the largest annual survey on the state of the JVM ecosystem.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/new-jvm-ecosystem-report-2021-has-arrived/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1727,19 +1714,6 @@
 	</description>
     </item>
     <item>
-      <title>[Video] Security scanning within Gradle</title>
-      <link>https://dev.to/snyk/video-security-scanning-within-gradle-45dj</link>
-      <category>Dev</category>
-      <pubDate>Thu, 5 Nov 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Dev/VideoSecurityscanningwithinGradle.html</guid>
-      	<description>
-	&lt;p&gt;Check out the Snyk Gradle plugin.   Scan your thirds party open source dependencies for security...&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://dev.to/snyk/video-security-scanning-within-gradle-45dj&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>How to Configure Your Java XML Parsers to Prevent XXE Attacks ...</title>
       <link>https://foojay.io/today/how-to-configure-your-java-xml-parsers-to-prevent-xxe-attacks/</link>
       <category>Foojay</category>
@@ -1749,6 +1723,19 @@
 	&lt;p&gt;With XML eXternal Entity (XXE) enabled, it is possible to create a malicious XML, and read the content of an arbitrary file on the machine.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://foojay.io/today/how-to-configure-your-java-xml-parsers-to-prevent-xxe-attacks/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>[Video] Security scanning within Gradle</title>
+      <link>https://dev.to/snyk/video-security-scanning-within-gradle-45dj</link>
+      <category>Dev</category>
+      <pubDate>Thu, 5 Nov 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Dev/VideoSecurityscanningwithinGradle.html</guid>
+      	<description>
+	&lt;p&gt;Check out the Snyk Gradle plugin.   Scan your thirds party open source dependencies for security...&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://dev.to/snyk/video-security-scanning-within-gradle-45dj&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1788,19 +1775,6 @@
 	&lt;p&gt;We created a Gradle plugin so you can now scan your application for security vulnerabilities in third-party libraries as part of your build cycle.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/gradle-plugin-by-snyk-gradle-dependencies-scanning/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Fixing Vulnerabilities in Maven-Based Projects | foojay</title>
-      <link>https://foojay.io/today/fixing-vulnerabilities-in-maven-projects/</link>
-      <category>Foojay</category>
-      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/FixingVulnerabilitiesinMavenBasedProjectsfoojay.html</guid>
-      	<description>
-	&lt;p&gt;In this article, I will explain how you can fix vulnerabilities in third-party libraries when using Maven, even when it is not obvious.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/fixing-vulnerabilities-in-maven-projects/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
