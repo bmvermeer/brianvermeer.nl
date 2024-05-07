@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Mon, 6 May 2024 06:19:37 +0000</pubDate>
-    <lastBuildDate>Mon, 6 May 2024 06:19:37 +0000</lastBuildDate>
+    <pubDate>Tue, 7 May 2024 06:18:46 +0000</pubDate>
+    <lastBuildDate>Tue, 7 May 2024 06:18:46 +0000</lastBuildDate>
 
     <item>
       <title>Nine Docker pro tips for Node.js developers</title>
@@ -751,6 +751,19 @@
 	</description>
     </item>
     <item>
+      <title>Security Warning: Your Java Attack Surface Just Got Bigger | Foojay.io</title>
+      <link>https://foojay.io/today/security-warning-your-java-attack-surface-just-got-bigger/</link>
+      <category>Foojay</category>
+      <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/SecurityWarningYourJavaAttackSurfaceJustGotBiggerFoojayio.html</guid>
+      	<description>
+	&lt;p&gt;Learn about common threats, vulnerabilities, and misconfiguration including the recently disclosed issues in Log4j.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/security-warning-your-java-attack-surface-just-got-bigger/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>User Office Hours: Introduction to Snyk Code</title>
       <link>https://dev.to/snyk/user-office-hours-introduction-to-snyk-code-2mmf</link>
       <category>Dev</category>
@@ -825,19 +838,6 @@
 	&lt;p&gt;In a previous blog post, we took a look at Java&apos;s custom serialization platform and what the security...&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://dev.to/brianverm/java-json-deserialization-problems-with-the-jackson-objectmapper-fo2&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Log4Shell: Critical Log4j RCE Vulnerabilty -- Update to Version 2.15.0</title>
-      <link>https://foojay.io/today/log4shell-critical-log4j-rce-vulnerabilty-update-to-version-2-15-0/</link>
-      <category>Foojay</category>
-      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/Log4ShellCriticalLog4jRCEVulnerabiltyUpdatetoVersion2150.html</guid>
-      	<description>
-	&lt;p&gt;On Dec.10, 2021, a new, critical Log4j vulnerability was disclosed: Log4Shell. All current versions of log4j2 up to 2.14.1 are vulnerable.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/log4shell-critical-log4j-rce-vulnerabilty-update-to-version-2-15-0/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1102,19 +1102,6 @@
 	</description>
     </item>
     <item>
-      <title>New JVM Ecosystem Report 2021 Has Arrived! | foojay</title>
-      <link>https://foojay.io/today/new-jvm-ecosystem-report-2021-has-arrived/</link>
-      <category>Foojay</category>
-      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/NewJVMEcosystemReport2021HasArrivedfoojay.html</guid>
-      	<description>
-	&lt;p&gt;JVM Ecosystem Report 2021 presents the results of the largest annual survey on the state of the JVM ecosystem.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/new-jvm-ecosystem-report-2021-has-arrived/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>JVM Ecosystem report 2021</title>
       <link>https://snyk.io/jvm-ecosystem-report-2021/</link>
       <category>Snyk</category>
@@ -1125,6 +1112,19 @@
 &lt;p&gt;This year&apos;s survey is a cooperation between Snyk and Azul and was slightly different from the previous surveys. We aimed for the survey to be more concise and focus only on the most important aspects of JVM developers today. Additionally, this year every participant was allowed to choose multiple options. We believe that the way the 2021 survey was designed, we have a better and more comprehensive view of the current JVM ecosystem. In this report, we also looked at different open data sources like GitHub and Google Trends to see how that data compares to the survey results.&lt;br /&gt;
 ...&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://snyk.io/jvm-ecosystem-report-2021/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>New JVM Ecosystem Report 2021 Has Arrived! | foojay</title>
+      <link>https://foojay.io/today/new-jvm-ecosystem-report-2021-has-arrived/</link>
+      <category>Foojay</category>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/NewJVMEcosystemReport2021HasArrivedfoojay.html</guid>
+      	<description>
+	&lt;p&gt;JVM Ecosystem Report 2021 presents the results of the largest annual survey on the state of the JVM ecosystem.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/new-jvm-ecosystem-report-2021-has-arrived/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
