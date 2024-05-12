@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sat, 11 May 2024 06:17:24 +0000</pubDate>
-    <lastBuildDate>Sat, 11 May 2024 06:17:24 +0000</lastBuildDate>
+    <pubDate>Sun, 12 May 2024 06:18:53 +0000</pubDate>
+    <lastBuildDate>Sun, 12 May 2024 06:18:53 +0000</lastBuildDate>
 
     <item>
       <title>Nine Docker pro tips for Node.js developers</title>
@@ -78,7 +78,7 @@
       <title>Handling security vulnerabilities in Spring Boot</title>
       <link>https://snyk.io/blog/security-vulnerabilities-spring-boot/</link>
       <category>Snyk</category>
-      <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/HandlingsecurityvulnerabilitiesinSpringBoot.html</guid>
       	<description>
 	&lt;p&gt;In this blog, we&apos;ll demonstrate the best way to find and remediate open source vulnerabilities in Spring Boot.&lt;/p&gt;
@@ -130,7 +130,7 @@
       <title>Using JLink to create smaller Docker images for your Spring Boot ...</title>
       <link>https://snyk.io/blog/jlink-create-docker-images-spring-boot-java/</link>
       <category>Snyk</category>
-      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/UsingJLinktocreatesmallerDockerimagesforyourSpringBoot.html</guid>
       	<description>
 	&lt;p&gt;In this blog post, we&apos;ll present an in-depth exploration of utilizing JLink to optimize Docker image sizes, enhancing application security and performance.&lt;/p&gt;
@@ -156,7 +156,7 @@
       <title>8 tips for securing your CI/CD pipeline with Snyk</title>
       <link>https://snyk.io/blog/securing-ci-cd-pipeline-with-snyk/</link>
       <category>Snyk</category>
-      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/8tipsforsecuringyourCICDpipelinewithSnyk.html</guid>
       	<description>
 	&lt;p&gt;In this post, we’ll cover using Snyk in your CI/CD pipelines to catch security issues quickly and empower your developers to fix them before they ever get to production.&lt;/p&gt;
@@ -312,7 +312,7 @@
       <title>Exploring the Spring Security authorization bypass (CVE-2022 ...</title>
       <link>https://snyk.io/blog/spring-security-authorization-bypass-cve-2022-31692/</link>
       <category>Snyk</category>
-      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/ExploringtheSpringSecurityauthorizationbypassCVE2022.html</guid>
       	<description>
 	&lt;p&gt;Learn about the recently discovered Spring Security authorization bypass (CVE-2022-31692) and learn steps to mitigate.&lt;/p&gt;
@@ -338,7 +338,7 @@
       <title>Unsafe deserialization vulnerability in SnakeYaml (CVE-2022-1471)</title>
       <link>https://snyk.io/blog/unsafe-deserialization-snakeyaml-java-cve-2022-1471/</link>
       <category>Snyk</category>
-      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/UnsafedeserializationvulnerabilityinSnakeYamlCVE20221471.html</guid>
       	<description>
 	&lt;p&gt;SnakeYaml, a YAML 1.1 parser and emitter for Java, has been reported as vulnerable to CVE-2022-1471, a deserialization vulnerability that can lead to arbitrary code execution.&lt;/p&gt;
