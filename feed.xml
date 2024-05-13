@@ -6,14 +6,14 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sun, 12 May 2024 06:18:53 +0000</pubDate>
-    <lastBuildDate>Sun, 12 May 2024 06:18:53 +0000</lastBuildDate>
+    <pubDate>Mon, 13 May 2024 06:19:30 +0000</pubDate>
+    <lastBuildDate>Mon, 13 May 2024 06:19:30 +0000</lastBuildDate>
 
     <item>
       <title>Nine Docker pro tips for Node.js developers</title>
       <link>https://snyk.io/blog/nine-docker-pro-tips-node-js-developers/</link>
       <category>Snyk</category>
-      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 9 Apr 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/NineDockerprotipsforNodejsdevelopers.html</guid>
       	<description>
 	&lt;p&gt;In this post, we dive into nine lesser-known yet highly effective commands that can significantly improve your Docker experience in Node.js.&lt;/p&gt;
@@ -169,7 +169,7 @@
       <title>SnakeYaml 2.0: Solving the unsafe deserialization vulnerability</title>
       <link>https://snyk.io/blog/snakeyaml-unsafe-deserialization-vulnerability/</link>
       <category>Snyk</category>
-      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/SnakeYaml20Solvingtheunsafedeserializationvulnerability.html</guid>
       	<description>
 	&lt;p&gt;In this post, we&apos;ll walk you through using SnakeYaml 2.0 to solve the unsafe deserialization vulnerability.&lt;/p&gt;
@@ -208,7 +208,7 @@
       <title>Preventing Cross-Site Scripting (XSS) in Java applications with Snyk ...</title>
       <link>https://snyk.io/blog/preventing-xss-snyk-code/</link>
       <category>Snyk</category>
-      <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 23 Apr 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/PreventingCrossSiteScriptingXSSinJavaapplicationswithSnyk.html</guid>
       	<description>
 	&lt;p&gt;In this post, we&apos;ll demonstrate how Snyk Code can help you prevent cross-site scripting (XSS) vulnerabilities in Java.&lt;/p&gt;
@@ -2575,7 +2575,7 @@
       <title>10 Java security best practices</title>
       <link>https://snyk.io/blog/10-java-security-best-practices/</link>
       <category>Snyk</category>
-      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/10Javasecuritybestpractices.html</guid>
       	<description>
 	&lt;p&gt;In this cheat sheet edition, we’re going to focus on ten Java security best practices for both open source maintainers and developers.&lt;/p&gt;
