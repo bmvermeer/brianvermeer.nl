@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Thu, 23 May 2024 06:20:18 +0000</pubDate>
-    <lastBuildDate>Thu, 23 May 2024 06:20:18 +0000</lastBuildDate>
+    <pubDate>Fri, 24 May 2024 06:20:05 +0000</pubDate>
+    <lastBuildDate>Fri, 24 May 2024 06:20:05 +0000</lastBuildDate>
 
     <item>
       <title>Nine Docker pro tips for Node.js developers</title>
@@ -2299,19 +2299,6 @@
 	</description>
     </item>
     <item>
-      <title>Ghostcat breach affects all Tomcat versions</title>
-      <link>https://snyk.io/blog/ghostcat-breach-affects-all-tomcat-versions/</link>
-      <category>Snyk</category>
-      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/GhostcatbreachaffectsallTomcatversions.html</guid>
-      	<description>
-	&lt;p&gt;The vulnerability was found in the Apache JServ Protocol (AJP). The issue is that this binary protocol allows an attacker to read or include any file into Tomcat webapp directories.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/ghostcat-breach-affects-all-tomcat-versions/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Ghostcat breach affects all Tomcat versions | Snyk</title>
       <link>https://snyk.io/blog/ghostcat-breach-affects-all-tomcat-versions/</link>
       <category>Snyk</category>
@@ -2319,6 +2306,19 @@
       <guid isPermaLink="false">blog/generated/Snyk/GhostcatbreachaffectsallTomcatversionsSnyk.html</guid>
       	<description>
 	&lt;p&gt;Tomcat version 7 → 7.0.100Tomcat version 8 → 8.5.51Tomcat version 9 → 9.0.31&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/ghostcat-breach-affects-all-tomcat-versions/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Ghostcat breach affects all Tomcat versions</title>
+      <link>https://snyk.io/blog/ghostcat-breach-affects-all-tomcat-versions/</link>
+      <category>Snyk</category>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/GhostcatbreachaffectsallTomcatversions.html</guid>
+      	<description>
+	&lt;p&gt;The vulnerability was found in the Apache JServ Protocol (AJP). The issue is that this binary protocol allows an attacker to read or include any file into Tomcat webapp directories.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/ghostcat-breach-affects-all-tomcat-versions/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
