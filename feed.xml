@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Fri, 21 Jun 2024 06:20:48 +0000</pubDate>
-    <lastBuildDate>Fri, 21 Jun 2024 06:20:48 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Jun 2024 06:19:48 +0000</pubDate>
+    <lastBuildDate>Sat, 22 Jun 2024 06:19:48 +0000</lastBuildDate>
 
     <item>
       <title>Nine Docker pro tips for Node.js developers</title>
@@ -907,19 +907,6 @@
 	</description>
     </item>
     <item>
-      <title>How Social Trends Help Me Fix Essential Vulnerabilities | Foojay.io ...</title>
-      <link>https://foojay.io/today/how-social-trends-help-me-fix-essential-vulnerabilities/</link>
-      <category>Foojay</category>
-      <pubDate>Wed, 3 Nov 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/HowSocialTrendsHelpMeFixEssentialVulnerabilitiesFoojayio.html</guid>
-      	<description>
-	&lt;p&gt;Our research team found a correlation between socially trending vulnerabilities and the existence of exploits that can harm your application.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/how-social-trends-help-me-fix-essential-vulnerabilities/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Discussion: The State of Java 2021 | Foojay.io Today</title>
       <link>https://foojay.io/today/discussion-state-of-java-2021/</link>
       <category>Foojay</category>
@@ -1558,19 +1545,6 @@
 	</description>
     </item>
     <item>
-      <title>Minimizing Security Risks in Application Development | foojay</title>
-      <link>https://foojay.io/today/minimizing-security-risks-in-java-application-development/</link>
-      <category>Foojay</category>
-      <pubDate>Mon, 7 Dec 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/MinimizingSecurityRisksinApplicationDevelopmentfoojay.html</guid>
-      	<description>
-	&lt;p&gt;United by their passion for open source, Payara and IBM recently teamed up for a panel discussion on security in Java application development.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/minimizing-security-risks-in-java-application-development/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>[Podcast] Barcoding podcast - Episode 13: Security</title>
       <link>https://dev.to/brianverm/podcast-barcoding-podcast-episode-13-security-k0p</link>
       <category>Dev</category>
@@ -1675,19 +1649,6 @@
 	</description>
     </item>
     <item>
-      <title>[Video] Security scanning within Gradle</title>
-      <link>https://dev.to/snyk/video-security-scanning-within-gradle-45dj</link>
-      <category>Dev</category>
-      <pubDate>Thu, 5 Nov 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Dev/VideoSecurityscanningwithinGradle.html</guid>
-      	<description>
-	&lt;p&gt;Check out the Snyk Gradle plugin.   Scan your thirds party open source dependencies for security...&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://dev.to/snyk/video-security-scanning-within-gradle-45dj&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>How to Configure Your Java XML Parsers to Prevent XXE Attacks ...</title>
       <link>https://foojay.io/today/how-to-configure-your-java-xml-parsers-to-prevent-xxe-attacks/</link>
       <category>Foojay</category>
@@ -1697,6 +1658,19 @@
 	&lt;p&gt;With XML eXternal Entity (XXE) enabled, it is possible to create a malicious XML, and read the content of an arbitrary file on the machine.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://foojay.io/today/how-to-configure-your-java-xml-parsers-to-prevent-xxe-attacks/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>[Video] Security scanning within Gradle</title>
+      <link>https://dev.to/snyk/video-security-scanning-within-gradle-45dj</link>
+      <category>Dev</category>
+      <pubDate>Thu, 5 Nov 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Dev/VideoSecurityscanningwithinGradle.html</guid>
+      	<description>
+	&lt;p&gt;Check out the Snyk Gradle plugin.   Scan your thirds party open source dependencies for security...&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://dev.to/snyk/video-security-scanning-within-gradle-45dj&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
