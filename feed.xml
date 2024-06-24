@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sun, 23 Jun 2024 06:19:25 +0000</pubDate>
-    <lastBuildDate>Sun, 23 Jun 2024 06:19:25 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Jun 2024 06:20:38 +0000</pubDate>
+    <lastBuildDate>Mon, 24 Jun 2024 06:20:38 +0000</lastBuildDate>
 
     <item>
       <title>Nine Docker pro tips for Node.js developers</title>
@@ -169,7 +169,7 @@
       <title>SnakeYaml 2.0: Solving the unsafe deserialization vulnerability</title>
       <link>https://snyk.io/blog/snakeyaml-unsafe-deserialization-vulnerability/</link>
       <category>Snyk</category>
-      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/SnakeYaml20Solvingtheunsafedeserializationvulnerability.html</guid>
       	<description>
 	&lt;p&gt;In this post, we&apos;ll walk you through using SnakeYaml 2.0 to solve the unsafe deserialization vulnerability.&lt;/p&gt;
