@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Fri, 16 Aug 2024 06:20:59 +0000</pubDate>
-    <lastBuildDate>Fri, 16 Aug 2024 06:20:59 +0000</lastBuildDate>
+    <pubDate>Sat, 17 Aug 2024 06:19:46 +0000</pubDate>
+    <lastBuildDate>Sat, 17 Aug 2024 06:19:46 +0000</lastBuildDate>
 
     <item>
       <title>Four easy ways to analyze your Java and Kotlin code for security ...</title>
@@ -361,11 +361,11 @@
 	</description>
     </item>
     <item>
-      <title>Unsafe deserialization in SnakeYaml - Exploring CVE-2022-1471 ...</title>
+      <title>Unsafe deserialization vulnerability in SnakeYaml (CVE-2022-1471)</title>
       <link>https://snyk.io/blog/unsafe-deserialization-snakeyaml-java-cve-2022-1471/</link>
       <category>Snyk</category>
       <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/UnsafedeserializationinSnakeYamlExploringCVE20221471.html</guid>
+      <guid isPermaLink="false">blog/generated/Snyk/UnsafedeserializationvulnerabilityinSnakeYamlCVE20221471.html</guid>
       	<description>
 	&lt;p&gt;SnakeYaml, a YAML 1.1 parser and emitter for Java, has been reported as vulnerable to CVE-2022-1471, a deserialization vulnerability that can lead to arbitrary code execution.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
