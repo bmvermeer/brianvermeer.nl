@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sun, 18 Aug 2024 06:20:33 +0000</pubDate>
-    <lastBuildDate>Sun, 18 Aug 2024 06:20:33 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Aug 2024 06:21:44 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Aug 2024 06:21:44 +0000</lastBuildDate>
 
     <item>
       <title>Four easy ways to analyze your Java and Kotlin code for security ...</title>
@@ -208,7 +208,7 @@
       <title>How to generate an SBOM for JavaScript and Node.js applications ...</title>
       <link>https://snyk.io/blog/generate-sbom-javascript-node-js-applications/</link>
       <category>Snyk</category>
-      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/HowtogenerateanSBOMforJavaScriptandNodejsapplications.html</guid>
       	<description>
 	&lt;p&gt;Follow our step by step guide to generating an SBOM for JavaScript and Node.js applications using the Snyk API or CLI tool.&lt;/p&gt;
