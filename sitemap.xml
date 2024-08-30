@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>https://www.brianvermeer.nl/publications.html</loc>
-        <lastmod>2024-08-29</lastmod>
+        <lastmod>2024-08-30</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/talks.html</loc>
@@ -11,6 +11,10 @@
     <url>
         <loc>https://www.brianvermeer.nl/index.html</loc>
         <lastmod>2021-06-01</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/ThepersistentthreatWhymajorvulnerabilitieslikeLog4Shelland.html</loc>
+        <lastmod>2024-08-29</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/FoureasywaystoanalyzeyourJavaandKotlincodeforsecurity.html</loc>
@@ -349,11 +353,11 @@
         <lastmod>2021-06-21</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/manual/JVM_report_2021.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/NewJVMEcosystemReport2021HasArrivedfoojay.html</loc>
         <lastmod>2021-06-17</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/NewJVMEcosystemReport2021HasArrivedfoojay.html</loc>
+        <loc>https://www.brianvermeer.nl/blog/manual/JVM_report_2021.html</loc>
         <lastmod>2021-06-17</lastmod>
     </url>
     <url>
@@ -833,10 +837,6 @@
         <lastmod>2019-07-24</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/ThetoptwomostpopularDockerbaseimageseachhaveover500.html</loc>
-        <lastmod>2019-04-16</lastmod>
-    </url>
-    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/TakeactionstoimprovesecurityinyourDockerimagesSnyk.html</loc>
         <lastmod>2019-04-16</lastmod>
     </url>
@@ -846,6 +846,10 @@
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/80ofdevelopersarenotaddressingDockersecurity.html</loc>
+        <lastmod>2019-04-16</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/ThetoptwomostpopularDockerbaseimageseachhaveover500.html</loc>
         <lastmod>2019-04-16</lastmod>
     </url>
     <url>
@@ -1017,11 +1021,11 @@
         <lastmod>2021-09-09</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/talks/2021/devoxx-pl-2021.html</loc>
+        <loc>https://www.brianvermeer.nl/talks/2021/devoxx-pl-2021_2.html</loc>
         <lastmod>2021-08-26</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/talks/2021/devoxx-pl-2021_2.html</loc>
+        <loc>https://www.brianvermeer.nl/talks/2021/devoxx-pl-2021.html</loc>
         <lastmod>2021-08-26</lastmod>
     </url>
     <url>
