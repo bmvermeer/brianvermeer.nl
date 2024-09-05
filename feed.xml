@@ -6,14 +6,14 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Wed, 4 Sep 2024 06:22:39 +0000</pubDate>
-    <lastBuildDate>Wed, 4 Sep 2024 06:22:39 +0000</lastBuildDate>
+    <pubDate>Thu, 5 Sep 2024 06:22:11 +0000</pubDate>
+    <lastBuildDate>Thu, 5 Sep 2024 06:22:11 +0000</lastBuildDate>
 
     <item>
       <title>The persistent threat: Why major vulnerabilities like Log4Shell and ...</title>
       <link>https://snyk.io/blog/log4shell-spring4shell-threat/</link>
       <category>Snyk</category>
-      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/ThepersistentthreatWhymajorvulnerabilitieslikeLog4Shelland.html</guid>
       	<description>
 	&lt;p&gt;Read on to learn about the danger of the continued use of vulnerable Log4j and Spring Framework versions in many projects.&lt;/p&gt;
