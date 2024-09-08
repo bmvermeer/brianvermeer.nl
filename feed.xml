@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sat, 7 Sep 2024 06:20:51 +0000</pubDate>
-    <lastBuildDate>Sat, 7 Sep 2024 06:20:51 +0000</lastBuildDate>
+    <pubDate>Sun, 8 Sep 2024 06:20:30 +0000</pubDate>
+    <lastBuildDate>Sun, 8 Sep 2024 06:20:30 +0000</lastBuildDate>
 
     <item>
       <title>The persistent threat: Why major vulnerabilities like Log4Shell and ...</title>
@@ -621,6 +621,19 @@
 	</description>
     </item>
     <item>
+      <title>Exploring CVE-2022-33980: the Apache Commons configuration ...</title>
+      <link>https://snyk.io/blog/cve-2022-33980-apache-commons-configuration-rce-vulnerability/</link>
+      <category>Snyk</category>
+      <pubDate>Thu, 7 Jul 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/ExploringCVE202233980theApacheCommonsconfiguration.html</guid>
+      	<description>
+	&lt;p&gt;In this post, we’ll explore CVE-2022-33980, the Apache Commons configuration RCE vulnerability. However, we want to make it clear that there’s no need for panic. This is not Log4Shell all over again. This is simple configuration manipulation.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/cve-2022-33980-apache-commons-configuration-rce-vulnerability/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>Deserialization exploits in Java: why should I care?</title>
       <link>https://dev.to/brianverm/deserialization-exploits-in-java-why-should-i-care-doc</link>
       <category>Dev</category>
@@ -1020,6 +1033,19 @@
 	&lt;p&gt;If you are still running on an old Maven version like 3.6.3 or below, you need to upgrade to version 3.8.1 because of security reasons.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://foojay.io/today/why-you-should-upgrade-to-maven-version-3-8-1-today-or-very-soon/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Brian Vermeer named one of Business Insider&apos;s &quot;21 Top Developers ...</title>
+      <link>https://snyk.io/blog/brian-vermeer-business-insider-21-top-developers-shaping-tech/</link>
+      <category>Snyk</category>
+      <pubDate>Mon, 2 Aug 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/BrianVermeernamedoneofBusinessInsiders21TopDevelopers.html</guid>
+      	<description>
+	&lt;p&gt;We’re excited to share that Brian Vermeer, Developer Advocate at Snyk, has been named to Business Insider’s Top 21 Developers Shaping Tech and Forging New Paths&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/brian-vermeer-business-insider-21-top-developers-shaping-tech/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
