@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Fri, 13 Sep 2024 06:22:39 +0000</pubDate>
-    <lastBuildDate>Fri, 13 Sep 2024 06:22:39 +0000</lastBuildDate>
+    <pubDate>Sat, 14 Sep 2024 06:22:01 +0000</pubDate>
+    <lastBuildDate>Sat, 14 Sep 2024 06:22:01 +0000</lastBuildDate>
 
     <item>
       <title>The persistent threat: Why major vulnerabilities like Log4Shell and ...</title>
@@ -26,7 +26,7 @@
       <title>Four easy ways to analyze your Java and Kotlin code for security ...</title>
       <link>https://snyk.io/blog/analyze-java-kotlin-code/</link>
       <category>Snyk</category>
-      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/FoureasywaystoanalyzeyourJavaandKotlincodeforsecurity.html</guid>
       	<description>
 	&lt;p&gt;In this post, we&apos;ll cover four simple methods for finding security vulnerabilities in your Java and Kotlin code.&lt;/p&gt;
@@ -117,7 +117,7 @@
       <title>Handling security vulnerabilities in Spring Boot</title>
       <link>https://snyk.io/blog/security-vulnerabilities-spring-boot/</link>
       <category>Snyk</category>
-      <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/HandlingsecurityvulnerabilitiesinSpringBoot.html</guid>
       	<description>
 	&lt;p&gt;In this blog, we&apos;ll demonstrate the best way to find and remediate open source vulnerabilities in Spring Boot.&lt;/p&gt;
@@ -247,7 +247,7 @@
       <title>Preventing Cross-Site Scripting (XSS) in Java applications with Snyk ...</title>
       <link>https://snyk.io/blog/preventing-xss-snyk-code/</link>
       <category>Snyk</category>
-      <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 23 Apr 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/PreventingCrossSiteScriptingXSSinJavaapplicationswithSnyk.html</guid>
       	<description>
 	&lt;p&gt;In this post, we&apos;ll demonstrate how Snyk Code can help you prevent cross-site scripting (XSS) vulnerabilities in Java.&lt;/p&gt;
