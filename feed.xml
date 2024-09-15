@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sat, 14 Sep 2024 06:22:01 +0000</pubDate>
-    <lastBuildDate>Sat, 14 Sep 2024 06:22:01 +0000</lastBuildDate>
+    <pubDate>Sun, 15 Sep 2024 06:21:32 +0000</pubDate>
+    <lastBuildDate>Sun, 15 Sep 2024 06:21:32 +0000</lastBuildDate>
 
     <item>
       <title>The persistent threat: Why major vulnerabilities like Log4Shell and ...</title>
@@ -169,7 +169,7 @@
       <title>Using JLink to create smaller Docker images for your Spring Boot ...</title>
       <link>https://snyk.io/blog/jlink-create-docker-images-spring-boot-java/</link>
       <category>Snyk</category>
-      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/UsingJLinktocreatesmallerDockerimagesforyourSpringBoot.html</guid>
       	<description>
 	&lt;p&gt;In this blog post, we&apos;ll present an in-depth exploration of utilizing JLink to optimize Docker image sizes, enhancing application security and performance.&lt;/p&gt;
@@ -312,7 +312,7 @@
       <title>Mitigating path traversal vulns in Java with Snyk Code</title>
       <link>https://snyk.io/blog/mitigating-path-traversal-java-snyk-code/</link>
       <category>Snyk</category>
-      <pubDate>Sun, 5 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 4 Mar 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/MitigatingpathtraversalvulnsinJavawithSnykCode.html</guid>
       	<description>
 	&lt;p&gt;Whether you&apos;re a developer or simply interested in learning more about security in Java, this post will provide you with information and insights to help keep your Java applications secure.&lt;/p&gt;
