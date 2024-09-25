@@ -6,14 +6,14 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Tue, 24 Sep 2024 06:23:43 +0000</pubDate>
-    <lastBuildDate>Tue, 24 Sep 2024 06:23:43 +0000</lastBuildDate>
+    <pubDate>Wed, 25 Sep 2024 06:23:55 +0000</pubDate>
+    <lastBuildDate>Wed, 25 Sep 2024 06:23:55 +0000</lastBuildDate>
 
     <item>
       <title>The Persistent Threat: Why Major Vulnerabilities Like Log4Shell and ...</title>
       <link>https://foojay.io/today/the-persistent-threat-why-major-vulnerabilities-like-log4shell-and-spring4shell-remain-significant/</link>
       <category>Foojay</category>
-      <pubDate>Tue, 24 Sep 2024 06:23:40 +0000</pubDate>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Foojay/ThePersistentThreatWhyMajorVulnerabilitiesLikeLog4Shelland.html</guid>
       	<description>
 	&lt;p&gt;A lurking issue has been surprisingly overlooked: the continued use of vulnerable Log4j and Spring Framework versions in many projects.&lt;/p&gt;
