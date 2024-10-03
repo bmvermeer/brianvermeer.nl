@@ -6,14 +6,14 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Wed, 2 Oct 2024 06:23:03 +0000</pubDate>
-    <lastBuildDate>Wed, 2 Oct 2024 06:23:03 +0000</lastBuildDate>
+    <pubDate>Thu, 3 Oct 2024 06:23:16 +0000</pubDate>
+    <lastBuildDate>Thu, 3 Oct 2024 06:23:16 +0000</lastBuildDate>
 
     <item>
       <title>Foojay Podcast #58: How Java Developers Can Secure Their Code</title>
       <link>https://foojay.io/today/foojay-podcast-58-how-java-developers-can-secure-their-code/</link>
       <category>Foojay</category>
-      <pubDate>Wed, 2 Oct 2024 06:22:59 +0000</pubDate>
+      <pubDate>Thu, 3 Oct 2024 06:23:13 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Foojay/FoojayPodcast58HowJavaDevelopersCanSecureTheirCode.html</guid>
       	<description>
 	&lt;p&gt;Three years after Log4Shell caused a significant security issue, we still struggle with insecure dependencies and injection problems...&lt;/p&gt;
@@ -244,6 +244,19 @@
 	</description>
     </item>
     <item>
+      <title>Preventing Cross-Site Scripting (XSS) in Java applications with Snyk ...</title>
+      <link>https://foojay.io/today/preventing-cross-site-scripting-xss-in-java-applications-with-snyk-code/</link>
+      <category>Foojay</category>
+      <pubDate>Thu, 8 Jun 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/PreventingCrossSiteScriptingXSSinJavaapplicationswithSnyk.html</guid>
+      	<description>
+	&lt;p&gt;null&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/preventing-cross-site-scripting-xss-in-java-applications-with-snyk-code/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>How to generate an SBOM for JavaScript and Node.js applications ...</title>
       <link>https://snyk.io/blog/generate-sbom-javascript-node-js-applications/</link>
       <category>Snyk</category>
@@ -357,6 +370,19 @@
 	&lt;p&gt;Whether you&apos;re a developer or simply interested in learning more about security in Java, this post will provide you with information and insights to help keep your Java applications secure.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/mitigating-path-traversal-java-snyk-code/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Unsafe Deserialization Vulnerability in SnakeYaml | Foojay.io</title>
+      <link>https://foojay.io/today/unsafe-deserialization-vulnerability-in-snakeyaml-cve-2022-1471/</link>
+      <category>Foojay</category>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/UnsafeDeserializationVulnerabilityinSnakeYamlFoojayio.html</guid>
+      	<description>
+	&lt;p&gt;org.yaml:snakeyaml package is widely used in the Java ecosystem, in part because it is packaged by default in the spring-boot-starter.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/unsafe-deserialization-vulnerability-in-snakeyaml-cve-2022-1471/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -725,6 +751,19 @@
 	</description>
     </item>
     <item>
+      <title>How to do password hashing in Java applications the right way ...</title>
+      <link>https://foojay.io/today/how-to-do-password-hashing-in-java-applications-the-right-way/</link>
+      <category>Foojay</category>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/HowtodopasswordhashinginJavaapplicationstherightway.html</guid>
+      	<description>
+	&lt;p&gt;null&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/how-to-do-password-hashing-in-java-applications-the-right-way/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>3 Jedi-inspired lessons to level up your JavaScript security</title>
       <link>https://snyk.io/blog/jedi-lessons-to-level-up-javascript-security/</link>
       <category>Snyk</category>
@@ -738,19 +777,6 @@
 	</description>
     </item>
     <item>
-      <title>Spring4Shell extends to Glassfish and Payara: same vulnerability ...</title>
-      <link>https://snyk.io/blog/spring4shell-rce-vulnerability-glassfish-payara/</link>
-      <category>Snyk</category>
-      <pubDate>Thu, 7 Apr 2022 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/Spring4ShellextendstoGlassfishandPayarasamevulnerability.html</guid>
-      	<description>
-	&lt;p&gt;You’ve heard of Spring4Shell, now learn about similar exploits for Glassfish and Payara that leverage the same issue in Spring, but with a different payload.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/spring4shell-rce-vulnerability-glassfish-payara/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Spring4Shell: The zero-day RCE in the Spring Framework explained</title>
       <link>https://foojay.io/today/spring4shell-the-zero-day-rce-in-the-spring-framework-explained-ready/</link>
       <category>Foojay</category>
@@ -760,6 +786,19 @@
 	&lt;p&gt;We’ll explore how remote code execution (RCE) works, explaining Spring4Shell, a zero-day vulnerability in the Spring framework that could allow for RCE&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://foojay.io/today/spring4shell-the-zero-day-rce-in-the-spring-framework-explained-ready/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Spring4Shell extends to Glassfish and Payara: same vulnerability ...</title>
+      <link>https://snyk.io/blog/spring4shell-rce-vulnerability-glassfish-payara/</link>
+      <category>Snyk</category>
+      <pubDate>Thu, 7 Apr 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/Spring4ShellextendstoGlassfishandPayarasamevulnerability.html</guid>
+      	<description>
+	&lt;p&gt;You’ve heard of Spring4Shell, now learn about similar exploits for Glassfish and Payara that leverage the same issue in Spring, but with a different payload.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/spring4shell-rce-vulnerability-glassfish-payara/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1089,6 +1128,19 @@
 	</description>
     </item>
     <item>
+      <title>Getting Started with Snyk for Secure Java Development | Foojay Today</title>
+      <link>https://foojay.io/today/getting-started-with-snyk-for-secure-java-development/</link>
+      <category>Foojay</category>
+      <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/GettingStartedwithSnykforSecureJavaDevelopmentFoojayToday.html</guid>
+      	<description>
+	&lt;p&gt;Learn how to begin with Snyk for secure Java development so that you too can be more secure from the get-go!&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/getting-started-with-snyk-for-secure-java-development/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>Why you should upgrade to Maven version 3.8.1</title>
       <link>https://snyk.io/blog/why-you-should-upgrade-to-maven-version-3-8-1/</link>
       <category>Snyk</category>
@@ -1137,6 +1189,19 @@
 	&lt;p&gt;Snyk has just released the annual JVM ecosystem report! This report presents the results of the...&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://dev.to/brianverm/jvm-ecosystem-report-2021-3hp&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>New JVM Ecosystem Report 2021 Has Arrived! – foojay</title>
+      <link>https://foojay.io/today/new-jvm-ecosystem-report-2021-has-arrived/</link>
+      <category>Foojay</category>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/NewJVMEcosystemReport2021HasArrivedfoojay.html</guid>
+      	<description>
+	&lt;p&gt;null&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/new-jvm-ecosystem-report-2021-has-arrived/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1467,19 +1532,6 @@
 	</description>
     </item>
     <item>
-      <title>Explaining Java Deserialization Vulnerabilities (Part 2) | foojay</title>
-      <link>https://foojay.io/today/explaining-java-deserialization-vulnerabilities-part-2/</link>
-      <category>Foojay</category>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/ExplainingJavaDeserializationVulnerabilitiesPart2foojay.html</guid>
-      	<description>
-	&lt;p&gt;In this part, we continue with even more harmful attacks and show you how you can prevent this in your own code.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/explaining-java-deserialization-vulnerabilities-part-2/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Identify, prioritize, and fix vulnerabilities with Reachable ...</title>
       <link>https://snyk.io/blog/identify-security-vulnerabilities-with-reachable-vulnerabilities-for-github/</link>
       <category>Snyk</category>
@@ -1489,6 +1541,19 @@
 	&lt;p&gt;In a perfect world, you want to do vulnerability remediation on all issues and end with zero vulnerabilities. But you may not be able to fix all the vulnerabilities at once. You want to start with the most vulnerable issues that impact your application and start vulnerability remediation from there.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/identify-security-vulnerabilities-with-reachable-vulnerabilities-for-github/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Explaining Java Deserialization Vulnerabilities (Part 2) | foojay</title>
+      <link>https://foojay.io/today/explaining-java-deserialization-vulnerabilities-part-2/</link>
+      <category>Foojay</category>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/ExplainingJavaDeserializationVulnerabilitiesPart2foojay.html</guid>
+      	<description>
+	&lt;p&gt;In this part, we continue with even more harmful attacks and show you how you can prevent this in your own code.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/explaining-java-deserialization-vulnerabilities-part-2/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1662,13 +1727,13 @@
 	</description>
     </item>
     <item>
-      <title>Use Query Parameterization to Prevent Injection | foojay</title>
+      <title>Use Query Parameterization to Prevent Injection – foojay</title>
       <link>https://foojay.io/today/use-query-parameterization-to-prevent-injection/</link>
       <category>Foojay</category>
       <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Foojay/UseQueryParameterizationtoPreventInjectionfoojay.html</guid>
       	<description>
-	&lt;p&gt;Tip: By distinguishing between the SQL code and the parameter data, the query can’t be hijacked by malicious input.&lt;/p&gt;
+	&lt;p&gt;null&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://foojay.io/today/use-query-parameterization-to-prevent-injection/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
@@ -1710,32 +1775,6 @@
 	&lt;p&gt;In addition to the functional aspect of logging, logs are also critical from a Java security perspective. When a security breach occurs, your log files are&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/java-logging-what-should-you-log-and-what-not/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Avoid Java Serialization: The Gift That Keeps On Giving | foojay</title>
-      <link>https://foojay.io/today/avoid-java-serialization/</link>
-      <category>Foojay</category>
-      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/AvoidJavaSerializationTheGiftThatKeepsOnGivingfoojay.html</guid>
-      	<description>
-	&lt;p&gt;If you need to Deserialize an inputstream yourself, you should use an ObjectsInputStream with restrictions.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/avoid-java-serialization/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>How to Configure Your Java XML Parsers to Prevent XXE Attacks ...</title>
-      <link>https://foojay.io/today/how-to-configure-your-java-xml-parsers-to-prevent-xxe-attacks/</link>
-      <category>Foojay</category>
-      <pubDate>Thu, 5 Nov 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/HowtoConfigureYourJavaXMLParserstoPreventXXEAttacks.html</guid>
-      	<description>
-	&lt;p&gt;With XML eXternal Entity (XXE) enabled, it is possible to create a malicious XML, and read the content of an arbitrary file on the machine.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/how-to-configure-your-java-xml-parsers-to-prevent-xxe-attacks/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1788,19 +1827,6 @@
 	&lt;p&gt;We created a Gradle plugin so you can now scan your application for security vulnerabilities in third-party libraries as part of your build cycle.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/gradle-plugin-by-snyk-gradle-dependencies-scanning/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Fixing Vulnerabilities in Maven Projects – foojay</title>
-      <link>https://foojay.io/today/fixing-vulnerabilities-in-maven-projects/</link>
-      <category>Foojay</category>
-      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/FixingVulnerabilitiesinMavenProjectsfoojay.html</guid>
-      	<description>
-	&lt;p&gt;null&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/fixing-vulnerabilities-in-maven-projects/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
