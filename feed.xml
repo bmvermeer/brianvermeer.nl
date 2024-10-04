@@ -6,14 +6,14 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Thu, 3 Oct 2024 06:23:16 +0000</pubDate>
-    <lastBuildDate>Thu, 3 Oct 2024 06:23:16 +0000</lastBuildDate>
+    <pubDate>Fri, 4 Oct 2024 06:24:05 +0000</pubDate>
+    <lastBuildDate>Fri, 4 Oct 2024 06:24:05 +0000</lastBuildDate>
 
     <item>
       <title>Foojay Podcast #58: How Java Developers Can Secure Their Code</title>
       <link>https://foojay.io/today/foojay-podcast-58-how-java-developers-can-secure-their-code/</link>
       <category>Foojay</category>
-      <pubDate>Thu, 3 Oct 2024 06:23:13 +0000</pubDate>
+      <pubDate>Fri, 4 Oct 2024 06:24:02 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Foojay/FoojayPodcast58HowJavaDevelopersCanSecureTheirCode.html</guid>
       	<description>
 	&lt;p&gt;Three years after Log4Shell caused a significant security issue, we still struggle with insecure dependencies and injection problems...&lt;/p&gt;
@@ -32,6 +32,19 @@
 	&lt;p&gt;A lurking issue has been surprisingly overlooked: the continued use of vulnerable Log4j and Spring Framework versions in many projects.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://foojay.io/today/the-persistent-threat-why-major-vulnerabilities-like-log4shell-and-spring4shell-remain-significant/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Four Easy Ways to Analyze your Java and Kotlin Code for Security ...</title>
+      <link>https://foojay.io/today/four-easy-ways-to-analyze-your-java-and-kotlin-code-for-security-problems/</link>
+      <category>Foojay</category>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/FourEasyWaystoAnalyzeyourJavaandKotlinCodeforSecurity.html</guid>
+      	<description>
+	&lt;p&gt;null&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/four-easy-ways-to-analyze-your-java-and-kotlin-code-for-security-problems/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -751,13 +764,13 @@
 	</description>
     </item>
     <item>
-      <title>How to do password hashing in Java applications the right way ...</title>
+      <title>How to do password hashing in Java applications the right way</title>
       <link>https://foojay.io/today/how-to-do-password-hashing-in-java-applications-the-right-way/</link>
       <category>Foojay</category>
       <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Foojay/HowtodopasswordhashinginJavaapplicationstherightway.html</guid>
       	<description>
-	&lt;p&gt;null&lt;/p&gt;
+	&lt;p&gt;The first rule of password hashing algorithms is: Don&apos;t write your own password hashing algorithm! Let&apos;s learn how we do password hashing.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://foojay.io/today/how-to-do-password-hashing-in-java-applications-the-right-way/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
@@ -777,19 +790,6 @@
 	</description>
     </item>
     <item>
-      <title>Spring4Shell: The zero-day RCE in the Spring Framework explained</title>
-      <link>https://foojay.io/today/spring4shell-the-zero-day-rce-in-the-spring-framework-explained-ready/</link>
-      <category>Foojay</category>
-      <pubDate>Thu, 7 Apr 2022 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/Spring4ShellThezerodayRCEintheSpringFrameworkexplained.html</guid>
-      	<description>
-	&lt;p&gt;We’ll explore how remote code execution (RCE) works, explaining Spring4Shell, a zero-day vulnerability in the Spring framework that could allow for RCE&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/spring4shell-the-zero-day-rce-in-the-spring-framework-explained-ready/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Spring4Shell extends to Glassfish and Payara: same vulnerability ...</title>
       <link>https://snyk.io/blog/spring4shell-rce-vulnerability-glassfish-payara/</link>
       <category>Snyk</category>
@@ -799,6 +799,19 @@
 	&lt;p&gt;You’ve heard of Spring4Shell, now learn about similar exploits for Glassfish and Payara that leverage the same issue in Spring, but with a different payload.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/spring4shell-rce-vulnerability-glassfish-payara/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Spring4Shell: The zero-day RCE in the Spring Framework explained</title>
+      <link>https://foojay.io/today/spring4shell-the-zero-day-rce-in-the-spring-framework-explained-ready/</link>
+      <category>Foojay</category>
+      <pubDate>Thu, 7 Apr 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/Spring4ShellThezerodayRCEintheSpringFrameworkexplained.html</guid>
+      	<description>
+	&lt;p&gt;We’ll explore how remote code execution (RCE) works, explaining Spring4Shell, a zero-day vulnerability in the Spring framework that could allow for RCE&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/spring4shell-the-zero-day-rce-in-the-spring-framework-explained-ready/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1193,19 +1206,6 @@
 	</description>
     </item>
     <item>
-      <title>New JVM Ecosystem Report 2021 Has Arrived! – foojay</title>
-      <link>https://foojay.io/today/new-jvm-ecosystem-report-2021-has-arrived/</link>
-      <category>Foojay</category>
-      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/NewJVMEcosystemReport2021HasArrivedfoojay.html</guid>
-      	<description>
-	&lt;p&gt;null&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/new-jvm-ecosystem-report-2021-has-arrived/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>JVM Ecosystem report 2021</title>
       <link>https://snyk.io/jvm-ecosystem-report-2021/</link>
       <category>Snyk</category>
@@ -1216,6 +1216,19 @@
 &lt;p&gt;This year&apos;s survey is a cooperation between Snyk and Azul and was slightly different from the previous surveys. We aimed for the survey to be more concise and focus only on the most important aspects of JVM developers today. Additionally, this year every participant was allowed to choose multiple options. We believe that the way the 2021 survey was designed, we have a better and more comprehensive view of the current JVM ecosystem. In this report, we also looked at different open data sources like GitHub and Google Trends to see how that data compares to the survey results.&lt;br /&gt;
 ...&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://snyk.io/jvm-ecosystem-report-2021/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>New JVM Ecosystem Report 2021 Has Arrived! – foojay</title>
+      <link>https://foojay.io/today/new-jvm-ecosystem-report-2021-has-arrived/</link>
+      <category>Foojay</category>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/NewJVMEcosystemReport2021HasArrivedfoojay.html</guid>
+      	<description>
+	&lt;p&gt;null&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/new-jvm-ecosystem-report-2021-has-arrived/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1723,19 +1736,6 @@
 	&lt;p&gt;Check out this Snyk CLI cheatsheet. The Snyk CLI is the go-to tool to test, monitor, and remediate known vulnerabilities in your applications.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/snyk-cli-cheat-sheet/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Use Query Parameterization to Prevent Injection – foojay</title>
-      <link>https://foojay.io/today/use-query-parameterization-to-prevent-injection/</link>
-      <category>Foojay</category>
-      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/UseQueryParameterizationtoPreventInjectionfoojay.html</guid>
-      	<description>
-	&lt;p&gt;null&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/use-query-parameterization-to-prevent-injection/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
