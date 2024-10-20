@@ -6,19 +6,19 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sat, 19 Oct 2024 06:20:33 +0000</pubDate>
-    <lastBuildDate>Sat, 19 Oct 2024 06:20:33 +0000</lastBuildDate>
+    <pubDate>Sun, 20 Oct 2024 06:21:16 +0000</pubDate>
+    <lastBuildDate>Sun, 20 Oct 2024 06:21:16 +0000</lastBuildDate>
 
     <item>
       <title>Foojay Podcast #58: How Java Developers Can Secure Their Code</title>
-      <link>https://foojay.io/today/foojay-podcast-58/</link>
+      <link>https://foojay.io/today/foojay-podcast-58-how-java-developers-can-secure-their-code/</link>
       <category>Foojay</category>
       <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Foojay/FoojayPodcast58HowJavaDevelopersCanSecureTheirCode.html</guid>
       	<description>
 	&lt;p&gt;Three years after Log4Shell caused a significant security issue, we still struggle with insecure dependencies and injection problems...&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/foojay-podcast-58/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://foojay.io/today/foojay-podcast-58-how-java-developers-can-secure-their-code/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
