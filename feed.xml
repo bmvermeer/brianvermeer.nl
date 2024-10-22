@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Mon, 21 Oct 2024 06:23:31 +0000</pubDate>
-    <lastBuildDate>Mon, 21 Oct 2024 06:23:31 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Oct 2024 06:22:10 +0000</pubDate>
+    <lastBuildDate>Tue, 22 Oct 2024 06:22:10 +0000</lastBuildDate>
 
     <item>
       <title>Foojay Podcast #58: How Java Developers Can Secure Their Code</title>
@@ -117,7 +117,7 @@
       <title>10 GitHub Security Best Practices</title>
       <link>https://snyk.io/blog/ten-git-hub-security-best-practices/</link>
       <category>Snyk</category>
-      <pubDate>Sat, 3 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 4 Feb 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/10GitHubSecurityBestPractices.html</guid>
       	<description>
 	&lt;p&gt;Learn more about 10 GitHub Security Best Practices to be more secure as a GitHub user or contributor.&lt;/p&gt;
@@ -299,7 +299,7 @@
       <title>Mitigating path traversal vulns in Java with Snyk Code</title>
       <link>https://snyk.io/blog/mitigating-path-traversal-java-snyk-code/</link>
       <category>Snyk</category>
-      <pubDate>Sat, 4 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 5 Mar 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/MitigatingpathtraversalvulnsinJavawithSnykCode.html</guid>
       	<description>
 	&lt;p&gt;Whether you&apos;re a developer or simply interested in learning more about security in Java, this post will provide you with information and insights to help keep your Java applications secure.&lt;/p&gt;
@@ -598,7 +598,7 @@
       <title>Spring4Shell: The zero-day RCE in the Spring Framework explained ...</title>
       <link>https://snyk.io/blog/spring4shell-zero-day-rce-spring-framework-explained/</link>
       <category>Snyk</category>
-      <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/Spring4ShellThezerodayRCEintheSpringFrameworkexplained.html</guid>
       	<description>
 	&lt;p&gt;On March 30, 2022, a critical remote code execution (RCE) vulnerability was found in the Spring Framework. This vulnerability is another example of why securing the software supply chain is important to open source.&lt;/p&gt;

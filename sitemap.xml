@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>https://www.brianvermeer.nl/publications.html</loc>
-        <lastmod>2024-10-21</lastmod>
+        <lastmod>2024-10-22</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/talks.html</loc>
@@ -46,7 +46,7 @@
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/10GitHubSecurityBestPractices.html</loc>
-        <lastmod>2024-02-03</lastmod>
+        <lastmod>2024-02-04</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Dev/MasteringSymmetricEncryptioninJavaAPracticalGuideforDevelopers.html</loc>
@@ -102,7 +102,7 @@
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/MitigatingpathtraversalvulnsinJavawithSnykCode.html</loc>
-        <lastmod>2023-03-04</lastmod>
+        <lastmod>2023-03-05</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Dev/ExploringtheSpringSecurityauthorizationbypassCVE202231692.html</loc>
@@ -194,7 +194,7 @@
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/Spring4ShellThezerodayRCEintheSpringFrameworkexplained.html</loc>
-        <lastmod>2022-03-30</lastmod>
+        <lastmod>2022-03-31</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Dev/UserOfficeHoursBuildingaSecureCICDPipelinewithGitHubActionsandSnyk.html</loc>
