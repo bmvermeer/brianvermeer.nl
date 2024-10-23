@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Tue, 22 Oct 2024 06:22:10 +0000</pubDate>
-    <lastBuildDate>Tue, 22 Oct 2024 06:22:10 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Oct 2024 06:23:21 +0000</pubDate>
+    <lastBuildDate>Wed, 23 Oct 2024 06:23:21 +0000</lastBuildDate>
 
     <item>
       <title>Foojay Podcast #58: How Java Developers Can Secure Their Code</title>
@@ -2130,6 +2130,19 @@
 	</description>
     </item>
     <item>
+      <title>10 Java security best practices</title>
+      <link>https://snyk.io/blog/10-java-security-best-practices/</link>
+      <category>Snyk</category>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/10Javasecuritybestpractices.html</guid>
+      	<description>
+	&lt;p&gt;In this cheat sheet edition, we’re going to focus on ten Java security best practices for both open source maintainers and developers.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/10-java-security-best-practices/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>10 Java security best practices | Snyk</title>
       <link>https://snyk.io/blog/10-java-security-best-practices/</link>
       <category>Snyk</category>
@@ -2137,19 +2150,6 @@
       <guid isPermaLink="false">blog/generated/Snyk/10JavasecuritybestpracticesSnyk.html</guid>
       	<description>
 	&lt;p&gt;In this cheat sheet edition, we’re going to focus on ten Java security best practices for both open source maintainers and developers. This cheat sheet is a&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/10-java-security-best-practices/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>10 Java security best practices</title>
-      <link>https://snyk.io/blog/10-java-security-best-practices/</link>
-      <category>Snyk</category>
-      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/10Javasecuritybestpractices.html</guid>
-      	<description>
-	&lt;p&gt;In this cheat sheet edition, we’re going to focus on ten Java security best practices for both open source maintainers and developers.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/10-java-security-best-practices/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
