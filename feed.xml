@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Wed, 23 Oct 2024 06:23:21 +0000</pubDate>
-    <lastBuildDate>Wed, 23 Oct 2024 06:23:21 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Oct 2024 06:22:46 +0000</pubDate>
+    <lastBuildDate>Thu, 24 Oct 2024 06:22:46 +0000</lastBuildDate>
 
     <item>
       <title>Foojay Podcast #58: How Java Developers Can Secure Their Code</title>
@@ -104,7 +104,7 @@
       <title>Creating SBOMs with the Snyk CLI</title>
       <link>https://snyk.io/blog/creating-sboms-snyk-cli/</link>
       <category>Snyk</category>
-      <pubDate>Tue, 6 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 7 Feb 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/CreatingSBOMswiththeSnykCLI.html</guid>
       	<description>
 	&lt;p&gt;In this post, we&apos;ll delve into what SBOMs are, why they&apos;re necessary, and their role in open source security — plus how the Snyk CLI makes generating them easier than ever.&lt;/p&gt;
@@ -195,7 +195,7 @@
       <title>8 tips for securing your CI/CD pipeline with Snyk</title>
       <link>https://snyk.io/blog/securing-ci-cd-pipeline-with-snyk/</link>
       <category>Snyk</category>
-      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/8tipsforsecuringyourCICDpipelinewithSnyk.html</guid>
       	<description>
 	&lt;p&gt;In this post, we’ll cover using Snyk in your CI/CD pipelines to catch security issues quickly and empower your developers to fix them before they ever get to production.&lt;/p&gt;
@@ -208,7 +208,7 @@
       <title>SnakeYaml 2.0: Solving the unsafe deserialization vulnerability</title>
       <link>https://snyk.io/blog/snakeyaml-unsafe-deserialization-vulnerability/</link>
       <category>Snyk</category>
-      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/SnakeYaml20Solvingtheunsafedeserializationvulnerability.html</guid>
       	<description>
 	&lt;p&gt;In this post, we&apos;ll walk you through using SnakeYaml 2.0 to solve the unsafe deserialization vulnerability.&lt;/p&gt;
@@ -273,7 +273,7 @@
       <title>Data leak in the Netherlands: What developers should learn from ...</title>
       <link>https://snyk.io/blog/data-leak-netherlands/</link>
       <category>Snyk</category>
-      <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/DataleakintheNetherlandsWhatdevelopersshouldlearnfrom.html</guid>
       	<description>
 	&lt;p&gt;In this post, we&apos;ll discuss the recent data leaks in the Netherlands and what developers can learn from these security incidents.&lt;/p&gt;
@@ -325,7 +325,7 @@
       <title>Exploring the Spring Security authorization bypass (CVE-2022 ...</title>
       <link>https://snyk.io/blog/spring-security-authorization-bypass-cve-2022-31692/</link>
       <category>Snyk</category>
-      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/ExploringtheSpringSecurityauthorizationbypassCVE2022.html</guid>
       	<description>
 	&lt;p&gt;Learn about the recently discovered Spring Security authorization bypass (CVE-2022-31692) and learn steps to mitigate.&lt;/p&gt;
@@ -351,7 +351,7 @@
       <title>Unsafe deserialization vulnerability in SnakeYaml (CVE-2022-1471)</title>
       <link>https://snyk.io/blog/unsafe-deserialization-snakeyaml-java-cve-2022-1471/</link>
       <category>Snyk</category>
-      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/UnsafedeserializationvulnerabilityinSnakeYamlCVE20221471.html</guid>
       	<description>
 	&lt;p&gt;SnakeYaml, a YAML 1.1 parser and emitter for Java, has been reported as vulnerable to CVE-2022-1471, a deserialization vulnerability that can lead to arbitrary code execution.&lt;/p&gt;

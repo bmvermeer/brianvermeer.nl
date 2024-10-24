@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>https://www.brianvermeer.nl/publications.html</loc>
-        <lastmod>2024-10-23</lastmod>
+        <lastmod>2024-10-24</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/talks.html</loc>
@@ -42,7 +42,7 @@
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/CreatingSBOMswiththeSnykCLI.html</loc>
-        <lastmod>2024-02-06</lastmod>
+        <lastmod>2024-02-07</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/10GitHubSecurityBestPractices.html</loc>
@@ -70,11 +70,11 @@
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/8tipsforsecuringyourCICDpipelinewithSnyk.html</loc>
-        <lastmod>2023-07-18</lastmod>
+        <lastmod>2023-07-19</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SnakeYaml20Solvingtheunsafedeserializationvulnerability.html</loc>
-        <lastmod>2023-06-19</lastmod>
+        <lastmod>2023-06-20</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/HowtogenerateanSBOMforJavaScriptandNodejsapplications.html</loc>
@@ -94,7 +94,7 @@
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/DataleakintheNetherlandsWhatdevelopersshouldlearnfrom.html</loc>
-        <lastmod>2023-03-29</lastmod>
+        <lastmod>2023-03-30</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Dev/MitigatingpathtraversalvulnsinJavawithSnykCode.html</loc>
@@ -110,7 +110,7 @@
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/ExploringtheSpringSecurityauthorizationbypassCVE2022.html</loc>
-        <lastmod>2022-12-14</lastmod>
+        <lastmod>2022-12-15</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Dev/UnsafedeserializationvulnerabilityinSnakeYamlCVE20221471.html</loc>
@@ -118,7 +118,7 @@
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/UnsafedeserializationvulnerabilityinSnakeYamlCVE20221471.html</loc>
-        <lastmod>2022-12-12</lastmod>
+        <lastmod>2022-12-13</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Dev/HowtocreateSBOMsinJavawithMavenandGradle.html</loc>
