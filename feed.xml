@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Thu, 24 Oct 2024 06:22:46 +0000</pubDate>
-    <lastBuildDate>Thu, 24 Oct 2024 06:22:46 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Oct 2024 06:22:34 +0000</pubDate>
+    <lastBuildDate>Fri, 25 Oct 2024 06:22:34 +0000</lastBuildDate>
 
     <item>
       <title>Foojay Podcast #58: How Java Developers Can Secure Their Code</title>
@@ -65,7 +65,7 @@
       <title>Four easy ways to analyze your Java and Kotlin code for security ...</title>
       <link>https://snyk.io/blog/analyze-java-kotlin-code/</link>
       <category>Snyk</category>
-      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/FoureasywaystoanalyzeyourJavaandKotlincodeforsecurity.html</guid>
       	<description>
 	&lt;p&gt;In this post, we&apos;ll cover four simple methods for finding security vulnerabilities in your Java and Kotlin code.&lt;/p&gt;
@@ -143,7 +143,7 @@
       <title>Handling security vulnerabilities in Spring Boot</title>
       <link>https://snyk.io/blog/security-vulnerabilities-spring-boot/</link>
       <category>Snyk</category>
-      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/HandlingsecurityvulnerabilitiesinSpringBoot.html</guid>
       	<description>
 	&lt;p&gt;In this blog, we&apos;ll demonstrate the best way to find and remediate open source vulnerabilities in Spring Boot.&lt;/p&gt;
