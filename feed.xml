@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Fri, 25 Oct 2024 06:22:34 +0000</pubDate>
-    <lastBuildDate>Fri, 25 Oct 2024 06:22:34 +0000</lastBuildDate>
+    <pubDate>Sat, 26 Oct 2024 06:20:35 +0000</pubDate>
+    <lastBuildDate>Sat, 26 Oct 2024 06:20:35 +0000</lastBuildDate>
 
     <item>
       <title>Foojay Podcast #58: How Java Developers Can Secure Their Code</title>
@@ -78,7 +78,7 @@
       <title>Preventing SQL injection in C# with Entity Framework</title>
       <link>https://snyk.io/blog/preventing-sql-injection-entity-framework/</link>
       <category>Snyk</category>
-      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/PreventingSQLinjectioninCwithEntityFramework.html</guid>
       	<description>
 	&lt;p&gt;In this blog, we&apos;ll discuss strategies to protect your C# code from SQL injection.&lt;/p&gt;
@@ -91,7 +91,7 @@
       <title>Nine Docker pro tips for Node.js developers</title>
       <link>https://snyk.io/blog/nine-docker-pro-tips-node-js-developers/</link>
       <category>Snyk</category>
-      <pubDate>Tue, 9 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/NineDockerprotipsforNodejsdevelopers.html</guid>
       	<description>
 	&lt;p&gt;In this post, we dive into nine lesser-known yet highly effective commands that can significantly improve your Docker experience in Node.js.&lt;/p&gt;
@@ -247,7 +247,7 @@
       <title>Preventing Cross-Site Scripting (XSS) in Java applications with Snyk ...</title>
       <link>https://snyk.io/blog/preventing-xss-snyk-code/</link>
       <category>Snyk</category>
-      <pubDate>Sun, 23 Apr 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/PreventingCrossSiteScriptingXSSinJavaapplicationswithSnyk.html</guid>
       	<description>
 	&lt;p&gt;In this post, we&apos;ll demonstrate how Snyk Code can help you prevent cross-site scripting (XSS) vulnerabilities in Java.&lt;/p&gt;
