@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Fri, 1 Nov 2024 06:23:36 +0000</pubDate>
-    <lastBuildDate>Fri, 1 Nov 2024 06:23:36 +0000</lastBuildDate>
+    <pubDate>Sat, 2 Nov 2024 06:23:04 +0000</pubDate>
+    <lastBuildDate>Sat, 2 Nov 2024 06:23:04 +0000</lastBuildDate>
 
     <item>
       <title>Foojay Podcast #58: How Java Developers Can Secure Their Code</title>
@@ -182,7 +182,7 @@
       <title>Using JLink to create smaller Docker images for your Spring Boot ...</title>
       <link>https://snyk.io/blog/jlink-create-docker-images-spring-boot-java/</link>
       <category>Snyk</category>
-      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Snyk/UsingJLinktocreatesmallerDockerimagesforyourSpringBoot.html</guid>
       	<description>
 	&lt;p&gt;In this blog post, we&apos;ll present an in-depth exploration of utilizing JLink to optimize Docker image sizes, enhancing application security and performance.&lt;/p&gt;
