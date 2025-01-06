@@ -6,35 +6,9 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sun, 5 Jan 2025 06:20:54 +0000</pubDate>
-    <lastBuildDate>Sun, 5 Jan 2025 06:20:54 +0000</lastBuildDate>
+    <pubDate>Mon, 6 Jan 2025 06:23:10 +0000</pubDate>
+    <lastBuildDate>Mon, 6 Jan 2025 06:23:10 +0000</lastBuildDate>
 
-    <item>
-      <title>Foojay Podcast #58: How Java Developers Can Secure Their Code</title>
-      <link>https://foojay.io/today/foojay-podcast-58/</link>
-      <category>Foojay</category>
-      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/FoojayPodcast58HowJavaDevelopersCanSecureTheirCode.html</guid>
-      	<description>
-	&lt;p&gt;Three years after Log4Shell caused a significant security issue, we still struggle with insecure dependencies and injection problems...&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/foojay-podcast-58/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>The Persistent Threat: Why Major Vulnerabilities Like Log4Shell and ...</title>
-      <link>https://foojay.io/today/the-persistent-threat-why-major-vulnerabilities-like-log4shell-and-spring4shell-remain-significant/</link>
-      <category>Foojay</category>
-      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/ThePersistentThreatWhyMajorVulnerabilitiesLikeLog4Shelland.html</guid>
-      	<description>
-	&lt;p&gt;A lurking issue has been surprisingly overlooked: the continued use of vulnerable Log4j and Spring Framework versions in many projects.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/the-persistent-threat-why-major-vulnerabilities-like-log4shell-and-spring4shell-remain-significant/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
     <item>
       <title>The persistent threat: Why major vulnerabilities like Log4Shell and ...</title>
       <link>https://snyk.io/blog/log4shell-spring4shell-threat/</link>
