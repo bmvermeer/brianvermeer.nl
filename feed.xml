@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Tue, 28 Jan 2025 06:21:07 +0000</pubDate>
-    <lastBuildDate>Tue, 28 Jan 2025 06:21:07 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Jan 2025 06:21:15 +0000</pubDate>
+    <lastBuildDate>Wed, 29 Jan 2025 06:21:15 +0000</lastBuildDate>
 
     <item>
       <title>The persistent threat: Why major vulnerabilities like Log4Shell and ...</title>
@@ -422,6 +422,19 @@
 	&lt;p&gt;In this article, I’ll give you some advice and best practices for dealing with Java dependencies in your project.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/best-practices-for-managing-java-dependencies/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>10 best practices to build Java containers with Docker  Blog ...</title>
+      <link>https://snyk.io/blog/best-practices-to-build-java-containers-with-docker/</link>
+      <category>Snyk</category>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/10bestpracticestobuildJavacontainerswithDockerBlog.html</guid>
+      	<description>
+	&lt;p&gt;Learn how to create an optimized secure Java container for your application. This cheatsheet is the guide you need to create a Java container with Docker.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/best-practices-to-build-java-containers-with-docker/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -1047,19 +1060,6 @@
 	&lt;p&gt;Hello Java developers!   Just like in 2020, we are creating a comprehensive Java 2021 report that ref...&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://dev.to/brianverm/java-ecosystem-survey-2021-we-need-your-input-51bn&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>10 best practices to build Java containers with Docker  Blog ...</title>
-      <link>https://snyk.io/blog/best-practices-to-build-java-containers-with-docker/</link>
-      <category>Snyk</category>
-      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/10bestpracticestobuildJavacontainerswithDockerBlog.html</guid>
-      	<description>
-	&lt;p&gt;Learn how to create an optimized secure Java container for your application. This cheatsheet is the guide you need to create a Java container with Docker.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/best-practices-to-build-java-containers-with-docker/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
