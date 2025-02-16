@@ -6,9 +6,22 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sat, 15 Feb 2025 06:20:55 +0000</pubDate>
-    <lastBuildDate>Sat, 15 Feb 2025 06:20:55 +0000</lastBuildDate>
+    <pubDate>Sun, 16 Feb 2025 06:20:17 +0000</pubDate>
+    <lastBuildDate>Sun, 16 Feb 2025 06:20:17 +0000</lastBuildDate>
 
+    <item>
+      <title>Creating SBOMs with the Snyk CLI</title>
+      <link>https://snyk.io/blog/creating-sboms-snyk-cli/</link>
+      <category>Snyk</category>
+      <pubDate>Tue, 4 Feb 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Snyk/CreatingSBOMswiththeSnykCLI.html</guid>
+      	<description>
+	&lt;p&gt;In this post, we&apos;ll delve into what SBOMs are, why they&apos;re necessary, and their role in open source security — plus how the Snyk CLI makes generating them easier than ever.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://snyk.io/blog/creating-sboms-snyk-cli/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
     <item>
       <title>The persistent threat: Why major vulnerabilities like Log4Shell and ...</title>
       <link>https://snyk.io/blog/log4shell-spring4shell-threat/</link>
@@ -58,19 +71,6 @@
 	&lt;p&gt;In this post, we dive into nine lesser-known yet highly effective commands that can significantly improve your Docker experience in Node.js.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/nine-docker-pro-tips-node-js-developers/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Creating SBOMs with the Snyk CLI</title>
-      <link>https://snyk.io/blog/creating-sboms-snyk-cli/</link>
-      <category>Snyk</category>
-      <pubDate>Wed, 7 Feb 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Snyk/CreatingSBOMswiththeSnykCLI.html</guid>
-      	<description>
-	&lt;p&gt;In this post, we&apos;ll delve into what SBOMs are, why they&apos;re necessary, and their role in open source security — plus how the Snyk CLI makes generating them easier than ever.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://snyk.io/blog/creating-sboms-snyk-cli/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
