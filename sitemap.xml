@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>https://www.brianvermeer.nl/publications.html</loc>
-        <lastmod>2025-04-17</lastmod>
+        <lastmod>2025-04-18</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/talks.html</loc>
@@ -19,10 +19,6 @@
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/CreatingSBOMswiththeSnykCLI.html</loc>
         <lastmod>2025-02-04</lastmod>
-    </url>
-    <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/FoojayPodcast58HowJavaDevelopersCanSecureTheirCode.html</loc>
-        <lastmod>2024-09-29</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/ThepersistentthreatWhymajorvulnerabilitieslikeLog4Shelland.html</loc>
@@ -54,10 +50,6 @@
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SecuringsymmetricencryptionalgorithmsinJava.html</loc>
-        <lastmod>2023-10-17</lastmod>
-    </url>
-    <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/SecuringSymmetricEncryptionAlgorithmsinJava.html</loc>
         <lastmod>2023-10-17</lastmod>
     </url>
     <url>
