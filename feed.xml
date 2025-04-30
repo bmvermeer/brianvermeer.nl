@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Tue, 29 Apr 2025 06:26:05 +0000</pubDate>
-    <lastBuildDate>Tue, 29 Apr 2025 06:26:05 +0000</lastBuildDate>
+    <pubDate>Wed, 30 Apr 2025 06:26:31 +0000</pubDate>
+    <lastBuildDate>Wed, 30 Apr 2025 06:26:31 +0000</lastBuildDate>
 
     <item>
       <title>Path Traversal Vulnerability in Deep Java Library (DJL)</title>
