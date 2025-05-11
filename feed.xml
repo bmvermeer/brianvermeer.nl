@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sat, 10 May 2025 06:23:58 +0000</pubDate>
-    <lastBuildDate>Sat, 10 May 2025 06:23:58 +0000</lastBuildDate>
+    <pubDate>Sun, 11 May 2025 06:24:50 +0000</pubDate>
+    <lastBuildDate>Sun, 11 May 2025 06:24:50 +0000</lastBuildDate>
 
     <item>
       <title>Path Traversal Vulnerability in Deep Java Library (DJL)</title>
@@ -127,11 +127,11 @@
 	</description>
     </item>
     <item>
-      <title>a place for friends of OpenJDK - foojay</title>
+      <title>foojay – a place for friends of OpenJDK</title>
       <link>https://foojay.io/today/mitigating-path-traversal-vulnerabilities-in-java/</link>
       <category>Foojay</category>
       <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/aplaceforfriendsofOpenJDKfoojay.html</guid>
+      <guid isPermaLink="false">blog/generated/Foojay/foojayaplaceforfriendsofOpenJDK.html</guid>
       	<description>
 	&lt;p&gt;Path traversal vulnerabilities are a serious threat to Java web applications, amongst the top security issues Snyk finds in Java code.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
@@ -856,19 +856,6 @@
 	</description>
     </item>
     <item>
-      <title>Hacking Java XML Input via External Entity Injection | foojay</title>
-      <link>https://foojay.io/today/hacking-java-xml-input-via-external-entity-injection/</link>
-      <category>Foojay</category>
-      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/HackingJavaXMLInputviaExternalEntityInjectionfoojay.html</guid>
-      	<description>
-	&lt;p&gt;In this video, I explain and demonstrate how an XXE injection attack works by extracting system data that should not be exposed.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/hacking-java-xml-input-via-external-entity-injection/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
       <title>Java XML External Entity Injection - Explained and Solved</title>
       <link>https://dev.to/brianverm/java-xml-external-entity-injection-explained-and-solved-3h73</link>
       <category>Dev</category>
@@ -878,19 +865,6 @@
 	&lt;p&gt;Java natively supplies many different options to parse XML. However, all available parsers in Java ha...&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://dev.to/brianverm/java-xml-external-entity-injection-explained-and-solved-3h73&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>5 Tips to Create Secure Docker Images for Java Applications | foojay</title>
-      <link>https://foojay.io/today/5-tips-to-create-secure-docker-images-for-java-applications/</link>
-      <category>Foojay</category>
-      <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/5TipstoCreateSecureDockerImagesforJavaApplicationsfoojay.html</guid>
-      	<description>
-	&lt;p&gt;Naively creating custom Docker images for Java apps comes with security concerns. How do we make security an essential part of Docker images?&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/5-tips-to-create-secure-docker-images-for-java-applications/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
