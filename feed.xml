@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Tue, 13 May 2025 06:28:03 +0000</pubDate>
-    <lastBuildDate>Tue, 13 May 2025 06:28:03 +0000</lastBuildDate>
+    <pubDate>Wed, 14 May 2025 06:27:42 +0000</pubDate>
+    <lastBuildDate>Wed, 14 May 2025 06:27:42 +0000</lastBuildDate>
 
     <item>
       <title>Path Traversal Vulnerability in Deep Java Library (DJL)</title>
@@ -934,6 +934,19 @@
 	</description>
     </item>
     <item>
+      <title>Minimizing Security Risks in Application Development | foojay</title>
+      <link>https://foojay.io/today/minimizing-security-risks-in-java-application-development/</link>
+      <category>Foojay</category>
+      <pubDate>Mon, 7 Dec 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/MinimizingSecurityRisksinApplicationDevelopmentfoojay.html</guid>
+      	<description>
+	&lt;p&gt;United by their passion for open source, Payara and IBM recently teamed up for a panel discussion on security in Java application development.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/minimizing-security-risks-in-java-application-development/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>[Podcast] Barcoding podcast - Episode 13: Security</title>
       <link>https://dev.to/brianverm/podcast-barcoding-podcast-episode-13-security-k0p</link>
       <category>Dev</category>
@@ -956,6 +969,19 @@
 	&lt;p&gt;Check out this Snyk CLI cheatsheet. The Snyk CLI is the go-to tool to test, monitor, and remediate known vulnerabilities in your applications.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/snyk-cli-cheat-sheet/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Use Query Parameterization to Prevent Injection | foojay</title>
+      <link>https://foojay.io/today/use-query-parameterization-to-prevent-injection/</link>
+      <category>Foojay</category>
+      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/UseQueryParameterizationtoPreventInjectionfoojay.html</guid>
+      	<description>
+	&lt;p&gt;Tip: By distinguishing between the SQL code and the parameter data, the query can’t be hijacked by malicious input.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/use-query-parameterization-to-prevent-injection/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
