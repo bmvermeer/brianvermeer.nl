@@ -6,9 +6,61 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Thu, 26 Jun 2025 06:27:39 +0000</pubDate>
-    <lastBuildDate>Thu, 26 Jun 2025 06:27:39 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Jun 2025 06:29:25 +0000</pubDate>
+    <lastBuildDate>Fri, 27 Jun 2025 06:29:25 +0000</lastBuildDate>
 
+    <item>
+      <title>Foojay Podcast #72: JCon Report, Part 1 - Grow your career, public ...</title>
+      <link>https://foojay.io/today/foojay-podcast-72/</link>
+      <category>Foojay</category>
+      <pubDate>Sun, 1 Jun 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/FoojayPodcast72JConReportPart1Growyourcareerpublic.html</guid>
+      	<description>
+	&lt;p&gt;foojay is the place for all OpenJDK Update Release Information. Learn More.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/foojay-podcast-72/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Path Traversal Vulnerability in Deep Java Library (DJL)</title>
+      <link>https://foojay.io/today/path-traversal-vulnerability-in-deep-java-library-djl-and-its-impact-on-java-ai-development/</link>
+      <category>Foojay</category>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/PathTraversalVulnerabilityinDeepJavaLibraryDJL.html</guid>
+      	<description>
+	&lt;p&gt;This vulnerability highlights the importance of addressing supply chain security. If you aren&apos;t already, consider scanning your applications with Snyk to protect all application components.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/path-traversal-vulnerability-in-deep-java-library-djl-and-its-impact-on-java-ai-development/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Foojay Podcast #58: How Java Developers Can Secure Their Code</title>
+      <link>https://foojay.io/today/foojay-podcast-58/</link>
+      <category>Foojay</category>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/FoojayPodcast58HowJavaDevelopersCanSecureTheirCode.html</guid>
+      	<description>
+	&lt;p&gt;Three years after Log4Shell caused a significant security issue, we still struggle with insecure dependencies and injection problems...&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/foojay-podcast-58/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Handling security vulnerabilities in Spring Boot</title>
+      <link>https://foojay.io/today/handling-security-vulnerabilities-in-spring-boot/</link>
+      <category>Foojay</category>
+      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/HandlingsecurityvulnerabilitiesinSpringBoot.html</guid>
+      	<description>
+	&lt;p&gt;Keeping your dependencies in check is crucial to ensure that your Spring Boot projects run smoothly and remain resilient in the face of ever-evolving threats.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/handling-security-vulnerabilities-in-spring-boot/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
     <item>
       <title>Mastering Symmetric Encryption in Java: A Practical Guide for Developers</title>
       <link>https://dev.to/brianverm/mastering-symmetric-encryption-in-java-a-practical-guide-for-developers-5671</link>
@@ -32,6 +84,45 @@
 	&lt;p&gt;originally posted on Snyk.io  Containers bring new flexibility and agility to software development...&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://dev.to/brianverm/using-jlink-to-create-smaller-docker-images-for-your-spring-boot-java-application-l7i&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Using JLink to create smaller Docker images for Spring Boot apps</title>
+      <link>https://foojay.io/today/using-jlink-to-create-smaller-docker-images-for-your-spring-boot-java-application/</link>
+      <category>Foojay</category>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/UsingJLinktocreatesmallerDockerimagesforSpringBootapps.html</guid>
+      	<description>
+	&lt;p&gt;An in-depth exploration of utilizing JLink to optimize Docker image sizes, enhancing application security and performance.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/using-jlink-to-create-smaller-docker-images-for-your-spring-boot-java-application/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>SnakeYaml 2.0: Solving the unsafe deserialization vulnerability</title>
+      <link>https://foojay.io/today/snakeyaml-2-0-solving-the-unsafe-deserialization-vulnerability/</link>
+      <category>Foojay</category>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/SnakeYaml20Solvingtheunsafedeserializationvulnerability.html</guid>
+      	<description>
+	&lt;p&gt;In December of last year, we reported CVE-2022-1471 to you. This unsafe deserialization problem could easily lead to arbitrary code execution.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/snakeyaml-2-0-solving-the-unsafe-deserialization-vulnerability/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Foojay Podcast #7: Security in Java -- what do we need to know?</title>
+      <link>https://foojay.io/today/foojay-podcast-7/</link>
+      <category>Foojay</category>
+      <pubDate>Fri, 5 May 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/FoojayPodcast7SecurityinJavawhatdoweneedtoknow.html</guid>
+      	<description>
+	&lt;p&gt;We invited Java security experts to dive into the fascinating world of secure coding and detecting vulnerabilities in your Java applications!&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/foojay-podcast-7/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -62,6 +153,19 @@
 	</description>
     </item>
     <item>
+      <title>a place for friends of OpenJDK - foojay</title>
+      <link>https://foojay.io/today/mitigating-path-traversal-vulnerabilities-in-java/</link>
+      <category>Foojay</category>
+      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/aplaceforfriendsofOpenJDKfoojay.html</guid>
+      	<description>
+	&lt;p&gt;Path traversal vulnerabilities are a serious threat to Java web applications, amongst the top security issues Snyk finds in Java code.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/mitigating-path-traversal-vulnerabilities-in-java/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>Mitigating path traversal vulns in Java with Snyk Code</title>
       <link>https://dev.to/snyk/mitigating-path-traversal-vulns-in-java-with-snyk-code-4g80</link>
       <category>Dev</category>
@@ -71,6 +175,19 @@
 	&lt;p&gt;Path traversal is a type of security vulnerability that can occur when a web application or service...&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://dev.to/snyk/mitigating-path-traversal-vulns-in-java-with-snyk-code-4g80&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Unsafe Deserialization Vulnerability in SnakeYaml | Foojay.io</title>
+      <link>https://foojay.io/today/unsafe-deserialization-vulnerability-in-snakeyaml-cve-2022-1471/</link>
+      <category>Foojay</category>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/UnsafeDeserializationVulnerabilityinSnakeYamlFoojayio.html</guid>
+      	<description>
+	&lt;p&gt;org.yaml:snakeyaml package is widely used in the Java ecosystem, in part because it is packaged by default in the spring-boot-starter.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/unsafe-deserialization-vulnerability-in-snakeyaml-cve-2022-1471/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -101,6 +218,19 @@
 	</description>
     </item>
     <item>
+      <title>CVE-2022-42889: Apache Commons Text (Text4Shell) Vulnerability</title>
+      <link>https://foojay.io/today/reviewing-cve-2022-42889-arbitrary-code-execution-vulnerability-in-apache-commons-text-text4shell/</link>
+      <category>Foojay</category>
+      <pubDate>Wed, 2 Nov 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/CVE202242889ApacheCommonsTextText4ShellVulnerability.html</guid>
+      	<description>
+	&lt;p&gt;Resolve this issue by upgrading to commons-text version 1.10 (or later), which disables the prefixes URL, DNS, and script by default.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/reviewing-cve-2022-42889-arbitrary-code-execution-vulnerability-in-apache-commons-text-text4shell/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>How to create SBOMs in Java with Maven and Gradle</title>
       <link>https://dev.to/snyk/how-to-create-sboms-in-java-with-maven-and-gradle-5ffd</link>
       <category>Dev</category>
@@ -110,6 +240,19 @@
 	&lt;p&gt;When building applications in Java, we highly depend on external libraries and frameworks. And each...&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://dev.to/snyk/how-to-create-sboms-in-java-with-maven-and-gradle-5ffd&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>How to Use Java DTOs to Stay Secure | Foojay.io Today</title>
+      <link>https://foojay.io/today/how-to-use-java-dtos-to-stay-secure/</link>
+      <category>Foojay</category>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/HowtoUseJavaDTOstoStaySecureFoojayioToday.html</guid>
+      	<description>
+	&lt;p&gt;How DTOs are used in modern Java, how your apps can benefit, and how Java DTOs can help you be more secure.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/how-to-use-java-dtos-to-stay-secure/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -166,6 +309,19 @@
 	</description>
     </item>
     <item>
+      <title>Secure CI/CD Pipelines with GitHub Actions for Your Java Apps</title>
+      <link>https://foojay.io/today/building-secure-ci-cd-pipelines-with-github-actions-for-your-java-application/</link>
+      <category>Foojay</category>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/SecureCICDPipelineswithGitHubActionsforYourJavaApps.html</guid>
+      	<description>
+	&lt;p&gt;Learn how to integrate Snyk into your GitHub CI/CD to automate security scanning as part of your build cycle prior to production.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/building-secure-ci-cd-pipelines-with-github-actions-for-your-java-application/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>User Office Hours: Using the Snyk CLI for Static Code Analysis</title>
       <link>https://dev.to/snyk/user-office-hours-using-the-snyk-cli-for-static-code-analysis-pc0</link>
       <category>Dev</category>
@@ -175,6 +331,19 @@
 	&lt;p&gt;Have you made the Snyk Code CLI part of the CI/CD process yet?  Using the Snyk CLI, you can easily...&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://dev.to/snyk/user-office-hours-using-the-snyk-cli-for-static-code-analysis-pc0&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Deserialization exploits in Java: why should I Care? | Foojay Today</title>
+      <link>https://foojay.io/today/deserialization-exploits-in-java-why-should-i-care/</link>
+      <category>Foojay</category>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/DeserializationexploitsinJavawhyshouldICareFoojayToday.html</guid>
+      	<description>
+	&lt;p&gt;Deserialization vulnerabilities work natively in Java, how attack chains are created, not restricted to Java&apos;s custom serialization framework.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/deserialization-exploits-in-java-why-should-i-care/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -270,6 +439,19 @@
 	</description>
     </item>
     <item>
+      <title>Log4Shell: Critical Log4j RCE Vulnerabilty -- Update to Version 2.15.0</title>
+      <link>https://foojay.io/today/log4shell-critical-log4j-rce-vulnerabilty-update-to-version-2-15-0/</link>
+      <category>Foojay</category>
+      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/Log4ShellCriticalLog4jRCEVulnerabiltyUpdatetoVersion2150.html</guid>
+      	<description>
+	&lt;p&gt;On Dec.10, 2021, a new, critical Log4j vulnerability was disclosed: Log4Shell. All current versions of log4j2 up to 2.14.1 are vulnerable.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/log4shell-critical-log4j-rce-vulnerabilty-update-to-version-2-15-0/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>New Java 17 features for improved security and serialization</title>
       <link>https://dev.to/brianverm/new-java-17-features-for-improved-security-and-serialization-5h3f</link>
       <category>Dev</category>
@@ -283,6 +465,19 @@
 	</description>
     </item>
     <item>
+      <title>Discussion: The State of Java 2021 | Foojay.io Today</title>
+      <link>https://foojay.io/today/discussion-state-of-java-2021/</link>
+      <category>Foojay</category>
+      <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/DiscussionTheStateofJava2021FoojayioToday.html</guid>
+      	<description>
+	&lt;p&gt;A discussion with some great folks in the Java world about the highlights of the Snyk Java Ecosystem report and current developments in Java.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/discussion-state-of-java-2021/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>Security in geding bij infrastructure-as-code</title>
       <link>https://www.computable.nl/artikel/opinie/security/7234118/1509029/security-in-geding-bij-infrastructure-as-code.html</link>
       <category>Computable</category>
@@ -292,6 +487,19 @@
 	&lt;p&gt;Cloud-native-applicaties bevatten infrastructure-as-code (in het kort iac) die bepalen hoe applicaties werken binnen een cloud-infrastructuur en hoe gecontaineriseerde applicaties op Kubernetes draaien. Iac betekent snellere, herhaalbare implementaties, maar verhoogt tegelijkertijd de druk voor ontwikkelaars om niet alleen hun code te beveiligen, maar ook de infrastructuurconfiguratie, code-afhankelijkheden en containers.&lt;br /&gt;
 ...&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.computable.nl/artikel/opinie/security/7234118/1509029/security-in-geding-bij-infrastructure-as-code.html&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Why You Should Upgrade to Maven Version 3.8.1 Today or Very Soon</title>
+      <link>https://foojay.io/today/why-you-should-upgrade-to-maven-version-3-8-1-today-or-very-soon/</link>
+      <category>Foojay</category>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/WhyYouShouldUpgradetoMavenVersion381TodayorVerySoon.html</guid>
+      	<description>
+	&lt;p&gt;If you are still running on an old Maven version like 3.6.3 or below, you need to upgrade to version 3.8.1 because of security reasons.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/why-you-should-upgrade-to-maven-version-3-8-1-today-or-very-soon/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -323,6 +531,45 @@
 	</description>
     </item>
     <item>
+      <title>New JVM Ecosystem Report 2021 Has Arrived! | foojay</title>
+      <link>https://foojay.io/today/new-jvm-ecosystem-report-2021-has-arrived/</link>
+      <category>Foojay</category>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/NewJVMEcosystemReport2021HasArrivedfoojay.html</guid>
+      	<description>
+	&lt;p&gt;JVM Ecosystem Report 2021 presents the results of the largest annual survey on the state of the JVM ecosystem.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/new-jvm-ecosystem-report-2021-has-arrived/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Learn All About Java Encryption and Hashing | foojay</title>
+      <link>https://foojay.io/today/java-encryption-and-hashing/</link>
+      <category>Foojay</category>
+      <pubDate>Wed, 9 Jun 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/LearnAllAboutJavaEncryptionandHashingfoojay.html</guid>
+      	<description>
+	&lt;p&gt;What is a strong encryption algorithm today, might be a weak algorithm a year from now. Therefore, encryption needs to be reviewed regularly!&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/java-encryption-and-hashing/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Sanitize All Input! Sanitize All Input! Sanitize All Input! | foojay</title>
+      <link>https://foojay.io/today/sanitize-all-input/</link>
+      <category>Foojay</category>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/SanitizeAllInputSanitizeAllInputSanitizeAllInputfoojay.html</guid>
+      	<description>
+	&lt;p&gt;Cross-site scripting (XSS) is a well-known issue and mostly utilized in JavaScript applications. However, Java is not immune to this!&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/sanitize-all-input/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>Zo leg je fundament van productieve devsecops-cultuur</title>
       <link>https://www.computable.nl/artikel/blogs/development/7174027/5260614/zo-leg-je-fundament-van-productieve-devsecops-cultuur.html</link>
       <category>Computable</category>
@@ -336,6 +583,32 @@
 	</description>
     </item>
     <item>
+      <title>Preventing YAML Parsing Vulnerabilities in Java | foojay</title>
+      <link>https://foojay.io/today/preventing-yaml-parsing-vulnerabilities-in-java/</link>
+      <category>Foojay</category>
+      <pubDate>Wed, 5 May 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/PreventingYAMLParsingVulnerabilitiesinJavafoojay.html</guid>
+      	<description>
+	&lt;p&gt;With anchors, you can create a YAML bomb! The tremendous amount of (nested) objects will cause a memory overload.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/preventing-yaml-parsing-vulnerabilities-in-java/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Fix Java Security Issues While Coding in IntelliJ IDEA | foojay</title>
+      <link>https://foojay.io/today/fix-java-security-issues-while-coding-in-intellij-idea/</link>
+      <category>Foojay</category>
+      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/FixJavaSecurityIssuesWhileCodinginIntelliJIDEAfoojay.html</guid>
+      	<description>
+	&lt;p&gt;Let’s see how we can integrate security and secure development into IntelliJ IDEA using the new Snyk vulnerability scanner plugin!&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/fix-java-security-issues-while-coding-in-intellij-idea/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
       <title>Snyk Maven plugin: Integrated security vulnerability scanning for ...</title>
       <link>https://snyk.io/blog/snyk-maven-plugin-integrated-security-vulnerability-scanning-for-developers/</link>
       <category>Snyk</category>
@@ -345,6 +618,19 @@
 	&lt;p&gt;the Snyk Maven plugin so you can now scan your application for security vulnerabilities in third-party libraries as part of your build cycle—putting security expertise in the hands of developers.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/snyk-maven-plugin-integrated-security-vulnerability-scanning-for-developers/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>8 Best Practices to Prevent SQL Injection Attacks | foojay</title>
+      <link>https://foojay.io/today/8-best-practices-to-prevent-sql-injection-attacks/</link>
+      <category>Foojay</category>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/8BestPracticestoPreventSQLInjectionAttacksfoojay.html</guid>
+      	<description>
+	&lt;p&gt;SQL injection, when a user adds untrusted data to a database query, is one of the most dangerous vulnerabilities for online applications.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/8-best-practices-to-prevent-sql-injection-attacks/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
