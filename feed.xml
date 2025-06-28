@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Fri, 27 Jun 2025 06:29:25 +0000</pubDate>
-    <lastBuildDate>Fri, 27 Jun 2025 06:29:25 +0000</lastBuildDate>
+    <pubDate>Sat, 28 Jun 2025 06:25:54 +0000</pubDate>
+    <lastBuildDate>Sat, 28 Jun 2025 06:25:54 +0000</lastBuildDate>
 
     <item>
       <title>Foojay Podcast #72: JCon Report, Part 1 - Grow your career, public ...</title>
@@ -494,7 +494,7 @@
       <title>Why You Should Upgrade to Maven Version 3.8.1 Today or Very Soon</title>
       <link>https://foojay.io/today/why-you-should-upgrade-to-maven-version-3-8-1-today-or-very-soon/</link>
       <category>Foojay</category>
-      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Foojay/WhyYouShouldUpgradetoMavenVersion381TodayorVerySoon.html</guid>
       	<description>
 	&lt;p&gt;If you are still running on an old Maven version like 3.6.3 or below, you need to upgrade to version 3.8.1 because of security reasons.&lt;/p&gt;
