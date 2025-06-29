@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sat, 28 Jun 2025 06:25:54 +0000</pubDate>
-    <lastBuildDate>Sat, 28 Jun 2025 06:25:54 +0000</lastBuildDate>
+    <pubDate>Sun, 29 Jun 2025 06:27:14 +0000</pubDate>
+    <lastBuildDate>Sun, 29 Jun 2025 06:27:14 +0000</lastBuildDate>
 
     <item>
       <title>Foojay Podcast #72: JCon Report, Part 1 - Grow your career, public ...</title>
@@ -279,6 +279,19 @@
 	&lt;p&gt;Data Transfer Objects (DTOs) in Java are objects that transport data between subsystems. It is an...&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://dev.to/snyk/how-to-use-java-dtos-to-stay-secure-31gg&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Controlling your Server with a Reverse Shell Attack | Foojay.io</title>
+      <link>https://foojay.io/today/controlling-your-server-with-a-reverse-shell-attack/</link>
+      <category>Foojay</category>
+      <pubDate>Wed, 7 Sep 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/ControllingyourServerwithaReverseShellAttackFoojayio.html</guid>
+      	<description>
+	&lt;p&gt;The last thing you need for your happily deployed application is someone to take over your system and fully control it!&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/controlling-your-server-with-a-reverse-shell-attack/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -618,19 +631,6 @@
 	&lt;p&gt;the Snyk Maven plugin so you can now scan your application for security vulnerabilities in third-party libraries as part of your build cycle—putting security expertise in the hands of developers.&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://snyk.io/blog/snyk-maven-plugin-integrated-security-vulnerability-scanning-for-developers/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>8 Best Practices to Prevent SQL Injection Attacks | foojay</title>
-      <link>https://foojay.io/today/8-best-practices-to-prevent-sql-injection-attacks/</link>
-      <category>Foojay</category>
-      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/8BestPracticestoPreventSQLInjectionAttacksfoojay.html</guid>
-      	<description>
-	&lt;p&gt;SQL injection, when a user adds untrusted data to a database query, is one of the most dangerous vulnerabilities for online applications.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/8-best-practices-to-prevent-sql-injection-attacks/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
