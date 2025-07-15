@@ -6,35 +6,9 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Mon, 14 Jul 2025 06:30:06 +0000</pubDate>
-    <lastBuildDate>Mon, 14 Jul 2025 06:30:06 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Jul 2025 06:29:04 +0000</pubDate>
+    <lastBuildDate>Tue, 15 Jul 2025 06:29:04 +0000</lastBuildDate>
 
-    <item>
-      <title>Foojay Podcast #72: JCon Report, Part 1 - Grow your career, public ...</title>
-      <link>https://foojay.io/today/foojay-podcast-72/</link>
-      <category>Foojay</category>
-      <pubDate>Sun, 1 Jun 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/FoojayPodcast72JConReportPart1Growyourcareerpublic.html</guid>
-      	<description>
-	&lt;p&gt;foojay is the place for all OpenJDK Update Release Information. Learn More.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/foojay-podcast-72/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Path Traversal Vulnerability in Deep Java Library (DJL)</title>
-      <link>https://foojay.io/today/path-traversal-vulnerability-in-deep-java-library-djl-and-its-impact-on-java-ai-development/</link>
-      <category>Foojay</category>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/PathTraversalVulnerabilityinDeepJavaLibraryDJL.html</guid>
-      	<description>
-	&lt;p&gt;This vulnerability highlights the importance of addressing supply chain security. If you aren&apos;t already, consider scanning your applications with Snyk to protect all application components.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/path-traversal-vulnerability-in-deep-java-library-djl-and-its-impact-on-java-ai-development/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
     <item>
       <title>Mastering Symmetric Encryption in Java: A Practical Guide for Developers</title>
       <link>https://dev.to/brianverm/mastering-symmetric-encryption-in-java-a-practical-guide-for-developers-5671</link>
