@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sat, 8 Nov 2025 06:26:07 +0000</pubDate>
-    <lastBuildDate>Sat, 8 Nov 2025 06:26:07 +0000</lastBuildDate>
+    <pubDate>Sun, 9 Nov 2025 06:26:42 +0000</pubDate>
+    <lastBuildDate>Sun, 9 Nov 2025 06:26:42 +0000</lastBuildDate>
 
     <item>
       <title>Learn All About Java Encryption and Hashing | foojay</title>
@@ -19,6 +19,19 @@
 	&lt;p&gt;What is a strong encryption algorithm today, might be a weak algorithm a year from now. Therefore, encryption needs to be reviewed regularly!&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://foojay.io/today/java-encryption-and-hashing/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+	</description>
+    </item>
+    <item>
+      <title>Security Warning: Your Java Attack Surface Just Got Bigger | Foojay.io</title>
+      <link>https://foojay.io/today/security-warning-your-java-attack-surface-just-got-bigger/</link>
+      <category>Foojay</category>
+      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">blog/generated/Foojay/SecurityWarningYourJavaAttackSurfaceJustGotBiggerFoojayio.html</guid>
+      	<description>
+	&lt;p&gt;Learn about common threats, vulnerabilities, and misconfiguration including the recently disclosed issues in Log4j.&lt;/p&gt;
+&lt;p&gt;...&lt;br /&gt;
+&lt;a href=&quot;https://foojay.io/today/security-warning-your-java-attack-surface-just-got-bigger/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>
@@ -143,7 +156,7 @@
       <title>SnakeYaml 2.0: Solving the unsafe deserialization vulnerability</title>
       <link>https://foojay.io/today/snakeyaml-2-0-solving-the-unsafe-deserialization-vulnerability/</link>
       <category>Foojay</category>
-      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Foojay/SnakeYaml20Solvingtheunsafedeserializationvulnerability.html</guid>
       	<description>
 	&lt;p&gt;In December of last year, we reported CVE-2022-1471 to you. This unsafe deserialization problem could easily lead to arbitrary code execution.&lt;/p&gt;
@@ -448,19 +461,6 @@
 	&lt;p&gt;March 23, 2022   In this session, we’ll attempt to build a secure CI/CD pipeline with Github Actions...&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
 &lt;a href=&quot;https://dev.to/snyk/user-office-hours-building-a-secure-cicd-pipeline-with-github-actions-and-snyk-3jjm&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-	</description>
-    </item>
-    <item>
-      <title>Security Warning: Your Java Attack Surface Just Got Bigger | Foojay.io</title>
-      <link>https://foojay.io/today/security-warning-your-java-attack-surface-just-got-bigger/</link>
-      <category>Foojay</category>
-      <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/SecurityWarningYourJavaAttackSurfaceJustGotBiggerFoojayio.html</guid>
-      	<description>
-	&lt;p&gt;Learn about common threats, vulnerabilities, and misconfiguration including the recently disclosed issues in Log4j.&lt;/p&gt;
-&lt;p&gt;...&lt;br /&gt;
-&lt;a href=&quot;https://foojay.io/today/security-warning-your-java-attack-surface-just-got-bigger/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 
 	</description>
     </item>

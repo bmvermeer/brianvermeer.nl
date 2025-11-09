@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>https://www.brianvermeer.nl/publications.html</loc>
-        <lastmod>2025-11-08</lastmod>
+        <lastmod>2025-11-09</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/talks.html</loc>
@@ -14,6 +14,10 @@
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Foojay/LearnAllAboutJavaEncryptionandHashingfoojay.html</loc>
+        <lastmod>2025-10-29</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/SecurityWarningYourJavaAttackSurfaceJustGotBiggerFoojayio.html</loc>
         <lastmod>2025-10-29</lastmod>
     </url>
     <url>
@@ -54,7 +58,7 @@
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Foojay/SnakeYaml20Solvingtheunsafedeserializationvulnerability.html</loc>
-        <lastmod>2023-06-20</lastmod>
+        <lastmod>2023-06-25</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Foojay/FoojayPodcast7SecurityinJavawhatdoweneedtoknow.html</loc>
@@ -147,10 +151,6 @@
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Dev/UserOfficeHoursBuildingaSecureCICDPipelinewithGitHubActionsandSnyk.html</loc>
         <lastmod>2022-03-24</lastmod>
-    </url>
-    <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/SecurityWarningYourJavaAttackSurfaceJustGotBiggerFoojayio.html</loc>
-        <lastmod>2022-03-16</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Dev/UserOfficeHoursIntroductiontoSnykCode.html</loc>
