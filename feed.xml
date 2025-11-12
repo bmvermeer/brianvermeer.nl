@@ -6,8 +6,8 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Tue, 11 Nov 2025 06:29:49 +0000</pubDate>
-    <lastBuildDate>Tue, 11 Nov 2025 06:29:49 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Nov 2025 06:29:42 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Nov 2025 06:29:42 +0000</lastBuildDate>
 
     <item>
       <title>Security Warning: Your Java Attack Surface Just Got Bigger | Foojay.io</title>
@@ -39,7 +39,7 @@
       <title>Path Traversal Vulnerability in Deep Java Library (DJL)</title>
       <link>https://foojay.io/today/path-traversal-vulnerability-in-deep-java-library-djl-and-its-impact-on-java-ai-development/</link>
       <category>Foojay</category>
-      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">blog/generated/Foojay/PathTraversalVulnerabilityinDeepJavaLibraryDJL.html</guid>
       	<description>
 	&lt;p&gt;This vulnerability highlights the importance of addressing supply chain security. If you aren&apos;t already, consider scanning your applications with Snyk to protect all application components.&lt;/p&gt;
