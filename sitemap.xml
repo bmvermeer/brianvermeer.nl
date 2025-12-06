@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>https://www.brianvermeer.nl/publications.html</loc>
-        <lastmod>2025-12-05</lastmod>
+        <lastmod>2025-12-06</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/talks.html</loc>
@@ -17,12 +17,48 @@
         <lastmod>2025-10-15</lastmod>
     </url>
     <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/EnsuringSafeandReliableAIInteractionswithLLMGuardrails.html</loc>
+        <lastmod>2025-06-16</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/FoojayPodcast72JConReportPart1Growyourcareerpublic.html</loc>
+        <lastmod>2025-06-01</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/PathTraversalVulnerabilityinDeepJavaLibraryDJL.html</loc>
+        <lastmod>2025-03-10</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/FoojayPodcast58HowJavaDevelopersCanSecureTheirCode.html</loc>
+        <lastmod>2024-09-29</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/ThePersistentThreatWhyMajorVulnerabilitiesLikeLog4Shelland.html</loc>
+        <lastmod>2024-09-16</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/HandlingsecurityvulnerabilitiesinSpringBoot.html</loc>
+        <lastmod>2023-12-21</lastmod>
+    </url>
+    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Dev/MasteringSymmetricEncryptioninJavaAPracticalGuideforDevelopers.html</loc>
         <lastmod>2023-12-13</lastmod>
     </url>
     <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/SecuringSymmetricEncryptionAlgorithmsinJava.html</loc>
+        <lastmod>2023-10-17</lastmod>
+    </url>
+    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Dev/UsingJLinktocreatesmallerDockerimagesforyourSpringBootJavaapplication.html</loc>
         <lastmod>2023-09-22</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/SnakeYaml20Solvingtheunsafedeserializationvulnerability.html</loc>
+        <lastmod>2023-07-19</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/FoojayPodcast7SecurityinJavawhatdoweneedtoknow.html</loc>
+        <lastmod>2023-05-05</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Dev/PreventingCrossSiteScriptingXSSinJavaapplicationswithSnykCode.html</loc>
@@ -33,8 +69,16 @@
         <lastmod>2023-04-03</lastmod>
     </url>
     <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/aplaceforfriendsofOpenJDKfoojay.html</loc>
+        <lastmod>2023-03-23</lastmod>
+    </url>
+    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Dev/MitigatingpathtraversalvulnsinJavawithSnykCode.html</loc>
         <lastmod>2023-03-09</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/UnsafeDeserializationVulnerabilityinSnakeYamlFoojayio.html</loc>
+        <lastmod>2023-01-11</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Dev/ExploringtheSpringSecurityauthorizationbypassCVE202231692.html</loc>
@@ -45,8 +89,16 @@
         <lastmod>2022-12-14</lastmod>
     </url>
     <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/CVE202242889ApacheCommonsTextText4ShellVulnerability.html</loc>
+        <lastmod>2022-11-02</lastmod>
+    </url>
+    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Dev/HowtocreateSBOMsinJavawithMavenandGradle.html</loc>
         <lastmod>2022-11-01</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Foojay/HowtoUseJavaDTOstoStaySecureFoojayioToday.html</loc>
+        <lastmod>2022-10-20</lastmod>
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Dev/ReviewingCVE202242889ThearbitrarycodeexecutionvulnerabilityinApacheCommonsTextText4Shell.html</loc>
@@ -353,14 +405,6 @@
         <lastmod>2020-02-12</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JVMEcosystemReport2020Snyk.html</loc>
-        <lastmod>2020-02-04</lastmod>
-    </url>
-    <url>
-        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/64ofdevelopersreportthatJava8remainsthemostoftenused.html</loc>
-        <lastmod>2020-02-04</lastmod>
-    </url>
-    <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/SpringdominatestheJavaecosystemwith60usingitfortheir.html</loc>
         <lastmod>2020-02-04</lastmod>
     </url>
@@ -370,6 +414,14 @@
     </url>
     <url>
         <loc>https://www.brianvermeer.nl/blog/generated/Snyk/36ofdevelopersswitchedfromOracleJDKtoanalternate.html</loc>
+        <lastmod>2020-02-04</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/JVMEcosystemReport2020Snyk.html</loc>
+        <lastmod>2020-02-04</lastmod>
+    </url>
+    <url>
+        <loc>https://www.brianvermeer.nl/blog/generated/Snyk/64ofdevelopersreportthatJava8remainsthemostoftenused.html</loc>
         <lastmod>2020-02-04</lastmod>
     </url>
     <url>
@@ -593,11 +645,11 @@
         <lastmod>2021-09-09</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/talks/2021/devoxx-pl-2021.html</loc>
+        <loc>https://www.brianvermeer.nl/talks/2021/devoxx-pl-2021_2.html</loc>
         <lastmod>2021-08-26</lastmod>
     </url>
     <url>
-        <loc>https://www.brianvermeer.nl/talks/2021/devoxx-pl-2021_2.html</loc>
+        <loc>https://www.brianvermeer.nl/talks/2021/devoxx-pl-2021.html</loc>
         <lastmod>2021-08-26</lastmod>
     </url>
     <url>
