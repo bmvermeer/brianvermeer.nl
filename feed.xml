@@ -6,15 +6,15 @@
     <atom:link href="https://www.brianvermeer.nl/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Mon, 2 Mar 2026 06:21:29 +0000</pubDate>
-    <lastBuildDate>Mon, 2 Mar 2026 06:21:29 +0000</lastBuildDate>
+    <pubDate>Tue, 3 Mar 2026 06:18:39 +0000</pubDate>
+    <lastBuildDate>Tue, 3 Mar 2026 06:18:39 +0000</lastBuildDate>
 
     <item>
-      <title>How Chat Memory Manipulation Can Ruin Your AI System - foojay</title>
+      <title>How Chat Memory Manipulation Can Ruin Your AI System - Foojay.io</title>
       <link>https://foojay.io/today/how-chat-memory-manipulation-can-ruin-your-ai-system/</link>
       <category>Foojay</category>
       <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">blog/generated/Foojay/HowChatMemoryManipulationCanRuinYourAISystemfoojay.html</guid>
+      <guid isPermaLink="false">blog/generated/Foojay/HowChatMemoryManipulationCanRuinYourAISystemFoojayio.html</guid>
       	<description>
 	&lt;p&gt;Did you know that by tampering with chat history, you&apos;re able to make LLMs respond and execute functions that are out of policy?&lt;/p&gt;
 &lt;p&gt;...&lt;br /&gt;
